@@ -12,3 +12,4 @@
 - Electronics and hardware
 - Vehicles
 - Cooking heater or Gas
+- Air conditioner
