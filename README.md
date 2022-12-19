@@ -13,3 +13,10 @@
 - Vehicles
 - Cooking heater or Gas
 - Air conditioner
+
+# Things
+
+- Recycling
+- Limited usage
+- Self sustaining
+- 
