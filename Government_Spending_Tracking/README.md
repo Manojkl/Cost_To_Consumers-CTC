@@ -20,3 +20,4 @@
 - Community preference score
 - Innovation score
 - Profit/loss score
+- Awesomeness score
