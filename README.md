@@ -23,4 +23,4 @@
 Metrics
 
 - Real GDP by state weekly/monthly/quaterly/yearly - monitor, real time streaming
-- 
+- Explore other metrics to view the daily output/performance/growth
