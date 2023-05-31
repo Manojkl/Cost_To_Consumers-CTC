@@ -19,4 +19,8 @@
 - Recycling
 - Limited usage
 - Self sustaining
+
+Metrics
+
+- Real GDP by state weekly/monthly/quaterly/yearly - monitor, real time streaming
 - 
