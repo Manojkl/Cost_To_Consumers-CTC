@@ -24,3 +24,4 @@ Metrics
 
 - Real GDP by state weekly/monthly/quaterly/yearly - monitor, real time streaming
 - Explore other metrics to view the daily output/performance/growth
+- https://www.oecd-ilibrary.org/economics/tracking-activity-in-real-time-with-google-trends_6b9c7518-en 
