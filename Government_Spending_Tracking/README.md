@@ -21,3 +21,9 @@
 - Innovation score
 - Profit/loss score
 - Awesomeness score
+
+EXPENDITURE PROFILE 2023-2024 [URL](https://www.indiabudget.gov.in/doc/eb/vol1.pdf)
+
+![alt text](./images/Capital_vs_Department.png)
+![alt text](./images/Revenue_vs_Department.png)
+![alt text](./images/Total_Expenditure_vs_Department.png)
