@@ -16,6 +16,7 @@
 
 # Things
 
+
 - Recycling
 - Limited usage
 - Self sustaining
@@ -27,3 +28,4 @@ Metrics
 - https://www.oecd-ilibrary.org/economics/tracking-activity-in-real-time-with-google-trends_6b9c7518-en 
 - Create a android and iOS app 
 - Open source the project
+- Highest priority(issue) to check for any data manipulation.
