@@ -2,7 +2,8 @@
 - Government Project and tender projects Timings, Expenditure, Overrun tracking.
 - Loss to government/public by overrun. 
 - Corruption 
-- Milk collection from farmers location map of India
+- Milk collection/Consumption from farmers location map of India
+
 
 Create a skeleton of the project
 
