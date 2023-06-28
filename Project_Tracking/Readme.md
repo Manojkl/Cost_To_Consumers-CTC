@@ -6,6 +6,7 @@
 - Middle Man Profit data
 - Crude oil vs Electricity Cost over the years 
 - Public transport cost over the years
+- Run a automated internet speed test at regular intervals build a internet speed map and other statistics 
 
 Create a skeleton of the project
 
