@@ -1,2 +1,2 @@
-Live vegetable price map of India - Update on daily basis
-Vendors list, 
+- Live vegetable price map of India - Update on a daily basis
+- Vendors list
