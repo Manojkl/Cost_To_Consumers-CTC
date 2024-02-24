@@ -8,6 +8,7 @@
 - Public transport cost over the years
 - Run a automated internet speed test at regular intervals build a internet speed map and other statistics 
 - Load shedding tracking 
+- Water supply/shortage tracking
 
 Create a skeleton of the project
 
