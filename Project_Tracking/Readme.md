@@ -2,6 +2,13 @@
 - Government Project and tender projects Timings, Expenditure, Overrun tracking.
 - Loss to government/public by overrun. 
 - Corruption 
+- Milk collection/Consumption from farmers location map of India
+- Middle Man Profit data
+- Crude oil vs Electricity Cost over the years 
+- Public transport cost over the years
+- Run a automated internet speed test at regular intervals build a internet speed map and other statistics 
+- Load shedding tracking 
+- Water supply/shortage tracking
 
 Create a skeleton of the project
 
