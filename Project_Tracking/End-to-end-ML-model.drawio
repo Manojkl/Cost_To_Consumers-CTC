@@ -1,0 +1,157 @@
+<mxfile host="app.diagrams.net" modified="2023-11-04T05:02:09.088Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="h7Eb7dV3M2h0o2_qFMHO" version="21.3.8" type="device">
+  <diagram name="Page-1" id="SmsXyfJdwUF5adyl-eeP">
+    <mxGraphModel dx="783" dy="1659" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="GieXPxPeobN2TjCoTGMT-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GieXPxPeobN2TjCoTGMT-1" target="GieXPxPeobN2TjCoTGMT-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GieXPxPeobN2TjCoTGMT-1" value="Define the Business Problem&lt;br&gt;Machine Learning - A branch of computer science that learns patterns from the data and accurately predicts when presented with unseen data.&amp;nbsp;&lt;br&gt;Problem: Learn the pattern from a large set of handwritten digits images and make accurate prediction" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="207.51" y="-160" width="467.25" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="GieXPxPeobN2TjCoTGMT-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GieXPxPeobN2TjCoTGMT-2" target="GieXPxPeobN2TjCoTGMT-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GieXPxPeobN2TjCoTGMT-2" value="Data questions&lt;br&gt;Do we have enough data with us&lt;br&gt;How is the quality of the data" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="206.14" y="160" width="470" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="GieXPxPeobN2TjCoTGMT-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GieXPxPeobN2TjCoTGMT-3" target="GieXPxPeobN2TjCoTGMT-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GieXPxPeobN2TjCoTGMT-3" value="Data collection" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="348.63" y="310" width="185" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="GieXPxPeobN2TjCoTGMT-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GieXPxPeobN2TjCoTGMT-4" target="GieXPxPeobN2TjCoTGMT-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GieXPxPeobN2TjCoTGMT-4" value="Data visualization" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="348.63" y="460" width="185" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="GieXPxPeobN2TjCoTGMT-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GieXPxPeobN2TjCoTGMT-5" target="GieXPxPeobN2TjCoTGMT-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GieXPxPeobN2TjCoTGMT-5" value="Data Preparation" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="348.63" y="590" width="185" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="GieXPxPeobN2TjCoTGMT-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GieXPxPeobN2TjCoTGMT-6" target="GieXPxPeobN2TjCoTGMT-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GieXPxPeobN2TjCoTGMT-6" value="Choosing the model" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="348.63" y="730" width="185" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="GieXPxPeobN2TjCoTGMT-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GieXPxPeobN2TjCoTGMT-7" target="GieXPxPeobN2TjCoTGMT-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GieXPxPeobN2TjCoTGMT-7" value="Training the model" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="348.63" y="870" width="185" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="GieXPxPeobN2TjCoTGMT-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GieXPxPeobN2TjCoTGMT-8" target="GieXPxPeobN2TjCoTGMT-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GieXPxPeobN2TjCoTGMT-8" value="Evaluate the model" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="348.63" y="1010" width="185" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="GieXPxPeobN2TjCoTGMT-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GieXPxPeobN2TjCoTGMT-9" target="GieXPxPeobN2TjCoTGMT-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GieXPxPeobN2TjCoTGMT-9" value="Parameter tuning" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="348.63" y="1410" width="185" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="GieXPxPeobN2TjCoTGMT-10" value="Make the prediction" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="348.64" y="1550" width="185" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="GieXPxPeobN2TjCoTGMT-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GieXPxPeobN2TjCoTGMT-11" target="GieXPxPeobN2TjCoTGMT-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GieXPxPeobN2TjCoTGMT-11" value="Try different model" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="348.63" y="1150" width="185" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="GieXPxPeobN2TjCoTGMT-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GieXPxPeobN2TjCoTGMT-12" target="GieXPxPeobN2TjCoTGMT-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GieXPxPeobN2TjCoTGMT-12" value="Evaluate the model" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="348.63" y="1280" width="185" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="GieXPxPeobN2TjCoTGMT-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="GieXPxPeobN2TjCoTGMT-15" target="GieXPxPeobN2TjCoTGMT-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GieXPxPeobN2TjCoTGMT-15" value="Question and answer" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="780" y="160" width="185" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="GieXPxPeobN2TjCoTGMT-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="GieXPxPeobN2TjCoTGMT-17" target="GieXPxPeobN2TjCoTGMT-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GieXPxPeobN2TjCoTGMT-17" value="Give a option to upload the data&lt;br&gt;Live stream the data&lt;br&gt;Give option to load from a package" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="780" y="310" width="185" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="GieXPxPeobN2TjCoTGMT-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="GieXPxPeobN2TjCoTGMT-20" target="GieXPxPeobN2TjCoTGMT-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GieXPxPeobN2TjCoTGMT-20" value="Plot the sample data using matplotlib library&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="780" y="460" width="185" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="GieXPxPeobN2TjCoTGMT-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GieXPxPeobN2TjCoTGMT-23" target="GieXPxPeobN2TjCoTGMT-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GieXPxPeobN2TjCoTGMT-23" value="Wrangle the data&lt;br&gt;Clean the data such as remove duplicates, correct errors, missing values, Normalization, data types conversion.&amp;nbsp;&lt;br&gt;Randomize data. Perform EDA&lt;br&gt;Change the format of input data and target&lt;br&gt;Split data into train and test, give option of percentage split and random split&lt;br&gt;Print option to see train and test data shape" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="553.75" width="280" height="142.5" as="geometry" />
+        </mxCell>
+        <mxCell id="GieXPxPeobN2TjCoTGMT-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GieXPxPeobN2TjCoTGMT-26" target="GieXPxPeobN2TjCoTGMT-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GieXPxPeobN2TjCoTGMT-26" value="Import all the packages" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="1030" y="230" width="185" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="GieXPxPeobN2TjCoTGMT-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="GieXPxPeobN2TjCoTGMT-28" target="GieXPxPeobN2TjCoTGMT-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GieXPxPeobN2TjCoTGMT-28" value="Import the packages&lt;br&gt;Give option of choosing cuda or cpu&lt;br&gt;Give option of choosing the hidden dimension and dropout" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="780" y="711.88" width="280" height="106.25" as="geometry" />
+        </mxCell>
+        <mxCell id="GieXPxPeobN2TjCoTGMT-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="GieXPxPeobN2TjCoTGMT-32">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="535" y="905" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GieXPxPeobN2TjCoTGMT-32" value="Simple pytorch model&lt;br&gt;Give the option of choosing number of hidden neurons.&lt;br&gt;Choose the dropout value&lt;br&gt;Give the option of number of epochs, learning rate&lt;br&gt;Fit the model&lt;br&gt;Print loss in every step" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="781" y="846.88" width="280" height="116.25" as="geometry" />
+        </mxCell>
+        <mxCell id="GieXPxPeobN2TjCoTGMT-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="GieXPxPeobN2TjCoTGMT-35">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="535" y="1047.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GieXPxPeobN2TjCoTGMT-35" value="Choose the evaluation metric&lt;br&gt;Plot the prediction vs actual output" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="781" y="994.06" width="280" height="101.87" as="geometry" />
+        </mxCell>
+        <mxCell id="GieXPxPeobN2TjCoTGMT-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="GieXPxPeobN2TjCoTGMT-38">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="535" y="1185" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GieXPxPeobN2TjCoTGMT-38" value="Try different neural network model.&lt;br&gt;And repeat the process until satisfied with the result" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="781" y="1131.88" width="280" height="106.25" as="geometry" />
+        </mxCell>
+        <mxCell id="GieXPxPeobN2TjCoTGMT-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="GieXPxPeobN2TjCoTGMT-39" target="GieXPxPeobN2TjCoTGMT-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GieXPxPeobN2TjCoTGMT-39" value="Choose the evaluation metric&lt;br&gt;Plot the prediction vs actual output" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="781" y="1270" width="280" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="GieXPxPeobN2TjCoTGMT-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="GieXPxPeobN2TjCoTGMT-43" target="GieXPxPeobN2TjCoTGMT-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GieXPxPeobN2TjCoTGMT-43" value="Give the option to choose the parameter with certain range and train with those parameter and list the best performing parameters" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="781" y="1400" width="280" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="GieXPxPeobN2TjCoTGMT-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GieXPxPeobN2TjCoTGMT-47" target="GieXPxPeobN2TjCoTGMT-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GieXPxPeobN2TjCoTGMT-47" value="Finally test the model with the test data and plot the predicted output and actual output" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="791" y="1540" width="280" height="90" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
