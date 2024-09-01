@@ -4,6 +4,8 @@
 - Medicine cost data
 - Revenue data
 - Education cost data
+- Health insurance data
+- Health insurance inflation rate
 
 References
 
