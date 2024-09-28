@@ -8,3 +8,4 @@
 https://wid.world/data/
 
 Consolidate all the wealth of an individual in a single platform.
+Track every transaction under single platform.
