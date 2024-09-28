@@ -6,3 +6,5 @@
 - Minimum wage
 
 https://wid.world/data/
+
+Consolidate all the wealth of an individual in a single platform.
