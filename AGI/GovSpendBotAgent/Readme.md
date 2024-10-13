@@ -12,5 +12,10 @@ The LLM is trained and fine-tuned on government spending data across daily, mont
 - Issue alerts if expenditures exceed specified limits.
 - Multimodel and Multilingual.
 - A ML model that trained on past data and can predict the expenditure.
+- Anomaly detection
 - 
 
+## Evaluation of the dataset 
+- Injection of outliers
+- Poison the dataset
+- 
