@@ -8,14 +8,6 @@
   url      = {https://www.amazon.science/publications/large-language-models-llms-on-tabular-data-prediction-generation-and-understanding-a-survey},
 }
 
-@Misc{Dhinakaran,
-  author       = {Aparna Dhinakaran},
-  howpublished = {\url{https://towardsdatascience.com/boosting-tabular-data-predictions-with-large-language-models-531337f834dc}},
-  note         = {[Accessed 12-10-2024]},
-  title        = {{B}oosting {T}abular {D}ata {P}redictions with {L}arge {L}anguage {M}odels --- towardsdatascience.com},
-  url          = {https://towardsdatascience.com/boosting-tabular-data-predictions-with-large-language-models-531337f834dc},
-}
-
 @Misc{HongWei2024,
   author   = {Hong-Wei, Wu},
   note     = {Accessed: 2024-05-30},
@@ -73,137 +65,20 @@ This project is currently under development. Feel free to ⭐ (STAR) and 🔭 (W
   url       = {https://aclanthology.org/2024.acl-long.852.pdf},
 }
 
-@InProceedings{Carlini2024,
-  author       = {Carlini, Nicholas and Jagielski, Matthew and Choquette-Choo, Christopher A and Paleka, Daniel and Pearce, Will and Anderson, Hyrum and Terzis, Andreas and Thomas, Kurt and Tram{\`e}r, Florian},
-  booktitle    = {2024 IEEE Symposium on Security and Privacy (SP)},
-  title        = {Poisoning web-scale training datasets is practical},
-  year         = {2024},
-  organization = {IEEE},
-  pages        = {407--425},
-  abstract     = {Deep learning models are often trained on distributed, web-scale datasets crawled from the internet. In this paper, we introduce two new dataset poisoning attacks that intentionally introduce malicious examples to a model’s performance. Our attacks are immediately practical and could, today, poison 10 popular datasets. Our first attack, split-view poisoning, exploits the mutable nature of internet content to ensure a dataset annotator’s initial view of the dataset differs from the view downloaded by subsequent clients. By exploiting specific invalid trust assumptions, we show how we could have poisoned 0.01% of the LAION-400M or COYO-700M datasets for just $60 USD. Our second attack, frontrunning poisoning, targets web-scale datasets that periodically snapshot crowd-sourced content—such as Wikipedia—where an attacker only needs a time-limited window to inject malicious examples. In light of both attacks, we notify the maintainers of each affected dataset and recommended several low-overhead defenses.},
-  comment      = {Citations - 139},
-  url          = {https://arxiv.org/html/2302.10149v2},
-}
-
-@Article{Chalapathy2019,
-  author   = {Chalapathy, Raghavendra and Chawla, Sanjay},
-  journal  = {arXiv preprint arXiv:1901.03407},
-  title    = {Deep learning for anomaly detection: A survey},
-  year     = {2019},
-  abstract = {Anomaly detection is an important problem that has been well-studied within diverse research areas
-and application domains. The aim of this survey is two-fold, firstly we present a structured and comprehensive overview of research methods in deep learning-based anomaly detection. Furthermore,
-we review the adoption of these methods for anomaly across various application domains and assess
-their effectiveness. We have grouped state-of-the-art deep anomaly detection research techniques
-into different categories based on the underlying assumptions and approach adopted. Within each
-category, we outline the basic anomaly detection technique, along with its variants and present key
-assumptions, to differentiate between normal and anomalous behavior. Besides, for each category,
-we also present the advantages and limitations and discuss the computational complexity of the techniques in real application domains. Finally, we outline open issues in research and challenges faced
-while adopting deep anomaly detection techniques for real-world problems.},
-  comment  = {Citations - 2133},
-  url      = {https://www.cse.fau.edu/~xqzhu/courses/cap6619/anomaly.pdf},
-}
-
-@Article{Pang2021,
-  author    = {Pang, Guansong and Shen, Chunhua and Cao, Longbing and Hengel, Anton Van Den},
-  journal   = {ACM computing surveys (CSUR)},
-  title     = {Deep learning for anomaly detection: A review},
-  year      = {2021},
-  number    = {2},
-  pages     = {1--38},
-  volume    = {54},
-  abstract  = {Anomaly detection, a.k.a. outlier detection or novelty detection, has been a lasting yet active research area in various research communities for several decades. There are still some unique problem complexities and challenges that require advanced approaches. In recent years, deep learning enabled anomaly detection, i.e., deep anomaly detection, has emerged as a critical direction. This paper surveys the research of deep anomaly detection with a comprehensive taxonomy, covering advancements in three high-level categories and 11 fine-grained categories of the methods. We review their key intuitions, objective functions, underlying assumptions, advantages and disadvantages, and discuss how they address the aforementioned challenges. We further discuss a set of possible future opportunities and new perspectives on addressing the challenges.},
-  comment   = {Citations - 2237},
-  publisher = {ACM New York, NY, USA},
-  url       = {https://arxiv.org/pdf/2007.02500},
-}
-
-@Article{Li2024,
-  author   = {Li, Aodong and Zhao, Yunhan and Qiu, Chen and Kloft, Marius and Smyth, Padhraic and Rudolph, Maja and Mandt, Stephan},
-  journal  = {arXiv preprint arXiv:2406.16308},
-  title    = {Anomaly detection of tabular data using llms},
-  year     = {2024},
-  abstract = {Large language models (LLMs) have shown their potential in long-context understanding and mathematical reasoning. In this paper, we study the problem of using LLMs to detect tabular anomalies and show that pre-trained LLMs are zeroshot batch-level anomaly detectors. That is, without extra distribution-specific model fitting, they can discover hidden outliers in a batch of data,
-demonstrating their ability to identify low-density data regions. For LLMs that are not well aligned
-with anomaly detection and frequently output factual errors, we apply simple yet effective datagenerating processes to simulate synthetic batchlevel anomaly detection datasets and propose an
-end-to-end fine-tuning strategy to bring out the potential of LLMs in detecting real anomalies. Experiments on a large anomaly detection benchmark (ODDS) showcase i) GPT-4 has on-par
-performance with the state-of-the-art transductive learning-based anomaly detection methods and ii)
-the efficacy of our synthetic dataset and fine-tuning strategy in aligning LLMs to this task.},
-  comment  = {Citations - 2 (13/10/2024)},
-  url      = {https://arxiv.org/pdf/2406.16308},
-}
-
-@Article{Chandola2009,
-  author    = {Chandola, Varun and Banerjee, Arindam and Kumar, Vipin},
-  journal   = {ACM computing surveys (CSUR)},
-  title     = {Anomaly detection: A survey},
-  year      = {2009},
-  number    = {3},
-  pages     = {1--58},
-  volume    = {41},
-  abstract  = {Anomaly detection is an important problem that has been researched within diverse research areas
-and application domains. Many anomaly detection techniques have been specifically developed
-for certain application domains, while others are more generic. This survey tries to provide a
-structured and comprehensive overview of the research on anomaly detection. We have grouped
-existing techniques into different categories based on the underlying approach adopted by each
-technique. For each category we have identified key assumptions, which are used by the techniques
-to differentiate between normal and anomalous behavior. When applying a given technique to a
-particular domain, these assumptions can be used as guidelines to assess the effectiveness of the
-technique in that domain. For each category, we provide a basic anomaly detection technique, and
-then show how the different existing techniques in that category are variants of the basic technique. This template provides an easier and succinct understanding of the techniques belonging
-to each category. Further, for each category, we identify the advantages and disadvantages of the
-techniques in that category. We also provide a discussion on the computational complexity of the
-techniques since it is an important issue in real application domains. We hope that this survey
-will provide a better understanding of the different directions in which research has been done on
-this topic, and how techniques developed in one area can be applied in domains for which they
-were not intended to begin with.},
-  comment   = {Citations - 15083},
-  publisher = {ACM New York, NY, USA},
-  url       = {https://conservancy.umn.edu/server/api/core/bitstreams/108030d3-3bf3-4c58-bd60-77d0644f8359/content},
-}
-
-@InProceedings{Sukhobok2017,
-  author       = {Sukhobok, Dina and Nikolov, Nikolay and Roman, Dumitru},
-  booktitle    = {2017 international conference on big data innovations and applications (innovate-data)},
-  title        = {Tabular data anomaly patterns},
-  year         = {2017},
-  organization = {IEEE},
-  pages        = {25--34},
-  abstract     = {One essential and challenging task in data science is data cleaning – the process of identifying and eliminating data anomalies. Different data types, data domains, data acquisition methods, and final purposes of data cleaning have resulted in different approaches in defining data anomalies
-in the literature. This paper proposes and describes a set of basic data anomalies in the form of anomaly patterns commonly encountered in tabular data, independently of the data domain, data acquisition technique, or the purpose of data cleaning. This set of anomalies can serve as a valuable basis
-for developing and enhancing software products that provide general-purpose data cleaning facilities and can provide a basis for comparing different tools aimed to support tabular data cleaning capabilities. Furthermore, this paper introduces a set of corresponding data operations suitable for addressing the
-identified anomaly patterns and introduces Grafterizer – a software framework that implements those data operations.},
-  comment      = {Citations - 25 (13/10/2024)},
-  url          = {https://sintef.brage.unit.no/sintef-xmlui/bitstream/handle/11250/2491583/tabular-data-anomaly.pdf?sequence=1},
-}
-
-@InProceedings{Shenkar2022,
-  author    = {Shenkar, Tom and Wolf, Lior},
-  booktitle = {International conference on learning representations},
-  title     = {Anomaly detection for tabular data with internal contrastive learning},
-  year      = {2022},
-  abstract  = {We consider the task of finding out-of-class samples in tabular data, where little can be assumed on the structure of the data. In order to capture the structure of the samples of the single training class, we learn mappings that maximize the mutual information between each sample and the part that is masked out. The mappings are learned by employing a contrastive loss, which considers only one sample at a time. Once learned, we can score a test sample by measuring whether the learned mappings lead to a small contrastive loss using the masked parts of this sample. Our experiments show that our method leads by a sizable accuracy gap in comparison to the literature and that the same default rule of hyperparameters
-selection provides state-of-the-art results across benchmarks.},
-  comment   = {Citations - 85 (13/10/2024)},
-  url       = {https://openreview.net/pdf?id=_hszZbt46bT},
-}
-
-@InProceedings{Zhang2020,
-  author       = {Zhang, Xuezhou and Zhu, Xiaojin and Lessard, Laurent},
-  booktitle    = {Learning for Dynamics and Control},
-  title        = {Online data poisoning attacks},
-  year         = {2020},
-  organization = {PMLR},
-  pages        = {201--210},
-  abstract     = {We study data poisoning attacks in the online learning setting, where training data arrive sequentially,
-and the attacker is eavesdropping the data stream and has the ability to contaminate the current
-data point to affect the online learning process. We formulate the optimal online attack problem
-as a stochastic optimal control problem, and provide a systematic solution using tools from model
-predictive control and deep reinforcement learning. We further provide theoretical analysis on the
-regret suffered by the attacker for not knowing the true data sequence. Experiments validate our
-control approach in generating near-optimal attacks on both supervised and unsupervised learning
-tasks.},
-  comment      = {Citations - 110 (13/10/2024)},
-  url          = {https://proceedings.mlr.press/v120/zhang20b/zhang20b.pdf},
+@Article{Sui2023,
+  author   = {Sui, Yuan and Zou, Jiaru and Zhou, Mengyu and He, Xinyi and Du, Lun and Han, Shi and Zhang, Dongmei},
+  journal  = {arXiv preprint arXiv:2312.09039},
+  title    = {Tap4llm: Table provider on sampling, augmenting, and packing semi-structured data for large language model reasoning},
+  year     = {2023},
+  abstract = {Table reasoning tasks have shown remarkable progress with the development of large language models (LLMs), which involve interpreting and drawing conclusions from tabular data based on natural language (NL) questions. Existing solutions mainly tested on smaller tables face scalability issues and struggle with complex queries due to incomplete or dispersed data across different table sections. To alleviate
+these challenges, we propose TAP4LLM as a versatile pre-processor suite for leveraging LLMs in table-based tasks effectively. It covers several distinct components: (1) table sampling to decompose large tables into manageable subtables based on query semantics, (2) table augmentation to enhance tables with additional knowledge from external sources or models, and (3) table packing & serialization to convert tables into various formats suitable for LLMs’ understanding. In each module, we design and
+compare several common methods under various usage scenarios, aiming to shed light on the
+best practices for leveraging LLMs for tablereasoning tasks. Our experiments show that
+our method improves LLMs’ reasoning capabilities in various tabular tasks and enhances
+the interaction between LLMs and tabular data
+by employing effective pre-processing.},
+  comment  = {Citations - 10 (13/10/2024)},
+  url      = {https://arxiv.org/pdf/2312.09039},
 }
 
 @Comment{jabref-meta: databaseType:bibtex;}
