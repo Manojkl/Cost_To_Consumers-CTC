@@ -301,4 +301,242 @@ intermediate results, enabling more accurate and reliable predictions. CHAINOF-T
   url      = {https://arxiv.org/pdf/2408.10548},
 }
 
+@InProceedings{Sui2024,
+  author    = {Sui, Yuan and Zhou, Mengyu and Zhou, Mingjie and Han, Shi and Zhang, Dongmei},
+  booktitle = {Proceedings of the 17th ACM International Conference on Web Search and Data Mining},
+  title     = {Table meets llm: Can large language models understand structured table data? a benchmark and empirical study},
+  year      = {2024},
+  pages     = {645--654},
+  abstract  = {Large language models (LLMs) are becoming attractive as few-shot reasoners to solve Natural Language (NL)-related tasks. However, there is still much to learn about how well LLMs understand structured data, such as tables. Although tables can be used as input to LLMs with serialization, there is a lack of comprehensive studies that examine whether LLMs can truly comprehend such data. In this paper, we try to understand this by designing a benchmark to evaluate the structural understanding capabilities (SUC) of LLMs. The benchmark we create includes seven tasks, each with its own unique challenges, \eg, cell lookup, row retrieval, and size detection. We perform a series of evaluations on GPT-3.5 and GPT-4. We find that performance varied depending on several input choices, including table input format, content order, role prompting, and partition marks. Drawing from the insights gained through the benchmark evaluations, we proposeself-augmentation for effective structural prompting, such as critical value / range identification using internal knowledge of LLMs. When combined with carefully chosen input choices, these structural prompting methods lead to promising improvements in LLM performance on a variety of tabular tasks, \eg, TabFact(\uparrow2.31%), HybridQA(\uparrow2.13%), SQA(\uparrow2.72%), Feverous(\uparrow0.84%), and ToTTo(\uparrow5.68%). We believe that our open-source (please find code and data at https://github.com/microsoft/TableProvider) benchmark and proposed prompting methods can serve as a simple yet generic selection for future research.},
+  comment   = {Citations - 46 (16/10/2024)},
+  url       = {https://dl.acm.org/doi/pdf/10.1145/3616855.3635752},
+}
+
+@Article{Singha2023,
+  author   = {Singha, Ananya and Cambronero, Jos{\'e} and Gulwani, Sumit and Le, Vu and Parnin, Chris},
+  journal  = {arXiv preprint arXiv:2310.10358},
+  title    = {Tabular representation, noisy operators, and impacts on table structure understanding tasks in llms},
+  year     = {2023},
+  abstract = {Large language models (LLMs) are increasingly applied for tabular tasks using in-context learning. The prompt representation for a table may play a role in the LLMs ability to process the table. Inspired by prior work, we generate a collection of self-supervised structural tasks (e.g. navigate to a cell and row; transpose the table) and evaluate the performance differences when using 8 formats. In contrast to past work, we introduce 8 noise operations inspired by real-world messy data and adversarial inputs, and show that such operations can impact LLM performance across formats for different structural understanding tasks.},
+  comment  = {Citations - 19 (16/10/2024)},
+  url      = {https://arxiv.org/pdf/2310.10358},
+}
+
+@Article{Zhang2023,
+  author   = {Zhang, Hengyuan and Chang, Peng and Ji, Zongcheng},
+  journal  = {arXiv preprint arXiv:2308.11891},
+  title    = {Bridging the Gap: Deciphering Tabular Data Using Large Language Model},
+  year     = {2023},
+  abstract = {In the realm of natural language processing, the understanding of tabular data has perpetually stood as a focal point of scholarly inquiry. The emergence of expansive language models, exemplified by the likes of ChatGPT, has ushered in a wave of endeavors wherein researchers aim to harness these models for tasks related to table-based question answering. Central to our investigative pursuits is the elucidation of methodologies that amplify the aptitude of such large language models in discerning both the structural intricacies and inherent content of tables, ultimately facilitating their capacity to provide informed responses to pertinent queries. To this end, we have architected a distinctive module dedicated to the serialization of tables for seamless integration with expansive language models. Additionally, we've instituted a corrective mechanism within the model to rectify potential inaccuracies. Experimental results indicate that, although our proposed method trails the SOTA by approximately 11.7% in overall metrics, it surpasses the SOTA by about 1.2% in tests on specific datasets. This research marks the first application of large language models to table-based question answering tasks, enhancing the model's comprehension of both table structures and content.},
+  comment  = {Citations - 0 (16/10/2024)},
+  url      = {https://arxiv.org/pdf/2308.11891},
+}
+
+@InProceedings{Ye2023,
+  author    = {Ye, Yunhu and Hui, Binyuan and Yang, Min and Li, Binhua and Huang, Fei and Li, Yongbin},
+  booktitle = {Proceedings of the 46th International ACM SIGIR Conference on Research and Development in Information Retrieval},
+  title     = {Large language models are versatile decomposers: Decomposing evidence and questions for table-based reasoning},
+  year      = {2023},
+  pages     = {174--184},
+  abstract  = {Table-based reasoning has shown remarkable progress in a wide range of tablebased tasks. It is a challenging task, which requires reasoning over both free-form natural language (NL) questions and (semi-)structured tabular data. However, previous table-based reasoning solutions usually suffer from significant performance degradation on “huge” evidence (tables). In addition, most existing methods struggle to reason over complex questions since the essential information is scattered in different places. To alleviate the above challenges, we exploit large language models (LLMs) as decomposers for effective table-based reasoning, which (i) decompose huge evidence (a huge table) into sub-evidence (a small table) to mitigate the interference of useless information for table reasoning, and (ii) decompose a complex question into simpler sub-questions for text reasoning. First, we use a
+powerful LLM to decompose the evidence involved in the current question into the sub-evidence that retains the relevant information and excludes the remaining irrelevant information from the “huge” evidence. Second, we propose a novel “parsing-execution-filling” strategy to decompose a complex question into simper step-by-step sub-questions by generating intermediate SQL queries as a bridge
+to produce numerical and logical sub-questions with a powerful LLM. Finally, we leverage the decomposed sub-evidence and sub-questions to get the final answer with a few in-context prompting examples. Extensive experiments on three benchmark datasets (TabFact, WikiTableQuestion, and FetaQA) demonstrate that our method achieves significantly better results than competitive baselines for table-based reasoning. Notably, our method outperforms human performance for the first time on the TabFact dataset. In addition to impressive overall performance, our method also has the advantage of interpretability, where the returned results are to some extent tractable with the generated sub-evidence and sub-questions.},
+  comment   = {Citations - 45 (16/10/2024)},
+  url       = {https://arxiv.org/pdf/2301.13808},
+}
+
+@Article{Narayan2022,
+  author   = {Narayan, Avanika and Chami, Ines and Orr, Laurel and Arora, Simran and R{\'e}, Christopher},
+  journal  = {arXiv preprint arXiv:2205.09911},
+  title    = {Can foundation models wrangle your data?},
+  year     = {2022},
+  abstract = {Foundation Models (FMs) are models trained on large corpora of data that, at very large scale, can generalize to new tasks without any task-specific finetuning. As these models continue to grow in size, innovations continue to push the boundaries of what these models can do on language and image tasks. This paper aims to understand an underexplored area of FMs: classical data tasks like cleaning and integration. As a proof-of-concept, we cast five data cleaning and integration tasks as prompting tasks and evaluate the performance of FMs on these tasks. We find that large FMs generalize and achieve SoTA performance on data cleaning and integration tasks, even though they are not trained for these data tasks. We identify specific research challenges and opportunities that these models present, including challenges with private and domain specific data, and opportunities to make data management systems more accessible to non-experts. We make our code and experiments publicly available at: https://github.com/HazyResearch/fm_data_tasks.},
+  comment  = {Citations - 154 (16/10/2024)},
+  url      = {https://arxiv.org/pdf/2205.09911},
+}
+
+@Article{Wang2023,
+  author   = {Wang, Zifeng and Gao, Chufan and Xiao, Cao and Sun, Jimeng},
+  journal  = {arXiv preprint arXiv:2305.12081},
+  title    = {MediTab: Scaling Medical Tabular Data Predictors via Data Consolidation, Enrichment, and Refinement},
+  year     = {2023},
+  abstract = {Tabular data prediction has been employed in medical applications such as patient health risk rediction. However, existing methods usually revolve around the algorithm design while overlooking the
+significance of data engineering. Medical tabular datasets frequently exhibit significant heterogeneity across different sources, with limited sample sizes per source. As such, previous predictors are often trained on manually curated small datasets that struggle to generalize across different tabular datasets during inference. This paper proposes to scale medical tabular data predictors (MediTab)
+to various tabular inputs with varying features. The method uses a data engine that leverages large language models (LLMs) to consolidate tabular samples to overcome the barrier across tables with distinct schema. It also aligns out-domain data with the target task using a “learn, annotate, and refinement” pipeline. The expanded training data then enables the pre-trained MediTab to infer for arbitrary tabular input in the domain without finetuning, resulting in significant improvements over
+supervised baselines: it reaches an average ranking of 1.57 and 1.00 on 7 patient outcome prediction
+datasets and 3 trial outcome prediction datasets, respectively. In addition, MediTab exhibits impressive zero-shot performances: it outperforms supervised XGBoost models by 8.9% and 17.2% on average in two prediction tasks, respectively.},
+  comment  = {Citations - 4 (16/10/2024)},
+  url      = {https://arxiv.org/pdf/2305.12081},
+}
+
+@Article{Yu2023,
+  author   = {Yu, Bowen and Fu, Cheng and Yu, Haiyang and Huang, Fei and Li, Yongbin},
+  journal  = {arXiv preprint arXiv:2306.16762},
+  title    = {Unified language representation for question answering over text, tables, and images},
+  year     = {2023},
+  abstract = {When trying to answer complex questions, people often rely on multiple sources of information, such as visual, textual, and tabular data. Previous approaches to this problem have focused on designing input features or model structure in the multi-modal space, which is inflexible for cross-modal reasoning or data-efficient training. In this paper, we call for an alternative paradigm, which transforms the images and tables into unified language representations, so that we can simplify the task into a simpler textual QA problem that can be solved using three steps: retrieval, ranking, and generation, all within a language space. This idea takes advantage of the power of pre-trained language models and is implemented in a framework called Solar. Our experimental results show that Solar outperforms all existing methods by 10.6-32.3 pts on two datasets, MultimodalQA and MMCoQA, across ten different metrics. Additionally, Solar achieves the best performance on the WebQA leaderboard},
+  comment  = {Citations - 13 (16/10/2024)},
+  url      = {https://arxiv.org/pdf/2306.16762},
+}
+
+@InProceedings{Hegselmann2023,
+  author       = {Hegselmann, Stefan and Buendia, Alejandro and Lang, Hunter and Agrawal, Monica and Jiang, Xiaoyi and Sontag, David},
+  booktitle    = {International Conference on Artificial Intelligence and Statistics},
+  title        = {Tabllm: Few-shot classification of tabular data with large language models},
+  year         = {2023},
+  organization = {PMLR},
+  pages        = {5549--5581},
+  abstract     = {We study the application of large language models to zero-shot and few-shot classification of tabular data. We prompt the large language model with a serialization of the tabular data to a natural-language string, together with a short description of the classification problem. In the few-shot setting, we fine-tune the large language model using some labeled examples. We evaluate several serialization methods including templates, table-to-text models, and large language models. Despite its simplicity, we find that this technique outperforms prior deep-learning-based tabular classification methods on several benchmark datasets. In most cases, even zero-shot classification obtains non-trivial performance, illustrating the method’s ability to exploit prior knowledge encoded in large language models. Unlike many deep learning methods for tabular datasets, this approach is also competitive with strong traditional baselines like gradient-boosted trees, especially in the very-few-shot setting.},
+  comment      = {Citations - 186 (16/10/2024)},
+  url          = {https://proceedings.mlr.press/v206/hegselmann23a/hegselmann23a.pdf},
+}
+
+@InProceedings{Gong2020,
+  author    = {Gong, Heng and Sun, Yawei and Feng, Xiaocheng and Qin, Bing and Bi, Wei and Liu, Xiaojiang and Liu, Ting},
+  booktitle = {Proceedings of the 28th International Conference on Computational Linguistics},
+  title     = {Tablegpt: Few-shot table-to-text generation with table structure reconstruction and content matching},
+  year      = {2020},
+  pages     = {1978--1988},
+  abstract  = {Although neural table-to-text models have achieved remarkable progress with the help of large-scale datasets, they suffer insufficient learning problem with limited training data. Recently, pre-trained language models show potential in few-shot learning with linguistic knowledge learnt from pretraining on large-scale corpus. However, benefiting table-to-text generation in few-shot setting with the powerful pretrained language model faces three challenges, including (1) the gap between the task’s structured input and the natural language input for pretraining language model.(2) The lack of modeling for table structure and (3) improving text fidelity with less incorrect expressions that are contradicting to the table. To address aforementioned problems, we propose TableGPT for table-to-text generation. At first, we utilize table transformation module with template to rewrite structured table in natural language as input for GPT-2. In addition, we exploit multi-task learning with two auxiliary tasks that preserve table’s structural information by reconstructing the structure from GPT-2’s representation and improving the text’s fidelity with content matching task aligning the table and information in the generated text. By experimenting on Humans, Songs and Books, three few-shot table-to-text datasets in different domains, our model outperforms existing systems on most few-shot settings.},
+  comment   = {Citations - 82 (16/10/2024)},
+  url       = {https://aclanthology.org/2020.coling-main.179.pdf},
+}
+
+@Article{Dinh2022,
+  author   = {Dinh, Tuan and Zeng, Yuchen and Zhang, Ruisu and Lin, Ziqian and Gira, Michael and Rajput, Shashank and Sohn, Jy-yong and Papailiopoulos, Dimitris and Lee, Kangwook},
+  journal  = {Advances in Neural Information Processing Systems},
+  title    = {Lift: Language-interfaced fine-tuning for non-language machine learning tasks},
+  year     = {2022},
+  pages    = {11763--11784},
+  volume   = {35},
+  abstract = {Fine-tuning pretrained language models (LMs) without making any architectural changes has become a norm for learning various language downstream tasks. However, for non-language downstream tasks, a common practice is to employ task-specific designs for input, output layers, and loss functions. For instance, it is possible to fine-tune an LM into an MNIST classifier by replacing the word embedding layer with an image patch embedding layer, the word token output layer with a 10-way output layer, and the word prediction loss with a 10-way classification loss, respectively. A natural question arises: Can LM fine-tuning solve non-language downstream tasks without changing the model architecture or loss function? To answer this, we propose Language-Interfaced Fine-Tuning (LIFT) and study its efficacy and limitations by conducting an extensive empirical study on a suite of non-language classification and regression tasks. LIFT does not make any changes to the model architecture or loss function, and it solely relies on the natural language interface, enabling" no-code machine learning with LMs." We find that LIFT performs comparably well across a wide range of low-dimensional classification and regression tasks, matching the performances of the best baselines in many cases, especially for the classification tasks. We also report experimental results on the fundamental properties of LIFT, including inductive bias, robustness, and sample complexity. We also analyze the effect of pretraining on LIFT and a few properties/techniques specific to LIFT, eg, context-aware learning via appropriate prompting, calibrated predictions, data generation, and two-stage fine-tuning. Our code is available at https://github. com/UW-Madison-Lee-Lab/LanguageInterfacedFineTuning.},
+  comment  = {Citations - 99 (16/10/2024)},
+  url      = {https://proceedings.neurips.cc/paper_files/paper/2022/file/4ce7fe1d2730f53cb3857032952cd1b8-Paper-Conference.pdf},
+}
+
+@Article{Chen2023,
+  author   = {Chen, Nuo and Shou, Linjun and Gong, Ming and Pei, Jian and You, Chenyu and Chang, Jianhui and Jiang, Daxin and Li, Jia},
+  journal  = {arXiv preprint arXiv:2302.09302},
+  title    = {Bridge the gap between language models and tabular understanding},
+  year     = {2023},
+  abstract = {Table pretrain-then-finetune paradigm has been proposed and employed at a rapid pace after the success of pre-training in the natural language domain. Despite the promising findings in tabular pre-trained language models (TPLMs), there is an input gap between pre-training and fine-tuning phases. For instance, TPLMs jointly pre-trained with table and text input could be effective for tasks also with table-text joint input like table question answering, but it may fail for tasks with only tables or text as input such as table retrieval. To this end, we propose UTP, an approach that dynamically supports three types of multi-modal inputs: table-text, table, and text. Specifically, UTP is pre-trained with two strategies: (1) We first utilize a universal mask language modeling objective on each kind of input, enforcing the model to adapt various inputs. (2) We then present Cross-Modal Contrastive Regularization (CMCR), which utilizes contrastive learning to encourage the consistency between table-text cross-modality representations via unsupervised instance-wise training signals during pre-training. By these means, the resulting model not only bridges the input gap between pre-training and fine-tuning but also advances in the alignment of table and text. Extensive results show UTP achieves superior results on uni-modal input tasks (e.g., table retrieval) and cross-modal input tasks (e.g., table question answering).},
+  comment  = {Citations - 4 (16/10/2024)},
+  url      = {https://arxiv.org/pdf/2302.09302},
+}
+
+@Article{Cong2023,
+  author   = {Cong, Tianji and Hulsebos, Madelon and Sun, Zhenjie and Groth, Paul and Jagadish, HV},
+  journal  = {arXiv preprint arXiv:2310.07736},
+  title    = {Observatory: Characterizing embeddings of relational tables},
+  year     = {2023},
+  abstract = {Language models and specialized table embedding models have recently demonstrated strong performance on many tasks over tabular data. Researchers and practitioners are keen to leverage these models in many new application contexts; but limited understanding of the strengths and weaknesses of these models, and the table representations they generate, makes the process of finding a suitable model for a given task reliant on trial and error. There is an urgent need to gain a comprehensive understanding of these models to minimize inefficiency and failures in downstream usage. To address this need, we propose Observatory, a formal framework to systematically analyze embedding representations of relational tables. Motivated both by invariants of the relational data model and by statistical considerations regarding data distributions, we define eight primitive properties, and corresponding measures to quantitatively characterize table embeddings for these properties. Based on these properties, we define an extensible framework to evaluate language and table embedding models. We collect and synthesize a suite of datasets and use Observatory to analyze seven such models. Our analysis provides insights into the strengths and weaknesses of learned representations over tables. We find, for example, that some models are sensitive to table structure such as column order, that functional dependencies are rarely reflected in embeddings, and that specialized table embedding models have relatively lower sample fidelity. Such insights help researchers and practitioners better anticipate model behaviors and select appropriate models for their downstream tasks, while guiding researchers in the development of new models.},
+  comment  = {Citations - 8 (16/10/2024)},
+  url      = {https://arxiv.org/pdf/2310.07736},
+}
+
+@Article{Sarkar2023,
+  author   = {Sarkar, Soumajyoti and Lausen, Leonard},
+  journal  = {arXiv preprint arXiv:2310.00789},
+  title    = {Testing the Limits of Unified Sequence to Sequence LLM Pretraining on Diverse Table Data Tasks},
+  year     = {2023},
+  abstract = {Tables stored in databases and tables which are present in web pages and articles account for a large part of semi-structured data that is available on the internet. It then becomes pertinent to develop a modeling approach with large language models (LLMs) that can be used to solve diverse table tasks such as semantic parsing, question answering as well as classification problems. Traditionally, there existed separate models specialized for each task individually. It raises the question of how far can we go to build a unified model that works well on some table tasks without significant degradation on others. To that end, we attempt at creating a shared modeling approach in the pretraining stage with encoder-decoder style LLMs that can cater to diverse tasks. We evaluate our approach that continually pretrains and finetunes different model families of T5 with data from tables and surrounding context, on these downstream tasks at different model scales. Through multiple ablation studies, we observe that our pretraining with self-supervised objectives can significantly boost the performance of the models on these tasks. As an example of one improvement, we observe that the instruction finetuned public models which come specialized on text question answering (QA) and have been trained on table data still have room for improvement when it comes to table specific QA. Our work is the first attempt at studying the advantages of a unified approach to table specific pretraining when scaled from 770M to 11B sequence to sequence models while also comparing the instruction finetuned variants of the models.},
+  comment  = {Citatiosn - 2 (16/10/2024)},
+  url      = {https://arxiv.org/pdf/2402.17944},
+}
+
+@Article{Zha2023,
+  author   = {Zha, Liangyu and Zhou, Junlin and Li, Liyao and Wang, Rui and Huang, Qingyi and Yang, Saisai and Yuan, Jing and Su, Changbao and Li, Xiang and Su, Aofeng and others},
+  journal  = {arXiv preprint arXiv:2307.08674},
+  title    = {Tablegpt: Towards unifying tables, nature language and commands into one gpt},
+  year     = {2023},
+  abstract = {Tables are prevalent in real-world databases, requiring significant time and effort for humans to analyze and manipulate. The advancements in large language models (LLMs) have made it possible to interact with tables using natural language input, bringing this capability closer to reality. In this paper, we present TableGPT, a unified fine-tuned framework that enables LLMs to understand and operate on tables using external functional commands. It introduces the capability to seamlessly interact with tables, enabling a wide range of functionalities such as question answering, data manipulation (e.g., insert, delete, query, and modify operations), data visualization, analysis report generation, and automated prediction. TableGPT aims to provide convenience and accessibility to users by empowering them to effortlessly leverage tabular data. At the core of TableGPT lies the novel concept of global tabular representations, which empowers LLMs to gain a comprehensive understanding of the entire table beyond meta-information. By jointly training LLMs on both table and text modalities, TableGPT achieves a deep understanding of tabular data and the ability to perform complex operations on tables through chain-of-command instructions. Importantly, TableGPT offers the advantage of being a self-contained system rather than relying on external API interfaces. Moreover, it supports efficient data process flow, query rejection (when appropriate) and private deployment, enabling faster domain data fine-tuning and ensuring data privacy, which enhances the framework's adaptability to specific use cases.},
+  comment  = {Citations - 15 (16/10/2024)},
+  url      = {https://arxiv.org/pdf/2307.08674},
+}
+
+@Article{Zhang2023a,
+  author   = {Zhang, Tianshu and Yue, Xiang and Li, Yifei and Sun, Huan},
+  journal  = {arXiv preprint arXiv:2311.09206},
+  title    = {Tablellama: Towards open large generalist models for tables},
+  year     = {2023},
+  abstract = {Semi-structured tables are ubiquitous. There has been a variety of tasks that aim to automatically interpret, augment, and query tables. Current methods often require pretraining on tables or special model architecture design, are restricted to specific table types, or have simplifying assumptions about tables and tasks. This paper makes the first step towards developing open-source large language models (LLMs) as generalists for a diversity of table-based tasks. Towards that end, we construct TableInstruct, a new dataset with a variety of realistic tables and tasks, for instruction tuning and evaluating LLMs. We further develop the first open-source generalist model for tables, TableLlama, by fine-tuning Llama 2 (7B) with LongLoRA to address the long context challenge. We experiment under both in-domain setting and out-of-domain setting. On 7 out of 8 in-domain tasks, TableLlama achieves comparable or better performance than the SOTA for each task, despite the latter often has task-specific design. On 6 out-of-domain datasets, it achieves 6-48 absolute point gains compared with the base model, showing that training on TableInstruct enhances the model's generalizability. We will open-source our dataset and trained model to boost future work on developing open generalist models for tables.},
+  comment  = {Citations - 40 (16/10/2024)},
+  url      = {https://arxiv.org/pdf/2311.09206},
+}
+
+@Article{Li2023a,
+  author   = {Li, Peng and He, Yeye and Yashar, Dror and Cui, Weiwei and Ge, Song and Zhang, Haidong and Fainman, Danielle Rifinski and Zhang, Dongmei and Chaudhuri, Surajit},
+  journal  = {arXiv preprint arXiv:2310.09263},
+  title    = {Table-gpt: Table-tuned gpt for diverse table tasks},
+  year     = {2023},
+  abstract = {Language models, such as GPT-3 and ChatGPT, demonstrate remarkable abilities to follow diverse human instructions and perform a wide range of tasks. However, when probing language models
+using a range of basic table-understanding tasks, we observe that today’s language models are still sub-optimal in many table-related tasks, likely because they are pre-trained predominantly on onedimensional natural-language texts, whereas relational tables are two-dimensional objects.
+In this work, we propose a new “table-tuning” paradigm, where we continue to train/fine-tune language models like GPT-3.5 and ChatGPT, using diverse table-tasks synthesized from real tables as
+training data, with the goal of enhancing language models’ ability to understand tables and perform table tasks. We show that our resulting Table-GPT models demonstrate (1) better table-understanding
+capabilities, by consistently outperforming the vanilla GPT-3.5 and ChatGPT, on a wide-range of table tasks, including holdout unseen tasks, and (2) strong generalizability, in its ability to respond to diverse human instructions to perform new table-tasks, in a manner similar to GPT-3.5 and ChatGPT.},
+  comment  = {Citations - 37 (16/10/2024)},
+  url      = {https://arxiv.org/pdf/2310.09263},
+}
+
+@Article{Liu2021,
+  author   = {Liu, Qian and Chen, Bei and Guo, Jiaqi and Ziyadi, Morteza and Lin, Zeqi and Chen, Weizhu and Lou, Jian-Guang},
+  journal  = {arXiv preprint arXiv:2107.07653},
+  title    = {TAPEX: Table pre-training via learning a neural SQL executor},
+  year     = {2021},
+  abstract = {Recent progress in language model pre-training has achieved a great success via leveraging large-scale unstructured textual data. However, it is still a challenge to apply pre-training on structured tabular data due to the absence of large-scale high-quality tabular data. In this paper, we propose TAPEX to show that table pre-training can be achieved by learning a neural SQL executor over a synthetic corpus, which is obtained by automatically synthesizing executable SQL queries and their execution outputs. TAPEX addresses the data scarcity challenge via guiding the language model to mimic a SQL executor on the diverse, large-scale and high-quality synthetic corpus. We evaluate TAPEX on four benchmark datasets. Experimental results demonstrate that TAPEX outperforms previous table pre-training approaches by a large margin and achieves new state-of-the-art results on all of them. This includes the improvements on the weakly-supervised WikiSQL denotation accuracy to 89.5% (+2.3%), the WikiTableQuestions denotation accuracy to 57.5% (+4.8%), the SQA denotation accuracy to 74.5% (+3.5%), and the TabFact accuracy to 84.2% (+3.2%). To our knowledge, this is the first work to exploit table pre-training via synthetic executable programs and to achieve new state-of-the-art results on various downstream tasks. Our code can be found at https://github.com/microsoft/Table-Pretraining.},
+  comment  = {Citations - 198 (16/10/2024)},
+  url      = {https://arxiv.org/pdf/2107.07653},
+}
+
+@Article{Chang2023,
+  author   = {Chang, Shuaichen and Fosler-Lussier, Eric},
+  journal  = {arXiv preprint arXiv:2305.11853},
+  title    = {How to prompt llms for text-to-sql: A study in zero-shot, single-domain, and cross-domain settings},
+  year     = {2023},
+  abstract = {Large language models (LLMs) with in-context learning have demonstrated remarkable capability in the text-to-SQL task. Previous research has prompted LLMs with various demonstration-retrieval strategies and intermediate reasoning steps to enhance the performance of LLMs. However, those works often employ varied strategies when constructing the prompt text for text-to-SQL inputs, such as databases and demonstration examples. This leads to a lack of comparability in both the prompt constructions and their primary contributions. Furthermore, selecting an effective prompt construction has emerged as a persistent problem for future research. To address this limitation, we comprehensively investigate the impact of prompt constructions across various settings and provide insights into prompt constructions for future text-to-SQL studies.},
+  comment  = {Citations - 35 (16/10/2024)},
+  url      = {https://arxiv.org/pdf/2305.11853},
+}
+
+@Article{Zhao2023,
+  author   = {Zhao, Yilun and Zhao, Chen and Nan, Linyong and Qi, Zhenting and Zhang, Wenlin and Tang, Xiangru and Mi, Boyu and Radev, Dragomir},
+  journal  = {arXiv preprint arXiv:2306.14321},
+  title    = {Robut: A systematic study of table qa robustness against human-annotated adversarial perturbations},
+  year     = {2023},
+  abstract = {Despite significant progress having been made in question answering on tabular data (Table QA), it's unclear whether, and to what extent existing Table QA models are robust to task-specific perturbations, e.g., replacing key question entities or shuffling table columns. To systematically study the robustness of Table QA models, we propose a benchmark called RobuT, which builds upon existing Table QA datasets (WTQ, WikiSQL-Weak, and SQA) and includes human-annotated adversarial perturbations in terms of table header, table content, and question. Our results indicate that both state-of-the-art Table QA models and large language models (e.g., GPT-3) with few-shot learning falter in these adversarial sets. We propose to address this problem by using large language models to generate adversarial examples to enhance training, which significantly improves the robustness of Table QA models. Our data and code is publicly available at https://github.com/yilunzhao/RobuT.},
+  comment  = {Citations - 14 (16/10/2024)},
+  url      = {https://arxiv.org/pdf/2306.14321},
+}
+
+@Article{Chen2022,
+  author   = {Chen, Wenhu},
+  journal  = {arXiv preprint arXiv:2210.06710},
+  title    = {Large language models are few (1)-shot table reasoners},
+  year     = {2022},
+  abstract = {Recent literature has shown that large language models (LLMs) are generally excellent few-shot reasoners to solve text reasoning tasks. However, the capability of LLMs on table reasoning tasks is yet to be explored. In this paper, we aim at understanding how well LLMs can perform table-related tasks with few-shot in-context learning. Specifically, we evaluated LLMs on popular table QA and fact verification datasets like WikiTableQuestion, FetaQA, TabFact, and FEVEROUS and found that LLMs are competent at complex reasoning over table structures, though these models are not pre-trained on any table corpus. When combined with `chain of thoughts' prompting, LLMs can achieve very strong performance with only a 1-shot demonstration, even on par with some SoTA models. We show that LLMs are even more competent at generating comprehensive long-form answers on FetaQA than tuned T5-large. We further manually studied the reasoning chains elicited from LLMs and found that these reasoning chains are highly consistent with the underlying semantic form. We believe that LLMs can serve as a simple yet generic baseline for future research. The code and data are released in https://github.com/wenhuchen/TableCoT.},
+  comment  = {Citations - 100 (16/10/2024)},
+  url      = {https://arxiv.org/pdf/2210.06710},
+}
+
+@Article{Sundar2023,
+  author   = {Sundar, Anirudh S and Heck, Larry},
+  journal  = {arXiv preprint arXiv:2303.12024},
+  title    = {cTBLS: Augmenting large language models with conversational tables},
+  year     = {2023},
+  abstract = {Optimizing accuracy and performance while eliminating hallucinations of open-domain conversational large language models (LLMs) is an open research challenge. A particularly promising direction is to augment and ground LLMs with information from structured sources. This paper introduces Conversational Tables (cTBLS), a three-step architecture to retrieve and generate dialogue responses grounded on retrieved tabular information. cTBLS uses Transformer encoder embeddings for Dense Table Retrieval and obtains up to 125% relative improvement over the retriever in the previous state-of-the-art system on the HyrbiDialogue dataset. cTBLS then uses a shared process between encoder and decoder models to perform a coarse+fine tabular knowledge (e.g., cell) ranking combined with a GPT-3.5 LLM response generator to yield a 2x relative improvement in ROUGE scores. Finally, human evaluators prefer cTBLs +80% of the time (coherency, fluency) and judge informativeness to be 4x better than the previous state-of-the-art.},
+  comment  = {Citations - 10 (16/10/2024)},
+  url      = {https://arxiv.org/pdf/2303.12024},
+}
+
+@InProceedings{Liu2023a,
+  author    = {Liu, Shang-Ching and Wang, ShengKun and Chang, Tsungyao and Lin, Wenqi and Hsiung, Chung-Wei and Hsieh, Yi-Chen and Cheng, Yu-Ping and Luo, Sian-Hong and Zhang, Jianwei},
+  booktitle = {Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing: Industry Track},
+  title     = {JarviX: A LLM no code platform for tabular data analysis and optimization},
+  year      = {2023},
+  pages     = {622--630},
+  abstract  = {In this study, we introduce JarviX, a sophisticated data analytics framework. JarviX is designed to employ Large Language Models (LLMs) to facilitate an automated guide and execute high-precision data analyzes on tabular datasets. This framework emphasizes the significance of varying column types, capitalizing on state-of-the-art LLMs to generate concise data insight summaries, propose relevant analysis inquiries, visualize data effectively, and provide comprehensive explanations for results drawn from an extensive data analysis pipeline. Moreover, JarviX incorporates an automated machine learning (AutoML) pipeline for predictive modeling. This integration forms a comprehensive and automated optimization cycle, which proves particularly advantageous for optimizing machine configuration. The efficacy and adaptability of JarviX are substantiated through a series of practical use case studies.},
+  comment   = {Citations - 6 (16/10/2024)},
+  url       = {https://aclanthology.org/2023.emnlp-industry.59.pdf},
+}
+
 @Comment{jabref-meta: databaseType:bibtex;}
