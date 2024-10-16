@@ -1,0 +1,4 @@
+1. How do model perform if finetuned vs without fine tuned with the tabular data. 
+2. Impact of table size on the performance.
+3. Combining multiple table to answer a questions.
+4. 

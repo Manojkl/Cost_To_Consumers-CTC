@@ -1,0 +1,12 @@
+
+Tabular reasoning
+
+1. Find all the tabular dataset on the internet.
+2. List all the latest paper/resources related to the tabular data reasoning.
+3. Look for implemented paper (Github,..etc), implement the paper if not implemented.
+4. Benchmark all the method aganinst all the dataset with proper evaluation metrics.
+5. Find the best performing paper/model.
+6. Look for the real world dataset as well, which might need preprocessing/etc..
+7. Benchmark aganist all the open and closed models
+8. Research on all the methodologies followed on the trading/financial market that can be applied here.
+9.

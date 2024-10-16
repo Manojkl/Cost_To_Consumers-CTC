@@ -260,4 +260,45 @@ extractive, matching-based, and retriever-reader-based methods. Moreover, becaus
   url      = {https://arxiv.org/pdf/2312.12464},
 }
 
+@Article{Wang2024,
+  author   = {Wang, Zilong and Zhang, Hao and Li, Chun-Liang and Eisenschlos, Julian Martin and Perot, Vincent and Wang, Zifeng and Miculicich, Lesly and Fujii, Yasuhisa and Shang, Jingbo and Lee, Chen-Yu and others},
+  journal  = {arXiv preprint arXiv:2401.04398},
+  title    = {Chain-of-table: Evolving tables in the reasoning chain for table understanding},
+  year     = {2024},
+  abstract = {Table-based reasoning with large language models (LLMs) is a promising direction to tackle many table understanding tasks, such as table-based question answering and fact verification. Compared with generic reasoning, table-based reasoning requires the extraction of underlying semantics from both free-form questions and semi-structured tabular data. Chain-of-Thought and its similar approaches incorporate the reasoning chain in the form of textual context, but it is still an open question how to effectively leverage tabular data in the reasoning chain. We propose the CHAIN-OF-TABLE framework, where tabular data is explicitly used in the reasoning chain as a proxy for intermediate thoughts. Specifically, we guide LLMs using in-context learning to iteratively generate operations and update the table to represent a tabular reasoning chain. LLMs can therefore dynamically plan the next operation based on the results of the previous ones. This continuous evolution of the table forms a chain, showing the reasoning process for a given tabular problem. The chain carries structured information of the
+intermediate results, enabling more accurate and reliable predictions. CHAINOF-TABLE achieves new state-of-the-art performance on WikiTQ, FeTaQA, and TabFact benchmarks across multiple LLM choices.},
+  comment  = {Citations - 34 (14/10/2024)},
+  url      = {https://arxiv.org/pdf/2401.04398},
+}
+
+@Article{Cheng2022,
+  author   = {Cheng, Zhoujun and Xie, Tianbao and Shi, Peng and Li, Chengzu and Nadkarni, Rahul and Hu, Yushi and Xiong, Caiming and Radev, Dragomir and Ostendorf, Mari and Zettlemoyer, Luke and others},
+  journal  = {arXiv preprint arXiv:2210.02875},
+  title    = {Binding language models in symbolic languages},
+  year     = {2022},
+  abstract = {Though end-to-end neural approaches have recently been dominating NLP tasks in both performance and ease-of-use, they lack interpretability and robustness. We propose Binder, a training-free neural-symbolic framework that maps the task input to a program, which (1) allows binding a unified API of language model (LM) functionalities to a programming language (e.g., SQL, Python) to extend its grammar coverage and thus tackle more diverse questions, (2) adopts an LM as both the program parser and the underlying model called by the API during execution, and (3) requires only a few in-context exemplar annotations. Specifically, we employ GPT-3 Codex as the LM. In the parsing stage, with only a few in-context exemplars, Codex is able to identify the part of the task input that cannot be answerable by the original programming language, correctly generate API calls to prompt Codex to solve the unanswerable part, and identify where to place the API calls while being compatible with the original grammar. In the execution stage, Codex can perform versatile functionalities (e.g., commonsense QA, information extraction) given proper prompts in the API calls. Binder achieves state-of-the-art results on WikiTableQuestions and TabFact datasets, with explicit output programs that benefit human debugging. Note that previous best systems are all finetuned on tens of thousands of task-specific samples, while Binder only uses dozens of annotations as in-context exemplars without any training. Our code is available at https://github.com/HKUNLP/Binder .},
+  comment  = {Citations - 139 (15/10/2024)},
+  url      = {https://arxiv.org/pdf/2210.02875},
+}
+
+@Article{Liu2023,
+  author   = {Liu, Tianyang and Wang, Fei and Chen, Muhao},
+  journal  = {arXiv preprint arXiv:2312.16702},
+  title    = {Rethinking Tabular Data Understanding with Large Language Models},
+  year     = {2023},
+  abstract = {Large Language Models (LLMs) have shown to be capable of various tasks, yet their capability in interpreting and reasoning over tabular data remains an underexplored area. In this context, this study investigates from three core perspectives: the robustness of LLMs to structural perturbations in tables, the comparative analysis of textual and symbolic reasoning on tables, and the potential of boosting model performance through the aggregation of multiple reasoning pathways. We discover that structural variance of tables presenting the same content reveals a notable performance decline, particularly in symbolic reasoning tasks. This prompts the proposal of a method for table structure normalization. Moreover, textual reasoning slightly edges out symbolic reasoning, and a detailed error analysis reveals that each exhibits different strengths depending on the specific tasks. Notably, the aggregation of textual and symbolic reasoning pathways, bolstered by a mix self-consistency mechanism, resulted in achieving SOTA performance, with an accuracy of 73.6% on WIKITABLEQUESTIONS, representing a substantial advancement over previous existing table processing paradigms of LLMs.},
+  comment  = {Citations - 9 (15/10/2024)},
+  url      = {https://arxiv.org/pdf/2312.16702},
+}
+
+@Article{Ruan2024,
+  author   = {Ruan, Yucheng and Lan, Xiang and Ma, Jingying and Dong, Yizhi and He, Kai and Feng, Mengling},
+  journal  = {arXiv preprint arXiv:2408.10548},
+  title    = {Language Modeling on Tabular Data: A Survey of Foundations, Techniques and Evolution},
+  year     = {2024},
+  abstract = {Tabular data, a prevalent data type across various domains, presents unique challenges due to its heterogeneous nature and complex structural relationships. Achieving high predictive performance and robustness in tabular data analysis holds significant promise for numerous applications. Influenced by recent advancements in natural language processing, particularly transformer architectures, new methods for tabular data modeling have emerged. Early techniques concentrated on pre-training transformers from scratch, often encountering scalability issues. Subsequently, methods leveraging pre-trained language models like BERT have been developed, which require less data and yield enhanced performance. The recent advent of large language models, such as GPT and LLaMA, has further revolutionized the field, facilitating more advanced and diverse applications with minimal fine-tuning. Despite the growing interest, a comprehensive survey of language modeling techniques for tabular data remains absent. This paper fills this gap by providing a systematic review of the development of language modeling for tabular data, encompassing: (1) a categorization of different tabular data structures and data types; (2) a review of key datasets used in model training and tasks used for evaluation; (3) a summary of modeling techniques including widely-adopted data processing methods, popular architectures, and training objectives; (4) the evolution from adapting traditional Pre-training/Pre-trained language models to the utilization of large language models; (5) an identification of persistent challenges and potential future research directions in language modeling for tabular data analysis. GitHub page associated with this survey is available at: https://github.com/lanxiang1017/Language-Modeling-on-Tabular-Data-Survey.git.},
+  comment  = {Citations - 0 (15/10/2024)},
+  url      = {https://arxiv.org/pdf/2408.10548},
+}
+
 @Comment{jabref-meta: databaseType:bibtex;}
