@@ -539,4 +539,188 @@ capabilities, by consistently outperforming the vanilla GPT-3.5 and ChatGPT, on 
   url       = {https://aclanthology.org/2023.emnlp-industry.59.pdf},
 }
 
+@Article{Lobo2023,
+  author   = {Lobo, Elita and Hassanzadeh, Oktie and Pham, Nhan and Mihindukulasooriya, Nandana and Subramanian, Dharmashankar and Samulowitz, Horst},
+  journal  = {arXiv preprint arXiv:2309.11506},
+  title    = {Matching Table Metadata with Business Glossaries Using Large Language Models},
+  year     = {2023},
+  abstract = {Enterprises often own large collections of structured data in the form of large databases or an enterprise data lake. Such data collections come with limited metadata and strict access policies that could limit access to the data contents and, therefore, limit the application of classic retrieval and analysis solutions. As a result, there is a need for solutions that can effectively utilize the available metadata. In this paper, we study the problem of matching table metadata to a business glossary containing data labels and descriptions. The resulting matching enables the use of an available or curated business glossary for retrieval and analysis without or before requesting access to the data contents. One solution to this problem is to use manually-defined rules or similarity measures on column names and glossary descriptions (or their vector embeddings) to find the closest match. However, such approaches need to be tuned through manual labeling and cannot handle many business glossaries that contain a combination of simple as well as complex and long descriptions. In this work, we leverage the power of large language models (LLMs) to design generic matching methods that do not require manual tuning and can identify complex relations between column names and glossaries. We propose methods that utilize LLMs in two ways: a) by generating additional context for column names that can aid with matching b) by using LLMs to directly infer if there is a relation between column names and glossary descriptions. Our preliminary experimental results show the effectiveness of our proposed methods.},
+  comment  = {Citations - 2 (17/10/2024)},
+  url      = {https://arxiv.org/pdf/2309.11506},
+}
+
+@Article{Fernandez2023,
+  author    = {Fernandez, Raul Castro and Elmore, Aaron J and Franklin, Michael J and Krishnan, Sanjay and Tan, Chenhao},
+  journal   = {Proceedings of the VLDB Endowment},
+  title     = {How large language models will disrupt data management},
+  year      = {2023},
+  number    = {11},
+  pages     = {3302--3309},
+  volume    = {16},
+  abstract  = {Large language models (LLMs), such as GPT-4, are revolutionizing software's ability to understand, process, and synthesize language. The authors of this paper believe that this advance in technology is significant enough to prompt introspection in the data management community, similar to previous technological disruptions such as the advents of the world wide web, cloud computing, and statistical machine learning. We argue that the disruptive influence that LLMs will have on data management will come from two angles. (1) A number of hard database problems, namely, entity resolution, schema matching, data discovery, and query synthesis, hit a ceiling of automation because the system does not fully understand the semantics of the underlying data. Based on large training corpora of natural language, structured data, and code, LLMs have an unprecedented ability to ground database tuples, schemas, and queries in real-world concepts. We will provide examples of how LLMs may completely change our approaches to these problems. (2) LLMs blur the line between predictive models and information retrieval systems with their ability to answer questions. We will present examples showing how large databases and information retrieval systems have complementary functionality.},
+  comment   = {Citations - 57 (17/10/2024)},
+  publisher = {VLDB Endowment},
+  url       = {https://raulcastrofernandez.com/papers/llm_db_vision_vldb23-11.pdf},
+}
+
+@Article{Zhang2023b,
+  author   = {Zhang, Haochen and Dong, Yuyang and Xiao, Chuan and Oyamada, Masafumi},
+  journal  = {arXiv preprint arXiv:2312.01678},
+  title    = {Jellyfish: A large language model for data preprocessing},
+  year     = {2023},
+  abstract = {In this paper, we present Jellyfish, an open-source LLM as a universal task solver for DP. Built on the Llama 2 13B model, Jellyfish is instruction-tuned with the datasets of several typical DP tasks including error detection, data imputation, schema matching, and entity matching, and delivers generalizability to other tasks. Remarkably, Jellyfish can operate on a local, single, and low-priced GPU with its 13 billion parameters, ensuring data security and enabling further tuning. Its proficiency in understanding natural language allows users to manually craft instructions for DP tasks. Unlike many existing methods that heavily rely on prior knowledge, Jellyfish acquires domain knowledge during its tuning process and integrates optional knowledge injection during inference. A distinctive feature of Jellyfish is its interpreter, which elucidates its output decisions. To construct Jellyfish, we develop a series of pre-tuning and DP-tuning techniques. Jellyfish is equipped with an instance serializer, which automatically translates raw data into model prompts, and a knowledge injector, which optionally introduces task- and dataset-specific knowledge to enhance DP performance. Our evaluation of Jellyfish, using a range of real datasets, shows its competitiveness compared to state-of-the-art methods and its strong generalizability to unseen tasks. Jellyfish's performance rivals that of GPT series models, and its interpreter offers enhanced reasoning capabilities compared to GPT-3.5. Furthermore, our evaluation highlights the effectiveness of the techniques employed in constructing Jellyfish. Our model is available at Hugging Face: https://huggingface.co/NECOUDBFM/Jellyfish .},
+  comment  = {Citations -14 (17/10/2024)},
+  url      = {https://arxiv.org/abs/2312.01678},
+}
+
+@Article{Nan2022,
+  author    = {Nan, Linyong and Hsieh, Chiachun and Mao, Ziming and Lin, Xi Victoria and Verma, Neha and Zhang, Rui and Kry{\'s}ci{\'n}ski, Wojciech and Schoelkopf, Hailey and Kong, Riley and Tang, Xiangru and others},
+  journal   = {Transactions of the Association for Computational Linguistics},
+  title     = {FeTaQA: Free-form table question answering},
+  year      = {2022},
+  pages     = {35--49},
+  volume    = {10},
+  abstract  = {Existing table question answering datasets contain abundant factual questions that primarily evaluate a QA system’s comprehension of query and tabular data. However, restricted by their short-form answers, these datasets fail to include question–answer interactions that represent more advanced and naturally occurring information needs: questions that ask for reasoning and integration of information pieces retrieved from a structured knowledge source. To complement the existing datasets and to reveal the challenging nature of the table-based question answering task, we introduce FeTaQA, a new dataset with 10K Wikipedia-based {table, question, free-form answer, supporting table cells} pairs. FeTaQA is collected from noteworthy descriptions of Wikipedia tables that contain information people tend to seek; generation of these descriptions requires advanced processing that humans perform on a daily basis: Understand the question and table, retrieve, integrate, infer, and conduct text planning and surface realization to generate an answer. We provide two benchmark methods for the proposed task: a pipeline method based on semantic parsing-based QA systems and an end-to-end method based on large pretrained text generation models, and show that FeTaQA poses a challenge for both methods.},
+  comment   = {Citations - 34 (17/10/2024)},
+  publisher = {MIT Press One Broadway, 12th Floor, Cambridge, Massachusetts 02142, USA~…},
+  url       = {https://direct.mit.edu/tacl/article-pdf/doi/10.1162/tacl_a_00446/2012156/tacl_a_00446.pdf},
+}
+
+@Article{Zhang2024a,
+  author   = {Zhang, Siyue and Luu, Anh Tuan and Zhao, Chen},
+  journal  = {arXiv preprint arXiv:2409.16682},
+  title    = {SynTQA: Synergistic Table-based Question Answering via Mixture of Text-to-SQL and E2E TQA},
+  year     = {2024},
+  abstract = {Text-to-SQL parsing and end-to-end question answering (E2E TQA) are two main approaches for Table-based Question Answering task. Despite success on multiple benchmarks, they have yet to be compared and their synergy remains unexplored. In this paper, we identify different strengths and weaknesses through evaluating state-of-the-art models on benchmark datasets: Text-to-SQL demonstrates superiority in handling questions involving arithmetic operations and long tables; E2E TQA excels in addressing ambiguous questions, non-standard table schema, and complex table contents. To combine both strengths, we propose a Synergistic Table-based Question Answering approach that integrate different models via answer selection, which is agnostic to any model types. Further experiments validate that ensembling models by either feature-based or LLM-based answer selector significantly improves the performance over individual models.},
+  comment  = {Citations - 0 (17/10/2024)},
+  url      = {https://arxiv.org/pdf/2409.16682},
+}
+
+@Article{Chen2020,
+  author   = {Chen, Wenhu and Zha, Hanwen and Chen, Zhiyu and Xiong, Wenhan and Wang, Hong and Wang, William},
+  journal  = {arXiv preprint arXiv:2004.07347},
+  title    = {Hybridqa: A dataset of multi-hop question answering over tabular and textual data},
+  year     = {2020},
+  abstract = {Existing question answering datasets focus on dealing with homogeneous information, based either only on text or KB/Table information alone. However, as human knowledge is distributed over heterogeneous forms, using homogeneous information alone might lead to severe coverage problems. To fill in the gap, we present HybridQA https://github.com/wenhuchen/HybridQA, a new large-scale question-answering dataset that requires reasoning on heterogeneous information. Each question is aligned with a Wikipedia table and multiple free-form corpora linked with the entities in the table. The questions are designed to aggregate both tabular information and text information, i.e., lack of either form would render the question unanswerable. We test with three different models: 1) a table-only model. 2) text-only model. 3) a hybrid model that combines heterogeneous information to find the answer. The experimental results show that the EM scores obtained by two baselines are below 20\%, while the hybrid model can achieve an EM over 40\%. This gap suggests the necessity to aggregate heterogeneous information in HybridQA. However, the hybrid model's score is still far behind human performance. Hence, HybridQA can serve as a challenging benchmark to study question answering with heterogeneous information.},
+  comment  = {Citations - 285 (17/10/2024)},
+  url      = {https://arxiv.org/pdf/2004.07347},
+}
+
+@InProceedings{Iyyer2017,
+  author    = {Iyyer, Mohit and Yih, Wen-tau and Chang, Ming-Wei},
+  booktitle = {Proceedings of the 55th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)},
+  title     = {Search-based neural structured learning for sequential question answering},
+  year      = {2017},
+  pages     = {1821--1831},
+  abstract  = {Recent work in semantic parsing for question answering has focused on long and complicated questions, many of which would seem unnatural if asked in a normal conversation between two humans. In an effort to explore a conversational QA setting, we present a more realistic task: answering sequences of simple but inter-related questions. We collect a dataset of 6,066 question sequences that inquire about semi-structured tables from Wikipedia, with 17,553 question-answer pairs in total. To solve this sequential question answering task, we propose a novel dynamic neural semantic parsing framework trained using a weakly supervised reward-guided search. Our model effectively leverages the sequential context to outperform state-of-the-art QA systems that are designed to answer highly complex questions.},
+  comment   = {Citations - 241 (17/10/2024)},
+  url       = {https://aclanthology.org/P17-1167.pdf},
+}
+
+@Article{Cheng2021,
+  author   = {Cheng, Zhoujun and Dong, Haoyu and Wang, Zhiruo and Jia, Ran and Guo, Jiaqi and Gao, Yan and Han, Shi and Lou, Jian-Guang and Zhang, Dongmei},
+  journal  = {arXiv preprint arXiv:2108.06712},
+  title    = {Hitab: A hierarchical table dataset for question answering and natural language generation},
+  year     = {2021},
+  abstract = {Tables are often created with hierarchies, but existing works on table reasoning mainly focus on flat tables and neglect hierarchical tables. Hierarchical tables challenge existing methods by hierarchical indexing, as well as implicit relationships of calculation and semantics. This work presents HiTab, a free and open dataset to study question answering (QA) and natural language generation (NLG) over hierarchical tables. HiTab is a cross-domain dataset constructed from a wealth of statistical reports (analyses) and Wikipedia pages, and has unique characteristics: (1) nearly all tables are hierarchical, and (2) both target sentences for NLG and questions for QA are revised from original, meaningful, and diverse descriptive sentences authored by analysts and professions of reports. (3) to reveal complex numerical reasoning in statistical analyses, we provide fine-grained annotations of entity and quantity alignment. HiTab provides 10,686 QA pairs and descriptive sentences with well-annotated quantity and entity alignment on 3,597 tables with broad coverage of table hierarchies and numerical reasoning types. Targeting hierarchical structure, we devise a novel hierarchy-aware logical form for symbolic reasoning over tables, which shows high effectiveness. Targeting complex numerical reasoning, we propose partially supervised training given annotations of entity and quantity alignment, which helps models to largely reduce spurious predictions in the QA task. In the NLG task, we find that entity and quantity alignment also helps NLG models to generate better results in a conditional generation setting. Experiment results of state-of-the-art baselines suggest that this dataset presents a strong challenge and a valuable benchmark for future research.},
+  comment  = {Citations - 71 (16/10/2024)},
+  url      = {https://arxiv.org/pdf/2108.06712},
+}
+
+@InProceedings{Parikh2020,
+  author    = {Parikh, Ankur P and Wang, Xuezhi and Gehrmann, Sebastian and Faruqui, Manaal and Dhingra, Bhuwan and Yang, Diyi and Das, Dipanjan},
+  booktitle = {Proceedings of EMNLP},
+  title     = {{ToTTo}: A Controlled Table-To-Text Generation Dataset},
+  year      = {2020},
+  abstract  = {We present ToTTo, an open-domain English table-to-text dataset with over 120,000 training examples that proposes a controlled generation task: given a Wikipedia table and a set of highlighted table cells, produce a one-sentence description. To obtain generated targets that are natural but also faithful to the source table, we introduce a dataset construction process where annotators directly revise existing candidate sentences from Wikipedia. We present systematic analyses of our dataset and annotation process as well as results achieved by several state-of-the-art baselines. While usually fluent, existing methods often hallucinate phrases that are not supported by the table, suggesting that this dataset can serve as a useful research benchmark for high-precision conditional text generation.},
+  comment   = {Citations - 344 (17/10/2024)},
+  url       = {https://arxiv.org/abs/2004.14373},
+}
+
+@Article{Aly2021,
+  author   = {Aly, Rami and Guo, Zhijiang and Schlichtkrull, Michael and Thorne, James and Vlachos, Andreas and Christodoulopoulos, Christos and Cocarascu, Oana and Mittal, Arpit},
+  journal  = {arXiv preprint arXiv:2106.05707},
+  title    = {Feverous: Fact extraction and verification over unstructured and structured information},
+  year     = {2021},
+  abstract = {Fact verification has attracted a lot of attention in the machine learning and natural language processing communities, as it is one of the key methods for detecting misinformation. Existing large-scale benchmarks for this task have focused mostly on textual sources, i.e. unstructured information, and thus ignored the wealth of information available in structured formats, such as tables. In this paper we introduce a novel dataset and benchmark, Fact Extraction and VERification Over Unstructured and Structured information (FEVEROUS), which consists of 87,026 verified claims. Each claim is annotated with evidence in the form of sentences and/or cells from tables in Wikipedia, as well as a label indicating whether this evidence supports, refutes, or does not provide enough information to reach a verdict. Furthermore, we detail our efforts to track and minimize the biases present in the dataset and could be exploited by models, e.g. being able to predict the label without using evidence. Finally, we develop a baseline for verifying claims against text and tables which predicts both the correct evidence and verdict for 18% of the claims.},
+  comment  = {Citations - 145 (17/10/2024)},
+  url      = {https://assets.amazon.science/23/e2/fbdef0254679b6022614b222c30a/feverous-fact-extraction-and-verification-over-unstructured-and-structured-information.pdf},
+}
+
+@Article{Chen2019,
+  author   = {Chen, Wenhu and Wang, Hongmin and Chen, Jianshu and Zhang, Yunkai and Wang, Hong and Li, Shiyang and Zhou, Xiyou and Wang, William Yang},
+  journal  = {arXiv preprint arXiv:1909.02164},
+  title    = {Tabfact: A large-scale dataset for table-based fact verification},
+  year     = {2019},
+  abstract = {The problem of verifying whether a textual hypothesis holds based on the given evidence, also known as fact verification, plays an important role in the study of natural language understanding and semantic representation. However, existing studies are mainly restricted to dealing with unstructured evidence (e.g., natural language sentences and documents, news, etc), while verification under structured evidence, such as tables, graphs, and databases, remains under-explored. This paper specifically aims to study the fact verification given semi-structured data as evidence. To this end, we construct a large-scale dataset called TabFact with 16k Wikipedia tables as the evidence for 118k human-annotated natural language statements, which are labeled as either ENTAILED or REFUTED. TabFact is challenging since it involves both soft linguistic reasoning and hard symbolic reasoning. To address these reasoning challenges, we design two different models: Table-BERT and Latent Program Algorithm (LPA). Table-BERT leverages the state-of-the-art pre-trained language model to encode the linearized tables
+and statements into continuous vectors for verification. LPA parses statements into programs and executes them against the tables to obtain the returned binary value for verification. Both methods achieve similar accuracy but still lag far behind human performance. We also perform a comprehensive analysis to demonstrate great future opportunities. The data and code of the dataset are provided in
+https://github.com/wenhuchen/Table-Fact-Checking.},
+  comment  = {Citations - 414 (17/10/2024)},
+  url      = {https://arxiv.org/pdf/1909.02164},
+}
+
+@Article{Yu2018a,
+  author   = {Yu, Tao and Zhang, Rui and Yang, Kai and Yasunaga, Michihiro and Wang, Dongxu and Li, Zifan and Ma, James and Li, Irene and Yao, Qingning and Roman, Shanelle and others},
+  journal  = {arXiv preprint arXiv:1809.08887},
+  title    = {Spider: A large-scale human-labeled dataset for complex and cross-domain semantic parsing and text-to-sql task},
+  year     = {2018},
+  abstract = {We present Spider, a large-scale, complex and cross-domain semantic parsing and text-to-SQL dataset annotated by 11 college students. It consists of 10,181 questions and 5,693 unique complex SQL queries on 200 databases with multiple tables, covering 138 different domains. We define a new complex and cross-domain semantic parsing and text-to-SQL task where different complex SQL queries and databases appear in train and test sets. In this way, the task requires the model to generalize well to both new SQL queries and new database schemas. Spider is distinct from most of the previous semantic parsing tasks because they all use a single database and the exact same programs in the train set and the test set. We experiment with various state-of-the-art models and the best model achieves only 14.3% exact matching accuracy on a database split setting. This shows that Spider presents a strong challenge for future research. Our dataset and task are publicly available at https://yale-lily.github.io/spider.},
+  comment  = {Citations - 1056 (17/10/2024)},
+  url      = {https://arxiv.org/pdf/1809.08887},
+}
+
+@Article{Gupta2020,
+  author   = {Gupta, Vivek and Mehta, Maitrey and Nokhiz, Pegah and Srikumar, Vivek},
+  journal  = {arXiv preprint arXiv:2005.06117},
+  title    = {INFOTABS: Inference on tables as semi-structured data},
+  year     = {2020},
+  abstract = {In this paper, we observe that semi-structured tabulated text is ubiquitous; understanding them requires not only comprehending the meaning of text fragments, but also implicit relationships between them. We argue that such data can prove as a testing ground for understanding how we reason about information. To study this, we introduce a new dataset called INFOTABS, comprising of human-written textual hypotheses based on premises that are tables extracted from Wikipedia info-boxes. Our analysis shows that the semi-structured, multi-domain and heterogeneous nature of the premises admits complex, multi-faceted reasoning. Experiments reveal that, while human annotators agree on the relationships between a table-hypothesis pair, several standard modeling strategies are unsuccessful at
+the task, suggesting that reasoning about tables can pose a difficult modeling challenge.},
+  comment  = {Citations - 94 (17/10/2024)},
+  url      = {https://arxiv.org/pdf/2005.06117},
+}
+
+@Article{Katsis2021,
+  author   = {Katsis, Yannis and Chemmengath, Saneem and Kumar, Vishwajeet and Bharadwaj, Samarth and Canim, Mustafa and Glass, Michael and Gliozzo, Alfio and Pan, Feifei and Sen, Jaydeep and Sankaranarayanan, Karthik and others},
+  journal  = {arXiv preprint arXiv:2106.12944},
+  title    = {AIT-QA: Question answering dataset over complex tables in the airline industry},
+  year     = {2021},
+  abstract = {Recent advances in transformers have enabled Table Question Answering (Table QA) systems to achieve high accuracy and SOTA results on open domain datasets like WikiTableQuestions and WikiSQL. Such transformers are frequently pre-trained on open-domain content such as Wikipedia, where they effectively encode questions and corresponding tables from Wikipedia as seen in Table QA dataset. However, web tables in Wikipedia are notably flat in their layout, with the first row as the sole column header. The layout lends to a relational view of tables where each row is a tuple. Whereas, tables in domain-specific business or scientific documents often have a much more complex layout, including hierarchical row and column headers, in addition to having specialized vocabulary terms from that domain. To address this problem, we introduce the domain-specific Table QA dataset AIT-QA (Airline Industry Table QA). The dataset consists of 515 questions authored by human annotators on 116 tables extracted from public U.S. SEC filings (publicly available at: https://www.sec.gov/edgar.shtml) of major airline companies for the fiscal years 2017-2019. We also provide annotations pertaining to the nature of questions, marking those that require hierarchical headers, domain-specific terminology, and paraphrased forms. Our zero-shot baseline evaluation of three transformer-based SOTA Table QA methods - TaPAS (end-to-end), TaBERT (semantic parsing-based), and RCI (row-column encoding-based) - clearly exposes the limitation of these methods in this practical setting, with the best accuracy at just 51.8\% (RCI). We also present pragmatic table preprocessing steps used to pivot and project these complex tables into a layout suitable for the SOTA Table QA models.},
+  comment  = {Citations - 33 (17/10/2024)},
+  url      = {https://arxiv.org/pdf/2106.12944},
+}
+
+@Article{Zhu2021,
+  author   = {Zhu, Fengbin and Lei, Wenqiang and Huang, Youcheng and Wang, Chao and Zhang, Shuo and Lv, Jiancheng and Feng, Fuli and Chua, Tat-Seng},
+  journal  = {arXiv preprint arXiv:2105.07624},
+  title    = {TAT-QA: A question answering benchmark on a hybrid of tabular and textual content in finance},
+  year     = {2021},
+  abstract = {Hybrid data combining both tabular and textual content (e.g., financial reports) are quite pervasive in the real world. However, Question Answering (QA) over such hybrid data is largely neglected in existing research. In this work, we extract samples from real financial reports to build a new large-scale QA dataset containing both Tabular And Textual data, named TAT-QA, where numerical reasoning is usually required to infer the answer, such as addition, subtraction, multiplication, division, counting, comparison/sorting, and the compositions. We further propose a novel QA model termed TAGOP, which is capable of reasoning over both tables and text. It adopts sequence tagging to extract relevant cells from the table along with relevant spans from the text to infer their semantics, and then applies symbolic reasoning over them with a set of aggregation operators to arrive at the final answer. TAGOPachieves 58.0% inF1, which is an 11.1% absolute increase over the previous best baseline model, according to our experiments on TAT-QA. But this result still lags far behind performance of expert human, i.e.90.8% in F1. It is demonstrated that our TAT-QA is very challenging and can serve as a benchmark for training and testing powerful QA models that address hybrid form data.},
+  comment  = {Citations - 207 (17/10/2024)},
+  url      = {https://arxiv.org/pdf/2105.07624},
+}
+
+@Article{Moosavi2021,
+  author   = {Moosavi, Nafise Sadat and R{\"u}ckl{\'e}, Andreas and Roth, Dan and Gurevych, Iryna},
+  journal  = {arXiv preprint arXiv:2104.08296},
+  title    = {Learning to reason for text generation from scientific tables},
+  year     = {2021},
+  abstract = {In this paper, we introduce SciGen, a new challenge dataset for the task of reasoningaware data-to-text generation consisting of tables from scientific articles and their corresponding descriptions. Describing scientific tables goes beyond the surface realization of
+the table content and requires reasoning over table values. The unique properties of SciGen are that (1) tables mostly contain numerical values, and (2) the corresponding descriptions require arithmetic reasoning. SciGen is therefore the first dataset that assesses the arithmetic reasoning capabilities of generation models on complex input structures, i.e., tables from scientific articles. We study the effectiveness of state-of-the-art data-to-text generation models on SciGen and evaluate the results using common metrics as well as human evaluation. Our results and analyses show that (a) while humans like to reason for describing scientific tables, the ability of stateof-the-art models is severely limited on this task, (b) while adding more training data improves the results, it is not the solution for
+reasoning-aware text generation, and (c) one of the main bottlenecks for this task is the lack
+of proper automatic evaluation metrics. The data, code, and annotations for human evaluation will be available at https://github.com/UKPLab/SciGen. SciGen opens new avenues for future research in reasoning-aware text generation and evaluation.},
+  comment  = {Citations - 17 (17/10/2024)},
+  url      = {https://arxiv.org/pdf/2104.08296},
+}
+
+@Article{Yin2018,
+  author   = {Yin, Pengcheng and Zhou, Chunting and He, Junxian and Neubig, Graham},
+  journal  = {arXiv preprint arXiv:1806.07832},
+  title    = {Structvae: Tree-structured latent variable models for semi-supervised semantic parsing},
+  year     = {2018},
+  abstract = {Semantic parsing is the task of transducing natural language (NL) utterances into formal meaning representations (MRs), commonly represented as tree structures. Annotating NL utterances with their corresponding MRs is expensive and time-consuming, and thus the limited availability of labeled data often becomes the bottleneck of data-driven, supervised models. We introduce StructVAE, a variational auto-encoding model for semisupervised semantic parsing, which learns both from limited amounts of parallel data, and readily-available unlabeled NL utterances. StructVAE models latent MRs not observed in the unlabeled data as tree-structured latent variables. Experiments on semantic parsing on the ATIS domain and Python code generation show that with extra unlabeled data, StructVAE outperforms strong supervised models.},
+  comment  = {Citations - 122 (17/10/2024)},
+  url      = {https://arxiv.org/pdf/1806.07832},
+}
+
 @Comment{jabref-meta: databaseType:bibtex;}

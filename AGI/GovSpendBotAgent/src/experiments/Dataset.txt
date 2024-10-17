@@ -4,4 +4,73 @@
 4. https://huggingface.co/datasets/SpursgoZmy/MMTab
 5. https://nextplusplus.github.io/TAT-QA/, https://github.com/NExTplusplus/TAT-QA/tree/master 
 6. https://github.com/wenhuchen/OTT-QA 
-7.
+
+7. FeTaQA: Free-form table question answering
+   a. Paper: https://scholar.google.com/scholar_url?url=https://direct.mit.edu/tacl/article-pdf/doi/10.1162/tacl_a_00446/2012156/tacl_a_00446.pdf&hl=en&sa=T&oi=gsr-r-gga&ct=res&cd=0&d=13900588696844028848&ei=QS0RZ_yJBLa56rQP1tOf0Qw&scisig=AFWwaeZSzYXXIx1YsRAna1uqDtbc 
+   b. Github: https://github.com/Yale-LILY/FeTaQA
+
+8. Compositional Semantic Parsing on Semi-Structured Tables
+   a. Paper: https://arxiv.org/pdf/1508.00305
+   b. Web Link: https://ppasupat.github.io/WikiTableQuestions/
+
+9. Hybridqa: A dataset of multi-hop question answering over tabular and textual data
+  a. Paper: https://arxiv.org/pdf/2004.07347 
+  b. Web Link: https://hybridqa.github.io/
+
+10. Search-based Neural Structured Learning for Sequential Question Answering
+  a. Paper: https://aclanthology.org/P17-1167.pdf
+  b. Weblink: https://www.microsoft.com/en-us/download/details.aspx?id=54253 
+
+11. HiTab
+  a. Paper: https://arxiv.org/pdf/2108.06712
+  b. Github: https://github.com/microsoft/HiTab
+
+12. ToTTo
+  a. Paper: https://arxiv.org/abs/2004.14373
+  b. Github: https://github.com/google-research-datasets/ToTTo 
+
+13. FEVEROUS: Fact Extraction and VERification Over Unstructured and Structured information
+  a. Paper: https://arxiv.org/abs/2106.05707
+  b. Weblink: https://fever.ai/dataset/feverous.html
+
+14. Spider
+  a. Paper: https://arxiv.org/abs/1809.08887
+  b. Weblink: https://yale-lily.github.io/spider
+
+15. Seq2sql
+  a. Paper: https://arxiv.org/pdf/1709.00103
+  b. Paper: https://github.com/salesforce/WikiSQL
+
+16. Infotab
+  a. Paper: https://arxiv.org/pdf/2005.06117
+  b. Web Link: https://infotabs.github.io/
+
+17. TabFact
+  a. Paper: https://arxiv.org/pdf/1909.02164
+  b. Web Link: https://tabfact.github.io/
+
+18. AITQA
+  a. Paper: https://arxiv.org/pdf/2106.12944
+  b. Github: https://github.com/IBM/AITQA
+
+19. TAT-QA
+  a. Paper: https://arxiv.org/pdf/2105.07624
+  b. Github: https://github.com/NExTplusplus/TAT-QA
+
+20. Scigen
+  a. Paper:https://arxiv.org/pdf/2104.08296
+  b. Github: https://github.com/UKPLab/SciGen
+
+21. Tranx
+  a. Paper: https://arxiv.org/pdf/1806.07832
+  b. Github: https://github.com/pcyin/tranX
+
+22. Tabert 
+  a. Paper: https://arxiv.org/pdf/2005.08314
+  b. Github: https://github.com/facebookresearch/TaBERT
+
+23. TAPAS
+  a. Paper: https://aclanthology.org/2020.acl-main.398/
+  b. Github: https://github.com/google-research/tapas
+
+24. 

@@ -9,4 +9,10 @@ Tabular reasoning
 6. Look for the real world dataset as well, which might need preprocessing/etc..
 7. Benchmark aganist all the open and closed models
 8. Research on all the methodologies followed on the trading/financial market that can be applied here.
-9.
+
+9. Read the dataset papers to find all the datasets
+ a. Find all papers and dataset that worked on the tabular data 
+ b. Find the evaluation metrics 
+
+10.
+
