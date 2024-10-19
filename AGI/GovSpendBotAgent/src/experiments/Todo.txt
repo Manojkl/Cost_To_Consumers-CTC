@@ -13,6 +13,7 @@ Tabular reasoning
 9. Read the dataset papers to find all the datasets
  a. Find all papers and dataset that worked on the tabular data 
  b. Find the evaluation metrics 
+ c. Check for the quality of the dataset
 
 10.
 
