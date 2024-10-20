@@ -723,4 +723,74 @@ of proper automatic evaluation metrics. The data, code, and annotations for huma
   url      = {https://arxiv.org/pdf/1806.07832},
 }
 
+@Article{Herzig2021,
+  author   = {Herzig, Jonathan and M{\"u}ller, Thomas and Krichene, Syrine and Eisenschlos, Julian Martin},
+  journal  = {arXiv preprint arXiv:2103.12011},
+  title    = {Open domain question answering over tables via dense retrieval},
+  year     = {2021},
+  abstract = {Recent advances in open-domain QA have led to strong models based on dense retrieval, but only focused on retrieving textual passages. In this work, we tackle open-domain QA over tables for the first time, and show that retrieval can be improved by a retriever designed to handle tabular context. We present an effective pre-training procedure for our retriever and improve retrieval quality with mined hard negatives. As relevant datasets are missing, we extract a subset of Natural Questions (Kwiatkowski et al., 2019) into a Table QA dataset. We find that our retriever improves retrieval results from 72.0 to 81.1 recall@10 and end-to-end QA results from 33.8 to 37.7 exact match, over a BERT based retriever.},
+  comment  = {Citations - 87 (20/10/2024)},
+  url      = {https://arxiv.org/pdf/2103.12011},
+}
+
+@InProceedings{Brinkmann2023,
+  author    = {Brinkmann, Alexander and Primpeli, Anna and Bizer, Christian},
+  booktitle = {Companion Proceedings of the ACM Web Conference 2023},
+  title     = {The Web Data Commons Schema.org Data Set Series},
+  year      = {2023},
+  address   = {New York, NY, USA},
+  pages     = {136–139},
+  publisher = {Association for Computing Machinery},
+  series    = {WWW '23 Companion},
+  abstract  = {Millions of websites have started to annotate structured data within their HTML pages using the schema.org vocabulary. Popular entity types annotated with schema.org terms are products, local businesses, events, and job postings. The Web Data Commons project has been extracting schema.org data from the Common Crawl every year since 2013 and offers the extracted data for public download in the form of the schema.org data set series. The latest release in the series consists of 106 billion RDF quads describing 3.1 billion entities. The entity descriptions originate from 12.8 million different websites. From a Web Science perspective, the data set series lays the foundation for analyzing the adoption process of schema.org annotations on the Web over the past decade. From a machine learning perspective, the annotations provide a large pool of training data for tasks such as product matching, product or job categorization, information extraction, or question answering. This poster gives an overview of the content of the Web Data Commons schema.org data set series. It highlights trends in the adoption of schema.org annotations on the Web and discusses how the annotations are being used as training data for machine learning applications.},
+  doi       = {10.1145/3543873.3587331},
+  isbn      = {9781450394192},
+  keywords  = {information extraction, schema.org, semantic annotations, web science},
+  location  = {Austin, TX, USA},
+  numpages  = {4},
+  url       = {https://doi.org/10.1145/3543873.3587331},
+}
+
+@Article{Das2015,
+  author  = {Das, Sanjib and Doan, A and Psgc, C Gokhale and Konda, Pradap and Govind, Yash and Paulsen, Derek},
+  journal = {Konda," The magellan data repository",[online] Available: https://sites. google. com/site/anhaidgroup/useful-stuff/data},
+  title   = {The magellan data repository},
+  year    = {2015},
+}
+
+@Article{Akhtar2023,
+  author   = {Akhtar, Mubashara and Shankarampeta, Abhilash and Gupta, Vivek and Patil, Arpit and Cocarascu, Oana and Simperl, Elena},
+  journal  = {arXiv preprint arXiv:2311.02216},
+  title    = {Exploring the numerical reasoning capabilities of language models: A comprehensive analysis on tabular data},
+  year     = {2023},
+  abstract = {Numbers are crucial for various real-world domains such as finance, economics, and science. Thus, understanding and reasoning with numbers are essential skills for language models to solve different tasks. While different numerical benchmarks have been introduced in recent years, they are limited to specific numerical aspects mostly. In this paper, we propose a hierarchical taxonomy for numerical reasoning skills with more than ten reasoning types across four levels: representation, number sense, manipulation, and complex reasoning. We conduct a comprehensive evaluation of state-of-the-art models to identify reasoning challenges specific to them. Henceforth, we develop a diverse set of numerical probes employing a semi-automated approach. We focus on the tabular Natural Language Inference (TNLI) task as a case study and measure models' performance shifts. Our results show that no model consistently excels across all numerical reasoning types. Among the probed models, FlanT5 (few-/zero-shot) and GPT-3.5 (few-shot) demonstrate strong overall numerical reasoning skills compared to other models. Label-flipping probes indicate that models often exploit dataset artifacts to predict the correct labels.},
+  comment  = {Citations - 11(20/10/2024)},
+  url      = {https://arxiv.org/pdf/2311.02216},
+}
+
+@InProceedings{Zhao2022,
+  author    = {Zhao, Yilun and Li, Yunxiang and Li, Chenying and Zhang, Rui},
+  booktitle = {Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)},
+  title     = {{M}ulti{H}iertt: Numerical Reasoning over Multi Hierarchical Tabular and Textual Data},
+  year      = {2022},
+  address   = {Dublin, Ireland},
+  editor    = {Muresan, Smaranda and Nakov, Preslav and Villavicencio, Aline},
+  month     = may,
+  pages     = {6588--6600},
+  publisher = {Association for Computational Linguistics},
+  abstract  = {Numerical reasoning over hybrid data containing both textual and tabular content (e.g., financial reports) has recently attracted much attention in the NLP community. However, existing question answering (QA) benchmarks over hybrid data only include a single flat table in each document and thus lack examples of multi-step numerical reasoning across multiple hierarchical tables. To facilitate data analytical progress, we construct a new large-scale benchmark, MultiHiertt, with QA pairs over Multi Hierarchical Tabular and Textual data. MultiHiertt is built from a wealth of financial reports and has the following unique characteristics: 1) each document contain multiple tables and longer unstructured texts; 2) most of tables contained are hierarchical; 3) the reasoning process required for each question is more complex and challenging than existing benchmarks; and 4) fine-grained annotations of reasoning processes and supporting facts are provided to reveal complex numerical reasoning. We further introduce a novel QA model termed MT2Net, which first applies facts retrieving to extract relevant supporting facts from both tables and text and then uses a reasoning module to perform symbolic reasoning over retrieved facts. We conduct comprehensive experiments on various baselines. The experimental results show that MultiHiertt presents a strong challenge for existing baselines whose results lag far behind the performance of human experts. The dataset and code are publicly available at \url{https://github.com/psunlpgroup/MultiHiertt}.},
+  doi       = {10.18653/v1/2022.acl-long.454},
+  url       = {https://aclanthology.org/2022.acl-long.454},
+}
+
+@Article{Chen2019a,
+  author   = {Chen, Zhiyu and Eavani, Harini and Chen, Wenhu and Liu, Yinyin and Wang, William Yang},
+  journal  = {arXiv preprint arXiv:1904.09521},
+  title    = {Few-shot NLG with pre-trained language model},
+  year     = {2019},
+  abstract = {Neural-based end-to-end approaches to natural language generation (NLG) from structured data or knowledge are data-hungry, making their adoption for real-world applications difficult with limited data. In this work, we propose the new task of \textit{few-shot natural language generation}. Motivated by how humans tend to summarize tabular data, we propose a simple yet effective approach and show that it not only demonstrates strong performance but also provides good generalization across domains. The design of the model architecture is based on two aspects: content selection from input data and language modeling to compose coherent sentences, which can be acquired from prior knowledge. With just 200 training examples, across multiple domains, we show that our approach achieves very reasonable performances and outperforms the strongest baseline by an average of over 8.0 BLEU points improvement. Our code and data can be found at \url{https://github.com/czyssrs/Few-Shot-NLG}},
+  comment  = {Citations - 153 (20/10/2024)},
+  url      = {https://arxiv.org/pdf/1904.09521},
+}
+
 @Comment{jabref-meta: databaseType:bibtex;}

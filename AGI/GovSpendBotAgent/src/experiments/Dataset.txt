@@ -8,14 +8,23 @@
 7. FeTaQA: Free-form table question answering
    a. Paper: https://scholar.google.com/scholar_url?url=https://direct.mit.edu/tacl/article-pdf/doi/10.1162/tacl_a_00446/2012156/tacl_a_00446.pdf&hl=en&sa=T&oi=gsr-r-gga&ct=res&cd=0&d=13900588696844028848&ei=QS0RZ_yJBLa56rQP1tOf0Qw&scisig=AFWwaeZSzYXXIx1YsRAna1uqDtbc 
    b. Github: https://github.com/Yale-LILY/FeTaQA
+   c. Purpose: Evaluating a QA system’s ability to understand queries and retrieve short-form answers from
+               tabular data and FeTaQA introduces elements that require deeper reasoning and integration of information. This
+               includes generating free-form text answers that involve the retrieval, inference, and integration of multiple
+               discontinuous facts from structured knowledge sources like tables. This requires the model to generate long,
+               informative, and free-form answers. 
 
 8. Compositional Semantic Parsing on Semi-Structured Tables
    a. Paper: https://arxiv.org/pdf/1508.00305
    b. Web Link: https://ppasupat.github.io/WikiTableQuestions/
+   c. Purpose: Evaluating a QA system’s ability to understand queries and retrieve short-form answers from
+               tabular data.
 
 9. Hybridqa: A dataset of multi-hop question answering over tabular and textual data
   a. Paper: https://arxiv.org/pdf/2004.07347 
   b. Web Link: https://hybridqa.github.io/
+  c. Purpose: This addresses a significant challenge in current dialogue systems:
+              conversing on topics with information distributed across different modalities, specifically text and tables.
 
 10. Search-based Neural Structured Learning for Sequential Question Answering
   a. Paper: https://aclanthology.org/P17-1167.pdf
@@ -24,14 +33,17 @@
 11. HiTab
   a. Paper: https://arxiv.org/pdf/2108.06712
   b. Github: https://github.com/microsoft/HiTab
+  c. Purpose:  Standardized and comparable evaluation across different NLG models and tasks
 
 12. ToTTo
   a. Paper: https://arxiv.org/abs/2004.14373
-  b. Github: https://github.com/google-research-datasets/ToTTo 
+  b. Github: https://github.com/google-research-datasets/ToTTo
+  c. Purpose: Can be used to benchmark table conditional text generation task 
 
 13. FEVEROUS: Fact Extraction and VERification Over Unstructured and Structured information
   a. Paper: https://arxiv.org/abs/2106.05707
   b. Weblink: https://fever.ai/dataset/feverous.html
+  c. Purpose: Fact extraction and verification tasks.
 
 14. Spider
   a. Paper: https://arxiv.org/abs/1809.08887
@@ -39,11 +51,14 @@
 
 15. Seq2sql
   a. Paper: https://arxiv.org/pdf/1709.00103
-  b. Paper: https://github.com/salesforce/WikiSQL
+  b. Github: https://github.com/salesforce/WikiSQL
+  c. Purpose: training and evaluating models that generate SQL commands
 
 16. Infotab
   a. Paper: https://arxiv.org/pdf/2005.06117
   b. Web Link: https://infotabs.github.io/
+  c. Purpose: InfoTabs is particularly useful for studying complex, multi-faceted reasoning over
+              semi-structured, multi-domain, and heterogeneous data.
 
 17. TabFact
   a. Paper: https://arxiv.org/pdf/1909.02164
@@ -52,14 +67,20 @@
 18. AITQA
   a. Paper: https://arxiv.org/pdf/2106.12944
   b. Github: https://github.com/IBM/AITQA
+  c. Benchmark: https://paperswithcode.com/dataset/ait-qa
+  d. Purpose: Table Question Answering (Table-QA) which is specific to the airline industry
 
 19. TAT-QA
   a. Paper: https://arxiv.org/pdf/2105.07624
   b. Github: https://github.com/NExTplusplus/TAT-QA
+  c. Purpose: Finance related table question answer, assesses numerical reasoning, involving
+              operations like addition, subtraction, and comparison.
 
 20. Scigen
   a. Paper:https://arxiv.org/pdf/2104.08296
   b. Github: https://github.com/UKPLab/SciGen
+  c. Purpose: Focuses on assessing the arithmetic reasoning capabilities of generation models on complex input structures, such as tables
+              from scientific articles.
 
 21. Tranx
   a. Paper: https://arxiv.org/pdf/1806.07832
@@ -73,4 +94,20 @@
   a. Paper: https://aclanthology.org/2020.acl-main.398/
   b. Github: https://github.com/google-research/tapas
 
-24. 
+24. Dresden Web Table Corpus(DWTC)-Extractor: A Web Table Extractor for the Common Crawl, 
+  a. Paper: https://tud.qucosa.de/api/qucosa%3A82091/attachment/ATT-0/ 
+  b. Github: https://github.com/JulianEberius/dwtc-extractor 
+
+25. Web Data Commons
+  a. Paper: https://dl.acm.org/doi/abs/10.1145/3543873.3587331 
+  b. Link: https://webdatacommons.org/
+
+26. Data Commons 
+  a. Documentation: https://docs.datacommons.org/ 
+  b. Link: https://datacommons.org/ 
+
+27. The Magellan Data Repository
+  a. Documentation: https://sites.google.com/site/anhaidgroup/useful-stuff/the-magellan-data-repository/description-of-the-784-data-sets?authuser=0
+  b. Website: https://sites.google.com/site/anhaidgroup/useful-stuff/the-magellan-data-repository?pli=1 
+
+28.     

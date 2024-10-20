@@ -1,0 +1,33 @@
+Models
+
+1. Docmath-eval: Evaluating numerical reasoning capabilities of llms in understanding long documents with tabular data
+   a. Paper:https://scholar.google.com/scholar_url?url=https://arxiv.org/pdf/2311.09805&hl=en&sa=T&oi=gsr-r-gga&ct=res&cd=0&d=7550031037247071778&ei=fdUUZ7mZGKG26rQPoM2f-QE&scisig=AFWwaeadClWJ9FaIKO8OTzvrmwLf
+   b. Dataset: TAT-QA, FinQA, MultiHiertt, TAT-HQA, expert annotated from scratch
+   c. Task: NumQA
+   d. Purpose:  A comprehensive benchmark specifically designed to evaluate the numerical reasoning and problem-solving capabilities of LLMs in the context of understanding and analyzing financial documents containing both text and tables.
+   e. Models explored: GPT4, GPT3.5, WizardLM, Llama-2 7, 13, 70B, CodeLlama 34B, Baichuan, Qwen, WizardMath, Vicuna, Mistral, etc.
+   f. Github: https://github.com/yale-nlp/DocMath-Eval
+
+2. Exploring the numerical reasoning capabilities of language models: A comprehensive analysis on tabular data
+   a. Paper: https://scholar.google.com/scholar_url?url=https://arxiv.org/pdf/2311.02216&hl=en&sa=T&oi=gsr-r-gga&ct=res&cd=0&d=6974883269906344466&ei=t9cUZ6zTMrmI6rQPhf6hiAs&scisig=AFWwaeY7JSJHjc8fpIVGMa8GXLZS
+   b. Dataset: TabFact, InfoTabs, TAT-QA, TabMWP, TATQANLI, TabMWP-NLI
+   c. Task: NumQA
+   d. Purpose:  A comprehensive benchmark specifically designed to evaluate the numerical reasoning and problem-solving capabilities of LLMs in the context of understanding and analyzing financial documents containing both text and tables.
+   e. Models explored: TAPAS, DeBERTa, TAPEX, NT5, LUNA, PASTA, ReasTAP, FlanT5, GPT3.5, PaLM
+   f. Github: https://github.com/mubasharaak/numerical_reasoning (doesn't exist, look in different place)
+
+3. Tablegpt: Few-shot table-to-text generation with table structure reconstruction and content matching
+   a. Paper:https://scholar.google.com/scholar_url?url=https://aclanthology.org/2020.coling-main.179.pdf&hl=en&sa=T&oi=gsr-r-gga&ct=res&cd=0&d=11990238445397814107&ei=bNsUZ-iJJJuJ6rQP6aHFmAU&scisig=AFWwaeZweB1xE2s_y2OzcIA3OaTG
+   b. Dataset: 
+   c. Task: NumQA
+   d. Purpose: Three challanges are addressed (1) the gap between the task’s structured input and the natural language input for pretraining language model.(2) The lack of modeling for table structure and (3) improving text fidelity with less incorrect expressions that are contradicting to the table.
+   e. Models explored: GPT2
+   f. Github: Mail them
+
+4. Few-shot NLG with pre-trained language model
+   a. Paper: https://arxiv.org/pdf/1904.09521
+   b. Dataset: 
+   c. Task: 
+   d. Purpose: 
+   e. Model explored: 
+   f. Github: https://github.com/czyssrs/Few-Shot-NLG
