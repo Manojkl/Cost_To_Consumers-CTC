@@ -4,7 +4,7 @@
     "date": "2024-10-24 08:15:10, 2024-10-24 19:10:10",
     "coordinates": "(12.9376999, 77.6934192)",
     "pulse_code": "WMQV+39F Bengaluru, Karnataka",
-    "status": "Open",
+    "status": "Not fixed. Patch work with gravel stones, still the probability of accident is high",
     "ticket_no": 1,
     "responsible_department":"National Highways Authority of India (NHAI)",
     "responsbile_person":"___",
@@ -13,5 +13,7 @@
     "cost_incurred":"estimate",
     "responsible_department_id":12232,
     "other_precise_coordinate":"___",
-    "accident_reported_id":"wefwe_12312, dfsfdf_23423"
+    "accident_reported_id":"wefwe_12312, dfsfdf_23423",
+    "feature_request": "A incident tracker",
+    "last_updated": "2024-10-28 21:29:10"
 }
