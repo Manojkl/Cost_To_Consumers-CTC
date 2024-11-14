@@ -30,14 +30,13 @@ def _get_regex_parser_fn(regex: str) -> Callable:
         """Regex parser."""
         output = str(output)
         m = re.search(regex, output)
-        try:
-            args = m.group(1)
-        except:
-            args = m
+        args = m.group(1)
+        # print("args:", args)
         if "," in args:
             return [a.strip().strip("'\"") for a in args.split(",")]
         else:
             return [args.strip().strip("'\"")]
+            
 
     return _regex_parser
 
@@ -403,10 +402,19 @@ class SelectRowSchema(FunctionSchema):
         """Call function."""
         # assert that args is a list
         assert isinstance(args, list)
+        print("Args")
+        print(args)
+        print("==============")
         # parse out args since it's in the format ["row 1", "row 2"], etc.
         args = [int(arg.split(" ")[1]) - 1 for arg in args]
 
         table = table.copy()
+        print("Table index")
+        print(table.index)  # Display available row labels
+        print("Args")
+        print(args)
+        # Reset the index of the copied DataFrame
+        table = table.reset_index(drop=True)
         # select rows from table
         return table.loc[args]
 
@@ -652,6 +660,8 @@ class ChainOfTableQueryEngine(CustomQueryEngine):
 
     def custom_query(self, query_str: str) -> Response:
         """Run chain of table query engine."""
+        print("Run chain of table query engine.")
+        print("Hi")
         op_chain = []
         dynamic_plan_parser = FnComponent(fn=_dynamic_plan_parser)
 
@@ -682,6 +692,11 @@ class ChainOfTableQueryEngine(CustomQueryEngine):
                     print("> Ending operation chain.")
                 break
 
+            print("type of curr_table:", type(cur_table))
+            
+            if len(cur_table) == 1:
+                break
+            # print(cur_table)
             # generate args from key
             fn_prompt = schema_mappings[key].generate_prompt_component(
                 serialized_table=serialize_table(cur_table),

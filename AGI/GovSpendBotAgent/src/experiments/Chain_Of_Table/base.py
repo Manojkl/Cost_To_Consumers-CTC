@@ -9,9 +9,6 @@ import re
 from abc import abstractmethod
 from typing import Any, Callable, Dict, List, Optional, Tuple
 
-from transformers import AutoTokenizer, AutoModelForSeq2SeqLM
-from llama_index.llms.huggingface import HuggingFaceLLM
-from transformers import AutoModelForSeq2SeqLM, AutoTokenizer
 import pandas as pd
 from llama_index.core.base.query_pipeline.query import QueryComponent
 from llama_index.core.base.response.schema import Response
@@ -24,8 +21,7 @@ from llama_index.core.query_pipeline.components.function import FnComponent
 from llama_index.core.query_pipeline.query import QueryPipeline as QP
 from llama_index.core.utils import print_text
 from llama_index.llms.openai import OpenAI
-from llama_index.llms.huggingface import HuggingFaceLLM
-import torch
+
 
 def _get_regex_parser_fn(regex: str) -> Callable:
     """Get regex parser."""
@@ -34,12 +30,15 @@ def _get_regex_parser_fn(regex: str) -> Callable:
         """Regex parser."""
         output = str(output)
         m = re.search(regex, output)
-        args = m.group(1)
-        if "," in args:
-            return [a.strip().strip("'\"") for a in args.split(",")]
-        else:
-            return [args.strip().strip("'\"")]
-
+        try:
+            args = m.group(1)
+            print("args:",args)
+            if "," in args:
+                return [a.strip().strip("'\"") for a in args.split(",")]
+            else:
+                return [args.strip().strip("'\"")]
+        except:
+            pass
     return _regex_parser
 
 
@@ -571,41 +570,20 @@ schema_mappings: Dict[str, FunctionSchema] = {
 }
 
 
-# def _dynamic_plan_parser(dynamic_plan: Any) -> Dict[str, Any]:
-#     """Parse dynamic plan."""
-#     dynamic_plan_str = str(dynamic_plan)
-#     # break out arrows
-#     tokens = dynamic_plan_str.split("->")
-#     # look at first token
-#     first_token = tokens[0].strip().lower()
-#     for key in schema_mappings:
-#         if key in first_token:
-#             return key
-#     # look at end token
-#     if "<END>" in tokens[0]:
-#         return "<END>"
-#     raise ValueError(f"Could not parse dynamic plan: {dynamic_plan_str}")
-
-
 def _dynamic_plan_parser(dynamic_plan: Any) -> Dict[str, Any]:
-    """Parse dynamic plan with flexible end marker detection."""
-    dynamic_plan_str = str(
-        dynamic_plan
-    ).strip()  # Remove any leading/trailing whitespace
-
-    # Debugging: Print the full response to inspect its exact structure
-    print(
-        "Debug - Full dynamic plan response with special characters visible:\n",
-        repr(dynamic_plan_str),
-    )
-
-    # Flexible check for <END> marker
-    if re.search(r"<\s*END\s*>", dynamic_plan_str, re.IGNORECASE):
-        print("Debug - End marker '<END>' detected.")
+    """Parse dynamic plan."""
+    dynamic_plan_str = str(dynamic_plan)
+    # break out arrows
+    tokens = dynamic_plan_str.split("->")
+    # look at first token
+    first_token = tokens[0].strip().lower()
+    for key in schema_mappings:
+        if key in first_token:
+            return key
+    
+    # look at end token
+    if "<END>" in tokens[0]:
         return "<END>"
-
-    # If <END> marker isn't found
-    print("Debug - End marker '<END>' not found in response.")
     raise ValueError(f"Could not parse dynamic plan: {dynamic_plan_str}")
 
 
@@ -649,7 +627,7 @@ def serialize_table(table: pd.DataFrame) -> str:
 
 class ChainOfTableQueryEngine(CustomQueryEngine):
     """Chain of table query engine."""
-
+    print()
     dynamic_plan_prompt: PromptTemplate = Field(
         default=dynamic_plan_prompt, description="Dynamic plan prompt."
     )
@@ -669,14 +647,12 @@ class ChainOfTableQueryEngine(CustomQueryEngine):
         **kwargs: Any,
     ) -> None:
         """Init params."""
-        print("Hello")
         llm = llm or OpenAI(model="gpt-3.5-turbo")
         super().__init__(table=table, llm=llm, verbose=verbose, **kwargs)
 
     def custom_query(self, query_str: str) -> Response:
         """Run chain of table query engine."""
         op_chain = []
-        print("Hello")
         dynamic_plan_parser = FnComponent(fn=_dynamic_plan_parser)
 
         cur_table = self.table.copy()
@@ -767,66 +743,3 @@ class ChainOfTablePack(BaseLlamaPack):
     def run(self, *args: Any, **kwargs: Any) -> Any:
         """Run the pipeline."""
         return self.query_engine.query(*args, **kwargs)
-
-
-# if __name__ == "__main__":
-
-#     # model = "google/gemma-2-2b"
-#     # tokenizer =
-#     df = pd.read_csv(
-#     "/Users/manojkl/Documents/Cost_To_Consumers-CTC/AGI/GovSpendBotAgent/src/Dataset/WikiTableQuestions/csv/200-csv/11.csv")
-#     llm = HuggingFaceLLM(
-#     model_name="google/gemma-2-2b",
-#     tokenizer_name="google/gemma-2-2b")
-
-#     query_engine = ChainOfTableQueryEngine(df, llm=llm, verbose=True)
-#     response = query_engine.custom_query("Who won best Director in the 1972 Academy Awards?")
-
-if __name__ == "__main__":
-    prompt_template = """
-    ### Instruction:
-    You are a helpful assistant. Create a structured plan to answer questions, ending with a new line containing "<END>".
-
-    Step 1: Identify the data needed.
-    Step 2: Extract relevant details.
-    Step 3: Answer the question.
-    <END>
-
-    ### Question:
-    {query_str}
-
-    ### Context:
-    {context_str}
-
-    ### Response:
-    """
-
-    # model = "google/gemma-2-2b"
-    # tokenizer =
-    df = pd.read_csv(
-        "/Users/manojkl/Documents/Cost_To_Consumers-CTC/AGI/GovSpendBotAgent/src/Dataset/WikiTableQuestions/csv/200-csv/11.csv"
-    )
-    # llm = HuggingFaceLLM(
-    #     model_name="google/gemma-2-2b", tokenizer_name="google/gemma-2-2b"
-    # )
-    # Check if MPS is available
-    device = torch.device("mps") if torch.has_mps else torch.device("cpu")
-    print("Using device:", device)
-
-    # model_name = "google/flan-t5-xl"  # or another seq2seq model
-    # tokenizer = AutoTokenizer.from_pretrained(model_name)
-    # model = AutoModelForSeq2SeqLM.from_pretrained(model_name).to(device)
-
-    model_name = "google/gemma-2-2b"
-
-    tokenizer = AutoTokenizer.from_pretrained(model_name)
-
-    # # Load the model specifically designed for conditional generation
-    # model = AutoModelForSeq2SeqLM.from_pretrained(model_name).to(device)
-
-    llm = HuggingFaceLLM(model_name=model_name, tokenizer=tokenizer)
-
-    query_engine = ChainOfTableQueryEngine(df, llm=llm, verbose=True)
-    response = query_engine.custom_query(
-        "Who won best Director in the 1972 Academy Awards?"
-    )

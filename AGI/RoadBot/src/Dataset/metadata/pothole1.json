@@ -1,10 +1,10 @@
 {
     "image_description": "A pothole in the middle of the road",
-    "image_filename": "pothole1_a.jpg,pothole1_b.jpg",
-    "date": "2024-10-24 08:15:10, 2024-10-24 19:10:10",
+    "image_filename": "pothole1_a.jpg,pothole1_b.jpg,pothole1_c.jpg",
+    "date": "2024-10-24 08:15:10, 2024-10-24 19:10:10, 2024-11-12 08:15:00",
     "coordinates": "(12.9376999, 77.6934192)",
     "pulse_code": "WMQV+39F Bengaluru, Karnataka",
-    "status": "Not fixed. Patch work with gravel stones, still the probability of accident is high",
+    "comments": "[[2024-10-24: Not fixed.],[2024-10-30: Patch work with gravel stones, still the probability of accident is high],[2024-11-12: Fixed]]",
     "ticket_no": 1,
     "responsible_department":"National Highways Authority of India (NHAI)",
     "responsbile_person":"___",
@@ -15,5 +15,8 @@
     "other_precise_coordinate":"___",
     "accident_reported_id":"wefwe_12312, dfsfdf_23423",
     "feature_request": "A incident tracker",
-    "last_updated": "2024-10-28 21:29:10"
+    "status": "Closed",
+    "lifespan_of_patch": "2024-11-12 --> current",
+    "quality_of_patch":"ratings",
+    "last_updated": "2024-11-14 21:22:00"
 }
