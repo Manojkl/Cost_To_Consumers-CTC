@@ -1,0 +1,18 @@
+{
+    "image_description": "Incident with bus travel",
+    "image_filename": "busissue1_a.jpg",
+    "date": "2024-12-06 15:18:00",
+    "coordinates": "(12.724825, 75.555675)",
+    "pulse_code": "PHF4+W7F Nettana, Karnataka",
+    "status": "[(2024-12-06: [Signal not working with the ticket dispensing machine (Saying BSNL sim), qr-code for payment not present, giving ticket for 15 rupees (giving ticket from next station to destination) then taking 20 rupees saying machine was not working properly])]",
+    "ticket_no": 1,
+    "responsible_department":"Karnataka State Road Transport Corporation (KSRTC)",
+    "responsbile_person":"____, conductor-ramesh",
+    "reported_by":"id_122343453434",
+    "cost_incurred":"estimate",
+    "responsible_department_id":12232,
+    "other_precise_coordinate":"___",
+    "feature_request":"Qr code scanner, other",
+    "last_updated": "2024-12-06 15:18:00",
+    "ratings":"___"
+}
