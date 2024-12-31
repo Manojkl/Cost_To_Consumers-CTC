@@ -19,3 +19,9 @@ The LLM is trained and fine-tuned on government spending data across daily, mont
 - Injection of outliers
 - Poison the dataset
 - 
+
+
+## Aesthetic measurement from images, video, report.
+
+- Detect aesthetics from the image, video and report.
+- Quality of Audio.
