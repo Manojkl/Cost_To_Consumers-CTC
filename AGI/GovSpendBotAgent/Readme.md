@@ -26,3 +26,10 @@ The LLM is trained and fine-tuned on government spending data across daily, mont
 - Detect aesthetics from the image, video and report.
 - Quality of Audio.
 - Metrics to meausre the aesthetics.
+
+## Government Spending through online and cash
+
+- How much percetnage of government spending happens through cash and online?
+- Adoption rate of digital transactions in government spending.
+- Incentivize the digital transaction.
+
