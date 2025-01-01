@@ -464,3 +464,20 @@ Here is the updated table with the percentage change in the price of both Brent 
 ### Explanation of the percentage change:
 - **Brent Price Change (%)**: This column shows the percentage change in Brent crude oil price compared to the previous year.
 - **WTI Price Change (%)**: This column shows the percentage change in WTI crude oil price compared to the previous year.
+
+## Power Quality/Outage Statistics
+
+- Cost incurred
+- Time spent
+
+Make map of Electricity Outage/Quality.
+
+Build a database of electricty quality, statistics, responsible department, Persons. Over the period of time.
+
+Smart energy meter[1].
+
+- List all the common issues.
+
+References:
+
+1. https://www.ltts.com/sites/default/files/resources/pdf/whitepapers/2023-03/IoT-based-smart-meter.pdf

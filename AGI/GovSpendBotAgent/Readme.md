@@ -25,3 +25,4 @@ The LLM is trained and fine-tuned on government spending data across daily, mont
 
 - Detect aesthetics from the image, video and report.
 - Quality of Audio.
+- Metrics to meausre the aesthetics.
