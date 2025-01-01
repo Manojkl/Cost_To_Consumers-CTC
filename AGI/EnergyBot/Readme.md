@@ -475,6 +475,9 @@ Make map of Electricity Outage/Quality.
 Build a database of electricty quality, statistics, responsible department, Persons. Over the period of time.
 
 Smart energy meter[1].
+- Install cost effective smart energy meters at each small regions.
+- Meausre most common quality paramters of electricity. Eg. Region, timestamp, Frequency,....etc
+- Make the data public or open sourced.
 
 - List all the common issues.
 
