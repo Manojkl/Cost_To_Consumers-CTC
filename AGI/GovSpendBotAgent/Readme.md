@@ -33,3 +33,16 @@ The LLM is trained and fine-tuned on government spending data across daily, mont
 - Adoption rate of digital transactions in government spending.
 - Incentivize the digital transaction.
 
+## Time taken to get a work done at Government Institutions
+
+Collect all data for all the government institutions
+
+Eg:
+
+| Task                        | **India**          | **USA**            | **China**         | **Germany**       | **Singapore**     | **France**        |
+|-----------------------------|--------------------|--------------------|-------------------|-------------------|-------------------|-------------------|
+| **Passport Issuance**        | 7–30 days          | 3–5 weeks          | 7–10 days         | 4–6 weeks         | 3–5 days          | 2–3 weeks         |
+| **Business Registration**    | Weeks–Months       | 1–2 weeks          | 1–5 days          | 7–10 days         | <24 hours         | 1–2 weeks         |
+| **Land Registry**            | Months             | Weeks–Months       | Weeks             | Weeks–Months      | Days              | 2–6 months        |
+| **Infrastructure Approvals** | 6–24 months        | 3–12 months        | 1–3 months        | 6–12 months       | 2–6 months        | 6–12 months       |
+| **General Administration Tasks** | Weeks–Months   | 1–4 weeks          | Days–Weeks        | Weeks–Months      | 1–3 days          | 2–6 weeks         |
