@@ -46,3 +46,5 @@ Eg:
 | **Land Registry**            | Months             | Weeks–Months       | Weeks             | Weeks–Months      | Days              | 2–6 months        |
 | **Infrastructure Approvals** | 6–24 months        | 3–12 months        | 1–3 months        | 6–12 months       | 2–6 months        | 6–12 months       |
 | **General Administration Tasks** | Weeks–Months   | 1–4 weeks          | Days–Weeks        | Weeks–Months      | 1–3 days          | 2–6 weeks         |
+
+- Infrastructure completion time
