@@ -4,3 +4,4 @@
 - Maintain a central database to collect all these ideas. 
 - Check aganist the database to be unique.
 - Reward for the same
+- Create the database of problems
