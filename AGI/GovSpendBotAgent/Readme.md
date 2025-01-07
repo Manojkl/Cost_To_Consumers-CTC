@@ -50,3 +50,7 @@ Eg:
 - Infrastructure completion time with cost and quality 
 
 ## Create a forum to get all the problems/Issues and potential solutions Discussion with the government services and other.
+
+Make all the ministers, Government workers to be on the forum 
+Give sections to departments, State, District, Taluk, Villages 
+People can post thier concerns, issues, potential solutions to a problem
