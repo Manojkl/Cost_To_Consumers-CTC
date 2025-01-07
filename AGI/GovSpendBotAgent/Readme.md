@@ -47,4 +47,6 @@ Eg:
 | **Infrastructure Approvals** | 6–24 months        | 3–12 months        | 1–3 months        | 6–12 months       | 2–6 months        | 6–12 months       |
 | **General Administration Tasks** | Weeks–Months   | 1–4 weeks          | Days–Weeks        | Weeks–Months      | 1–3 days          | 2–6 weeks         |
 
-- Infrastructure completion time
+- Infrastructure completion time with cost and quality 
+
+## Create a forum to get all the problems/Issues and potential solutions Discussion with the government services and other.
