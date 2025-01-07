@@ -9,3 +9,6 @@ For example, give all information until 1900, ask the AI agents to move the fiel
 
 - A benchmark that evaulates trustworthiness of the AGI/Agents.
 - A benchmark that evaluates the how much the response of the system is influenced by external or internal factors.
+- A benchmark  on reliability test
+- In coding, benchmark to test the consistent, error free code generation on general task or specific task
+- End user experience test
