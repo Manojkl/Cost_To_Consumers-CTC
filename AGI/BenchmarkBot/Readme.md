@@ -14,3 +14,4 @@ For example, give all information until 1900, ask the AI agents to move the fiel
 - End user experience test
 - Complex task handling benchmarks for llm
 - Adjust temperature and other parameters dynamically based on the task
+- Adaptability benchmark of llm on task specific
