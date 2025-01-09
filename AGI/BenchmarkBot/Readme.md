@@ -15,3 +15,4 @@ For example, give all information until 1900, ask the AI agents to move the fiel
 - Complex task handling benchmarks for llm
 - Adjust temperature and other parameters dynamically based on the task
 - Adaptability benchmark of llm on task specific
+- Benchmarks on creation of new tool/components for a project or in general
