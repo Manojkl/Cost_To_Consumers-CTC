@@ -23,3 +23,4 @@ Transform the problem from linguistic domain to visual domain and try to solve.
 - Simulation, give ask it to critque the way of doing, ask suggetions on what is the better way to do it.
 - Given a piece of work as video, ask the system to tell what is the optimized way of doing things.
 - Learn the better way of doing things pattern.
+- Add the sound domain to describe.
