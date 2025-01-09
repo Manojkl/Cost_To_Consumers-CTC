@@ -18,3 +18,11 @@ Privacy Preservation: Implement robust anonymization techniques to protect indiv
 Diverse Subjects: Include a wide range of living beings to enhance the dataset's applicability across various studies.
 
 This initiative aims to provide a rich, ethically sourced dataset for advancing research in fields such as neuroscience, artificial intelligence, and behavioral science.
+
+# Smell
+
+Collect wide range of smells.
+Associate smells with the sound.
+Find the correlation.
+How much affect smell has on individuals decisions taking.
+Associate smell with places, 
