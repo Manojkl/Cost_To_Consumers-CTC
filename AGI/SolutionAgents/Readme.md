@@ -24,3 +24,7 @@ Transform the problem from linguistic domain to visual domain and try to solve.
 - Given a piece of work as video, ask the system to tell what is the optimized way of doing things.
 - Learn the better way of doing things pattern.
 - Add the sound domain to describe.
+
+## Application 
+
+- Apply it to research papers
