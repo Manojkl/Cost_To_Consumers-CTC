@@ -27,4 +27,4 @@ Transform the problem from linguistic domain to visual domain and try to solve.
 
 ## Application 
 
-- Apply it to research papers
+- Apply it to research papers, apply different fields approach to one another
