@@ -17,3 +17,4 @@ For example, give all information until 1900, ask the AI agents to move the fiel
 - Adaptability benchmark of llm on task specific
 - Benchmarks on creation of new tool/components for a project or in general
 - Edge case handling benchmarks
+- Security and vulnerability benchmarks
