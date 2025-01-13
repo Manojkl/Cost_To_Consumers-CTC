@@ -34,3 +34,8 @@ Transform the problem from linguistic domain to visual domain and try to solve.
 ## Application 
 
 - Apply it to research papers, apply different fields approach to one another
+
+## Error propagation 
+
+- Study on error propagation 
+- Mitigation steps to stop or minimise the error
