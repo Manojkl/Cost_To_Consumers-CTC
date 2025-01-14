@@ -40,3 +40,9 @@ Transform the problem from linguistic domain to visual domain and try to solve.
 
 - Study on error propagation 
 - Mitigation steps to stop or minimise the error
+
+## Electronics circuits design
+
+- Design based on the requirement design a circuit by solving the mathematical equations and design them
+- Consider the constraints
+- Come up with a new ways of designing the circuit or new technology
