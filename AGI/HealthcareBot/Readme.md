@@ -448,3 +448,10 @@ Here is a table showing the **Medicare inflation** in China for the past 10 year
 
 ### **Conclusion**:
 Healthcare inflation in China has been relatively high over the last decade, driven by factors such as an aging population, increased demand for medical services, and rising pharmaceutical costs. Although inflation has slowed in recent years, it is expected that healthcare costs will continue to rise as China’s healthcare system further develops to meet the needs of a larger and aging population.
+
+## Medicine 
+
+- Does same medicine affect to every individual's treatments for a same disease?
+- What kind of medicine molecule formula applies best to solve the effectiveness
+- Treat it like a optimisation problem or any other parameter considering all the data of a individual's 
+- Study the interactions of different medicines or side effects
