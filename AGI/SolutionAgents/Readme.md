@@ -53,3 +53,4 @@ Transform the problem from linguistic domain to visual domain and try to solve.
 - Given the optimal solution and the problem ask the llm to find the optimisation used to that peoblem to get the optimal solution
 - Maybe that model is better at critiques
 - Straight way find the model that gives the optimal solution
+- Try to extract the optimisation pattern from the nature
