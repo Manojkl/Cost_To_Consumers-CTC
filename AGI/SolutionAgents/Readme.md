@@ -17,7 +17,6 @@ Transform the problem from linguistic domain to visual domain and try to solve.
 - Combine linguistic and visual domain together to solve the problem.
 - Look into different perspectives and choose a path of most likely to be optimal. Some perspectives helps to solve problems. Ex. Dual nature of light
 
-
 ## Image and Video domain
 
 - Give a image and ask questions on the image. E.g What a person is doing in the image or video, what else can he do?
@@ -48,3 +47,7 @@ Transform the problem from linguistic domain to visual domain and try to solve.
 - Design based on the requirement design a circuit by solving the mathematical equations and design them
 - Consider the constraints
 - Come up with a new ways of designing the circuit or new technology
+
+## Find the optimisation techniques 
+
+- Given the optimal solution and the problem ask the llm to find the optimisation used to that peoblem to get the optimal solution
