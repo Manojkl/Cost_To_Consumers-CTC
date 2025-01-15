@@ -15,6 +15,7 @@ Transform the problem from linguistic domain to visual domain and try to solve.
 - Solve directly.
 - Solve using solution/critique model.
 - Combine linguistic and visual domain together to solve the problem.
+- Look into different perspectives and choose a path of most likely to be optimal
 
 ## Image and Video domain
 
