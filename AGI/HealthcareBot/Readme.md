@@ -468,5 +468,5 @@ Give these data to learn from these data to make recommendations
 What are the food taken during these periods
 Environment in
 Check out other dimensions 
-
+Keep the human in the loop to monitor
 Every individual have their own LLM trained on their own data

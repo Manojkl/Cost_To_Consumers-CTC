@@ -14,6 +14,14 @@ Create a skeleton of the project
 
 https://docs.google.com/spreadsheets/d/19X78Mu8ZO4AbwbmKEdrywnk0yFyZLDvXsa58gp-0lD4/edit?usp=sharing [1]
 
+# Track release of data
+
+Track the release of data by different department and the individuals accounted for that particular data.
+Research on methodologies followed to gather the data.
+
+If no data is available take appropriate steps like public gathered dataset,...etc.
+
+
 References
 
 1. http://www.cspm.gov.in/ocmstemp/project_ind.krntk_PROC_TOR 
