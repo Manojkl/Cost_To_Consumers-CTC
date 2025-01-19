@@ -64,7 +64,7 @@ Transform the problem from linguistic domain to visual domain and try to solve.
 - Give all the data that earth is the center of solar system also give observations of people experiment data that explains the sun is the center of the solar system ask it to critize. Check if it's coming to the correct conclusions.
 - Can AI solve the reasoning video game without being trained on the data with minimal number of iterations. RL with very less iterations.
 
-# Biolofy into mathematics
+# Biology into mathematics
 
 - Describe the biology and represent them into mathematical terms. 
 - Language domain to visual domain.

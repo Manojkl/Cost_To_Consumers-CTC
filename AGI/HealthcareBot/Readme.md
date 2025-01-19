@@ -456,7 +456,7 @@ Healthcare inflation in China has been relatively high over the last decade, dri
 - Treat it like a optimisation problem or any other parameter considering all the data of a individual's 
 - Study the interactions of different medicines or side effects
 
-# Medication and Recommendations
+# Medicine and Recommendations
 Type of medicine took
 Implications
 Cost
