@@ -2,7 +2,7 @@
 
 Define a problem with all the details.
 Give the problem to two or more Agents. Each Agent give a response and other Agents find the flaws in the response or give better solution, cycle repeats until to a point when both agree to some level.
-Maybe add a monitor agent to oversee the responses.
+Maybe add a monitor agent(Can be AI or Human) to oversee the responses.
 Application:
 
 1. Coding
@@ -58,3 +58,13 @@ Transform the problem from linguistic domain to visual domain and try to solve.
 ## Alignment Issue
 
 - Issue due to alignment to achieve its goals
+
+## Experiment
+
+- Give all the data that earth is the center of solar system also give observations of people experiment data that explains the sun is the center of the solar system ask it to critize. Check if it's coming to the correct conclusions.
+- Can AI solve the reasoning video game without being trained on the data with minimal number of iterations. RL with very less iterations.
+
+# Biolofy into mathematics
+
+- Describe the biology and represent them into mathematical terms. 
+- Language domain to visual domain.

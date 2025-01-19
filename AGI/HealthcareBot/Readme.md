@@ -455,3 +455,18 @@ Healthcare inflation in China has been relatively high over the last decade, dri
 - What kind of medicine molecule formula applies best to solve the effectiveness
 - Treat it like a optimisation problem or any other parameter considering all the data of a individual's 
 - Study the interactions of different medicines or side effects
+
+# Medication and Recommendations
+Type of medicine took
+Implications
+Cost
+Find type of medicine formula worked best for particular individuals and quickest way to recover 
+Days on medication
+Find which one is more effective 
+Write what you felt after taking a particular medicine feeling better or not
+Give these data to learn from these data to make recommendations 
+What are the food taken during these periods
+Environment in
+Check out other dimensions 
+
+Every individual have their own LLM trained on their own data
