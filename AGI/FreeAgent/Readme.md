@@ -4,5 +4,5 @@ Create a environment and give all the capabilities to two or more human agents, 
 Put a simulated humans and an agent in similar environment
 
 Encode the survival instincts in them and put them in different simulated environments check what will it do.
-
+Encode the curiosity and other key parameters into the llm
 Find its own abilities, maybe it's not known to them that it can do that.
