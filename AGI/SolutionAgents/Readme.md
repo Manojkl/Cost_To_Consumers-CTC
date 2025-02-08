@@ -68,3 +68,8 @@ Transform the problem from linguistic domain to visual domain and try to solve.
 
 - Describe the biology and represent them into mathematical terms. 
 - Language domain to visual domain.
+
+Training a multi modality model
+
+train a text, image, sound etc modalities data in a single model
+train them in separate model and interact their findings to each other
