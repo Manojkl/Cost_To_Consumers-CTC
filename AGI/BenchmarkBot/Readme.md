@@ -18,3 +18,7 @@ For example, give all information until 1900, ask the AI agents to move the fiel
 - Benchmarks on creation of new tool/components for a project or in general
 - Edge case handling benchmarks
 - Security and vulnerability benchmarks
+
+Create a system where anyone can run the benchmark without much difficulty.
+Just running a small script or package should give the results.
+- Aim is to ensure time to time checking of the model performance aganist the original posted benchmark on runtime. 
