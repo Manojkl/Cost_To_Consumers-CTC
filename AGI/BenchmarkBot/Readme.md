@@ -37,3 +37,4 @@ Test case generation benchmarks for both open source and closed source solutions
 Benchmark on generalisation capabilities/learning capabilities 
 
 **A environment/site that host the evaluation of all the available open and closed source solutions for any type of problem the framework provides solutions to**
+Extend it to other domains such as E.g Robotics,...
