@@ -29,6 +29,11 @@ Benchmark the reasoning steps of the llms
 - Evaluate human reasoning and the LLM reasoning. Categories humans in different levels of intelligence, someone who is beginner, medium and expert. or split into different levels. 
 
 Bug free code generation benchmark 
+
 User expected code generation benchmark (Understanding/Interpretation of the user query)
+
 Test case generation benchmarks for both open source and closed source solutions 
+
 Benchmark on generalisation capabilities/learning capabilities 
+
+**A environment/site that host the evaluation of all the available open and closed source solutions for any type of problem the framework provides solutions to**
