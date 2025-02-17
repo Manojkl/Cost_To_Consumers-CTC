@@ -27,4 +27,6 @@ Benchmark the reasoning steps of the llms
 - Evaluate the entire reasoning steps of the llms rather than only final answers
 - Split into different categories like coding, solving a logical problems,... so on
 - Evaluate human reasoning and the LLM reasoning. Categories humans in different levels of intelligence, someone who is beginner, medium and expert. or split into different levels. 
-- Edge case handling benchmarks
+
+Edge case handling benchmarks
+Test case generation benchmarks
