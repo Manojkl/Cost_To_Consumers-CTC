@@ -31,3 +31,4 @@ Benchmark the reasoning steps of the llms
 Bug free code generation benchmark 
 User expected code generation benchmark (Understanding/Interpretation of the user query)
 Test case generation benchmarks
+Benchmark on generalisation capabilities/learning capabilities 
