@@ -22,3 +22,7 @@ For example, give all information until 1900, ask the AI agents to move the fiel
 Create a system where anyone can run the benchmark without much difficulty.
 Just running a small script or package should give the results.
 - Aim is to ensure time to time checking of the model performance aganist the original posted benchmark on runtime. 
+
+Benchmark the reasoning steps of the llms
+- Evaluate the entire reasoning steps of the llms rather than only final answers
+- Split into different categories like coding, solving a logical problems,... so on
