@@ -41,3 +41,4 @@ Extend it to other domains such as E.g Robotics,...
 
 - AI agents benchmark
 - Idea generation/Creativity benchmark
+- A benchmark that evaluates the ads in the LLM output and output information based corporate interests rather than facts, monetisation monitoring, both direct and indirect and all forms of ads, and keep track of these
