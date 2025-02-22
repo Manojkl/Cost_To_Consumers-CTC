@@ -73,3 +73,12 @@ Training a multi modality model
 
 train a text, image, sound etc modalities data in a single model
 train them in separate model and interact their findings to each other
+
+Even optimize this approach,
+- Call appropriate llm based on response or task/ Build a multi agent system 
+- Instead of two consider more llms colloborating to give better solution 
+- Reinforce the learning by taking output from multiple llms/ then decide what is the best model to pass this output as input to
+- Summarise the result and send
+- Send along with the reasoning 
+
+
