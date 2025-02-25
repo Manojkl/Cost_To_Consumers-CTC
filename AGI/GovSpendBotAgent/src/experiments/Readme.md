@@ -39,3 +39,4 @@
 - Compress the data, send it to LLM,let it interpret the question and write code/anything to answer.
 - Execute them in sandbox and give output to llm to give results in nicely rewritten and formatted way.
 - Can be applied to multimodal data also
+- Also find which is best compressing and sending or accessing the file stored in publically accessible link
