@@ -33,3 +33,9 @@
 6. Table NLI - InfoTabs, TabFact
 7. Domain-specific - AIT-QA, TAT-QA, SciGen, TranX
 8. Pretraining/finetuning - TaBERT, TAPAS, 
+
+# Data Transfer to LLM
+
+- Compress the data, send it to LLM,let it interpret the question and write code/anything to answer.
+- Execute them in sandbox and give output to llm to give results in nicely rewritten and formatted way.
+- Can be applied to multimodal data also
