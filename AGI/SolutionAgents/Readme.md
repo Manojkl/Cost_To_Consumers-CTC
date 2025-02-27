@@ -81,4 +81,7 @@ Even optimize this approach,
 - Summarise the result and send
 - Send along with the reasoning 
 
+Extracting underlying concepts/ideas from different fields maybe humans created or from nature and apply it other fields to solve the problems
+
+
 
