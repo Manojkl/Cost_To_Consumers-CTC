@@ -44,3 +44,4 @@ Extend it to other domains such as E.g Robotics,...
 - A benchmark that evaluates the ads in the LLM output and output information based corporate interests rather than facts, monetisation monitoring, both direct and indirect and all forms of ads, and keep track of these
 - Benchmark deep research results, also applicability to drive innovation in research by companies/institutions and in academic settings 
 - Realistic(Positive & Negative) response benchmarks rather than focusing only on positive response.
+- Benchmark the context findings from image.
