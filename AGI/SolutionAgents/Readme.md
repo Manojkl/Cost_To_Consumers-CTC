@@ -41,6 +41,7 @@ Transform the problem from linguistic domain to visual domain and try to solve.
 
 - Study on error propagation 
 - Mitigation steps to stop or minimise the error
+- Apply it to different domains. E.g Error propagation in a code.
 
 ## Electronics circuits design
 
