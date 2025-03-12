@@ -45,3 +45,4 @@ Extend it to other domains such as E.g Robotics,...
 - Benchmark deep research results, also applicability to drive innovation in research by companies/institutions and in academic settings 
 - Realistic(Positive & Negative) response benchmarks rather than focusing only on positive response.
 - Benchmark the context findings from image.
+- Benchmark the correctness of llm output. Maybe from the reference it provides.
