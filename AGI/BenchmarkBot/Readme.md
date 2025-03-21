@@ -47,3 +47,7 @@ Extend it to other domains such as E.g Robotics,...
 - Benchmark the context findings from image.
 - Benchmark the correctness of llm output. Maybe from the reference it provides.
 - Benchmark on picking important contents(in different modalities), biases when summarising
+
+Video Understanding and Reasoning 
+
+- Benchmarks on Image or Video content with breaking of physical world laws
