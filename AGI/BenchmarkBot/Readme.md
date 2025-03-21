@@ -46,3 +46,4 @@ Extend it to other domains such as E.g Robotics,...
 - Realistic(Positive & Negative) response benchmarks rather than focusing only on positive response.
 - Benchmark the context findings from image.
 - Benchmark the correctness of llm output. Maybe from the reference it provides.
+- Benchmark on picking important contents(in different modalities), biases when summarising
