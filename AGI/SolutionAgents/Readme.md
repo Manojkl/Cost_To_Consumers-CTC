@@ -91,3 +91,4 @@ Reasoning the image
 - To improve the understanding feed this description to reasoning models, and let it generate as many questions as possible from this description and feed this to description model to get answers. 
 
 
+- Reasoning needs to be as fast as that of humans as a bare minimum.
