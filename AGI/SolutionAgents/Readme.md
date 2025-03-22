@@ -85,5 +85,9 @@ Even optimize this approach,
 
 Extracting underlying concepts/ideas from different fields maybe humans created or from nature and apply it other fields to solve the problems
 
+Reasoning the image
+
+- Describe the image with the AI model, as comprehensive as possible
+- To improve the understanding feed this description to reasoning models, and let it generate as many questions as possible from this description and feed this to description model to get answers. 
 
 
