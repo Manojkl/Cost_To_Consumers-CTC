@@ -51,3 +51,7 @@ Extend it to other domains such as E.g Robotics,...
 Video Understanding and Reasoning 
 
 - Benchmarks on Image or Video content with breaking of physical world laws
+
+Dynamic Benchmark Generator
+
+- Dynamically generate the benchmark. 
