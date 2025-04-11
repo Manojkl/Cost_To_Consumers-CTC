@@ -1,4 +1,4 @@
-# ApplicationAgent
+# ApplicationAgent/Use case Agent
 
 A dataset of all possible application of AI in all the possible fields
 
