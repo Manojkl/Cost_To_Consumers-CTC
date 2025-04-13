@@ -13,3 +13,5 @@ A dataset of all possible application of AI in all the possible fields
 
 
 - Given a research proposal find its probability of success, estimate time, money, impact factor, etc maybe conduct a small research to evaluate this.
+
+- Customized/Personalised AI
