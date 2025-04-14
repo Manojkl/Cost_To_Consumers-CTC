@@ -58,4 +58,4 @@ Dynamic Benchmark Generator
 
 Breakdown benchmark 
 
-- Number of times breakdown occurring in a machine or anything.
+- Number of times breakdown occurring in a machine or anything. Needs to be minimal.
