@@ -28,3 +28,12 @@ Add features
 
 - Charge any device kept on the table wirelessly.
 - ...
+
+## Smart Glasses/ Spectacles
+
+A smart spectacle with different sensors attached to it.
+
+- A glass with vision capability
+- Smell
+- Microphone
+- ...
