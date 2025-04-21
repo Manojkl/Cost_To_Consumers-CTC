@@ -14,6 +14,7 @@ Add a different feature to this display
 - Make it funny
 - Display different content for religious purposes (Dynamic)
 - Hologram
+- A smart speaker that can change the mood of a person in the kitchen
 - ....
 
 ## Smart Table
