@@ -21,6 +21,9 @@ How to tackle the problem of Politicians fooling people?
 
 Create database of work of individual politician.
 
+Don't blindly go by data, verify!
+Ex. A politician organized a job fair and put a poster of 100s of companies participating and job creation but the reality is entirely different. Also self got guiness world record honours.
+Check the impact!
 
 Reference
 
