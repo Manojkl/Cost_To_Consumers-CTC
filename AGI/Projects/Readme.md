@@ -37,3 +37,7 @@ A smart spectacle with different sensors attached to it.
 - Smell
 - Microphone
 - ...
+
+## Research 
+
+- Include the failed experiment in the research paper or other ways 
