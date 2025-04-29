@@ -59,3 +59,7 @@ Dynamic Benchmark Generator
 Breakdown benchmark 
 
 - Number of times breakdown occurring in a machine or anything. Needs to be minimal.
+
+Invention/Discovery
+
+- Benchmark the AI capabilities to invent/discover 
