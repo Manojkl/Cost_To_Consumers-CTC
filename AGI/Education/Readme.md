@@ -16,3 +16,23 @@ Objective
 - Collaboration.
 - Easy to access a person.
 - Open source contribution to improve life.
+
+## Paper Correcting Agent (PCA)
+
+An agent that corrects the answer paper written by students. Reducing the burden on teachers and giving feedback.
+
+- Train with RL, with questions and answers, ground truth.
+
+## Paper Creation Agent (PCA)
+
+An agent who creates the question paper.
+
+- Become more creative
+- Add things the student likes. E.g., a Superhero, things they care about.
+- Also include the greatest challenges and problems to get the potential solution. E.g., Extracting minerals from asteroids. Use this information to train the AI models.
+
+## Assignment creation Agent
+
+An agent who creates the assignments for the students.
+
+(Try with dynamic creation based on students' intelligence capability (Debatable!)).
