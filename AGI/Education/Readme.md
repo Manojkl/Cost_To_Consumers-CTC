@@ -19,7 +19,7 @@ Objective
 
 ## Paper Correcting Agent (PCA)
 
-An agent that corrects the answer paper written by students. Reducing the burden on teachers and giving feedback.
+An agent that corrects the answer paper written by students. Reducing the work of the teachers and giving feedback.
 
 - Train with RL, with questions and answers, ground truth.
 
