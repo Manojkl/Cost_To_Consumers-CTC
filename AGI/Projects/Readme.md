@@ -40,4 +40,8 @@ A smart spectacle with different sensors attached to it.
 
 ## Research 
 
-- Include the failed experiment in the research paper or other ways 
+- Include the failed experiment in the research paper or other ways
+
+## Competition data
+
+- Extract ideas from all the competition submissions. Use it to train the models.
