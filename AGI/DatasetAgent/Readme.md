@@ -26,3 +26,7 @@ Associate smells with the sound.
 Find the correlation.
 How much affect smell has on individuals decisions taking.
 Associate smell with places, 
+
+## Dataset Agent
+
+Describe what kind of dataset you want, in plain English, write the requirements; it searches through all the available data and gives the available data.
