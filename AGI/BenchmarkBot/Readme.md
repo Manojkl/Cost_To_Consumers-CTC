@@ -63,3 +63,8 @@ Breakdown benchmark
 Invention/Discovery
 
 - Benchmark the AI capabilities to invent/discover 
+
+## Data poisoning benchmark
+
+Benchmark the data poisoning detection.
+Measure the performance with metrics.
