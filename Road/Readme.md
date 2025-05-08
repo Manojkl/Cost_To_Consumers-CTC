@@ -14,6 +14,6 @@ Location: Kadaba taluk, Dakshina Kannada, Karnataka, India, 574221
 Kadaba to Panja road
 YouTube: https://youtu.be/7KdZbGPctAY?si=AkzXluNOauuChI_l
 
-Gudali Pooja for new road: 16/04/2025
+Gudali Pooja for new road: 16/224/22225
 
-Days since project started: <!--DAYS_COUNTER-->0<!--/DAYS_COUNTER-->
+Days since project started: <!--DAYS_COUNTER-->22<!--/DAYS_COUNTER-->
