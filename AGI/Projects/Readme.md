@@ -45,3 +45,11 @@ A smart spectacle with different sensors attached to it.
 ## Competition data
 
 - Extract ideas from all the competition submissions. Use it to train the models.
+
+## Exams for Teachers 
+
+Give unique id to each teacher, conduct test to test if they are updated with latest information (In all fields) or way of teaching..etc
+Goal: Test if they are updated with latest information. Test the standards. Bring everywhere all the education to same standards.
+
+Maybe make it centralized the exams. 
+Use AI in anyway possible to help with this objective.
