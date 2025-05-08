@@ -22,6 +22,9 @@ Potential reason for delay - rain, slow approval and processes of fund transfer 
 
 Estimated time to repair - 3 days!! (India)
 
+Total fund released for the project - (To be updated)
+Source of fund - (To be updated, Ministry) - Most from peoples tax money 
+
 MLA quota road - https://en.wikipedia.org/wiki/Bhageerathi_Murulya#:~:text=Bhagirathi%20Murulya%20is%20an%20Indian,women's%20and%20children's%20welfare%20committee.
 
 Days since project started: <!--DAYS_COUNTER-->22<!--/DAYS_COUNTER-->
