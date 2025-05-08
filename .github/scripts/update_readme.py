@@ -5,7 +5,7 @@ start_date = datetime(2025, 4, 16)
 today = datetime.utcnow()
 days_elapsed = (today - start_date).days
 
-readme_path = "Road/README.md"
+readme_path = "./Road/README.md"  # Use the correct relative path
 
 with open(readme_path, "r", encoding="utf-8") as f:
     content = f.read()
