@@ -15,3 +15,5 @@ Kadaba to Panja road
 YouTube: https://youtu.be/7KdZbGPctAY?si=AkzXluNOauuChI_l
 
 Gudali Pooja for new road: 16/04/2025
+
+Days since project started: <!--DAYS_COUNTER-->0<!--/DAYS_COUNTER-->
