@@ -9,7 +9,7 @@ Detecting the potholes on the road and tracking of construction.
 Example:
 
 Google maps: https://maps.app.goo.gl/nAdEeT3fSom3ir5EA
-Location: Kadaba taluk, Dakshina Kannada, Karnataka, India, 574241
+Location: Kadaba taluk, Dakshina Kannada, Karnataka, India, 574251
 
 Kadaba to Panja road
 YouTube: https://youtu.be/7KdZbGPctAY?si=AkzXluNOauuChI_l
@@ -34,6 +34,6 @@ People involved - (To be updated)
 
 MLA quota road - https://en.wikipedia.org/wiki/Bhageerathi_Murulya#:~:text=Bhagirathi%20Murulya%20is%20an%20Indian,women's%20and%20children's%20welfare%20committee.
 
-Days since project started: <!--DAYS_COUNTER-->24<!--/DAYS_COUNTER-->
+Days since project started: <!--DAYS_COUNTER-->25<!--/DAYS_COUNTER-->
 
 Connect the material science research and other departments to oversee the road construction.
