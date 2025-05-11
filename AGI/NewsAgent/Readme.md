@@ -3,7 +3,8 @@
 A agent that summarizes entire paper content into single page (Also metadata).
 Store this information for future references.
 
-![Screenshot 2025-05-11 at 2 16 14 PM](https://github.com/user-attachments/assets/6cdc1bf9-a1b0-4981-8c41-e0971daff103)
+![image](https://github.com/user-attachments/assets/b02a1cb4-1894-4d66-89f7-c378feb70151)
+
 
 1. Train yolo with annotated images for section extraction
 2. Crop the images from entire page
