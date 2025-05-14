@@ -5,6 +5,12 @@ IMPORTANT
 - Truth and Facts
 - Build a Guradrail on the trustworthiness of the AGI
 
+## Guardrail 
+
+Let's say I want to define what words, sound, visual I want to view !!
+
+Starting with: I can tell any chatbot, example: ChatGPT not to use certain kind of words in the response. 
+
 ## AGI Definition
 
 A type of artificial intelligence capable of learning, and applying knowledge across a wide range of tasks at the level of a human being — or beyond — with the ability to generalize knowledge from one domain to another.
