@@ -9,7 +9,7 @@ IMPORTANT
 
 Let's say I want to define what words, sound, visual I want to view !!
 
-Starting with: I can tell any chatbot, example: ChatGPT not to use certain kind of words in the response. 
+Starting with: I can tell any chatbot, example: ChatGPT not to use certain kind of words in the response. If that is absolutely necessary then tell it to respond with certain way (Tell how you want to use that things).
 
 ## AGI Definition
 
