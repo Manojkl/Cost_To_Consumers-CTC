@@ -192,3 +192,18 @@ Here's a comprehensive list of **types of human intelligence**, primarily based 
 16. **Metacognitive Intelligence**
 
     * Thinking about thinking—planning, monitoring, and evaluating one’s cognitive processes.
+
+
+AI - “The study of agents that receive percepts from the environment and perform actions.” - Artificial Intelligence: A Modern Approach by Peter Norvig and Stuart J. Russell.
+
+## Russell and Norvig categorize AI definitions along two dimensions:
+
+1. Thinking vs. Acting
+2. Human-like vs. Rational
+
+This results in four distinct approaches:
+
+1. Thinking Humanly: Modeling human thought processes (aligned with cognitive science).
+2. Acting Humanly: Imitating human behavior (e.g., passing the Turing Test).
+3. Thinking Rationally: Applying logical reasoning to reach conclusions.
+4. Acting Rationally: Achieving goals through rational actions (the intelligent agent approach).
