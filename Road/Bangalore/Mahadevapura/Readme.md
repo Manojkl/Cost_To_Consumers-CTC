@@ -159,6 +159,6 @@ For the best route in current traffic visit https://maps.app.goo.gl/yqnayMvkf66o
 
 ![image](https://github.com/user-attachments/assets/a1afc559-cf35-4e3c-b8b9-3a1a0d64e82a)
 
-Issue: Roads are in pathetic conditions, full of potholes.
+Issue: Roads are in poor condition, full of potholes.
 
-Days since monitoring started: 
+Days since monitoring started: <!--DAYS_COUNTER-->0<!--/DAYS_COUNTER-->
