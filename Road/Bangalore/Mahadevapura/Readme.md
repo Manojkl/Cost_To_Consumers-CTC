@@ -67,6 +67,13 @@ Assistant Executive Engineer (Ward 81): **Sri M. Ramesh**
 
 Location: 
 
+2nd Cross Rd, near Sri Ravisankar Vidya Mandir, Kaverappa Layout, Kadubeesanahalli, Bengaluru, Karnataka 560103, India to Kodathi via Doddakannelli - Kaadubeesanahalli Rd and Ambalipura - Sarjapur Rd/Sarjapur - Marathahalli Rd.
+
+34 min (6.1 km)
+For the best route in current traffic visit https://maps.app.goo.gl/yqnayMvkf66oo2jW6?g_st=ac
+
+
+
 Issue: Roads are in pathetic conditions, full of potholes.
 
 Days since monitoring started: 
