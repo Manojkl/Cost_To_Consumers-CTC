@@ -1,4 +1,4 @@
-Date:15/06/2025
+Date:15/05/2025
 
 To do: 
 
@@ -26,11 +26,15 @@ This outlines the key individuals and bodies involved in the oversight and maint
         * Deputy Chief Minister & Bengaluru Development Minister: **Sri D. K. Shivakumar** ➡️
             * (Significant roles, especially with the new **Greater Bengaluru Authority - GBA**)
     * Responsible Department:
-        * **Urban Development Department** ➡️
+        * **Urban Development Department**
+        * Address: Room No. 436, Vikasa Soudha, Dr. B.R. Ambedkar Veedhi, Bengaluru – 560001
+        * Phone: 080-22253958 / 080-22035075
+        * Email: ds2udd@gmail.com   ➡️
 
 * **BBMP Administrator**
     * (Currently oversees BBMP in absence of elected municipal council)
-    * **Sri Tushar Giri Nath (IAS)** ➡️
+    * **Sri Tushar Giri Nath (IAS)** 
+    * ☎ 080-22660000 | ✉ commr.bbmp@gmail.com. ➡️
 
 * **BBMP Chief Commissioner**
     * (Head of BBMP Administration, Overall administration of BBMP, Approves major projects (>₹50 Cr), Coordinates with state government)
