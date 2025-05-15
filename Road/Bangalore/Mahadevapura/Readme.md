@@ -15,44 +15,50 @@ This flow chart outlines the key individuals and bodies responsible for the over
 
 ---
 
-**Government of Karnataka**
-(Ultimate Authority - Policy & Budget Approval)
-⬇️
-**Urban Development Department**
-(State Government Link to BBMP)
-⬇️
-(Oversight from State Leadership) ➡️ Chief Minister: **Sri Siddaramaiah**
-                                  ➡️ Deputy Chief Minister & Bengaluru Development Minister: **Sri D. K. Shivakumar**
-                                  (Significant roles, especially with the new **Greater Bengaluru Authority - GBA**)
+# Hierarchy of Responsibility for Bangalore City Roads
 
-⬇️
-**BBMP Administrator**
-(Currently oversees BBMP in absence of elected municipal council)
-**Sri Tushar Giri Nath (IAS)**
-⬇️
-**BBMP Chief Commissioner**
-(Overall administration of BBMP, Approves major projects (>₹50 Cr), Coordinates with state government)
-**Sri Maheshwar Rao (IAS)**
-⬇️
-**Special Commissioner (Projects)**
-(Oversees infrastructure projects, Monitors project timelines & quality, Inter-department coordination)
-**Sri Avinash Menon Rajendran (IAS)**
-⬇️
-**Engineer-in-Chief**
-(Heads all engineering departments, Technical approval for designs, Quality control standards)
-*Name: Likely **Sri B.S. Prahlad*** (Note: Specific individuals in this role can change)
-⬇️
-**Chief Engineer (Zone - e.g., East Zone)**
-(Zone-level project implementation, Budget allocation (₹5-50 Cr projects), Contractor approvals within the zone)
-*Specific Name:* Individuals hold this position per zone (e.g., Smt. Suguna for East Zone has been mentioned), but specific names in zonal roles can change.
-⬇️
-**Executive Engineer (Division - e.g., Mahadevapura Division)**
-(Division-level works execution, Tender processing (₹50L-5Cr) for the division, Daily progress monitoring)
-*Specific Name:* Individuals hold this position per division (e.g., B.G. Raghavendra Prasad or M. Lokesh has been associated with Mahadevapura Executive Engineer roles), but specific names in divisional roles can change.
-⬇️
-**Assistant Executive Engineer (Ward - e.g., Ward 81 Bellandur)**
-(Ward-level maintenance, Pothole repairs within 48 hours, Grievance resolution at the ward level)
-*Specific Name:* Individuals hold this position per ward (e.g., Sri M. Ramesh has been associated with AEE Ward 81), but specific names in ward roles can change.
+This outlines the key individuals and bodies involved in the oversight and maintenance of Bangalore city roads, reflecting the current administrative structure under the Government of Karnataka and the emerging Greater Bengaluru Authority (GBA).
+
+* **Government of Karnataka**
+    * (Ultimate Authority - Policy & Budget Approval)
+    * Oversight Provided by:
+        * Chief Minister: **Sri Siddaramaiah** ➡️
+        * Deputy Chief Minister & Bengaluru Development Minister: **Sri D. K. Shivakumar** ➡️
+            * (Significant roles, especially with the new **Greater Bengaluru Authority - GBA**)
+    * Responsible Department:
+        * **Urban Development Department** ➡️
+
+* **BBMP Administrator**
+    * (Currently oversees BBMP in absence of elected municipal council)
+    * **Sri Tushar Giri Nath (IAS)** ➡️
+
+* **BBMP Chief Commissioner**
+    * (Head of BBMP Administration, Overall administration of BBMP, Approves major projects (>₹50 Cr), Coordinates with state government)
+    * **Sri Maheshwar Rao (IAS)** ➡️
+
+* **Special Commissioner (Projects)**
+    * (Oversees infrastructure projects, Monitors project timelines & quality, Inter-department coordination)
+    * **Sri Avinash Menon Rajendran (IAS)** ➡️
+
+* **Engineer-in-Chief**
+    * (Heads all engineering departments, Technical approval for designs, Quality control standards)
+    * *Name: Likely **Sri B.S. Prahlad*** (Note: Specific individuals in this role can change) ➡️
+
+* **Chief Engineer (Zone - e.g., East Zone)**
+    * (Zone-level project implementation, Budget allocation (₹5-50 Cr projects), Contractor approvals within the zone)
+    * *Specific Name:* Individuals hold this position per zone (e.g., Smt. Suguna for East Zone has been mentioned), but specific names in zonal roles can change. ➡️
+
+* **Executive Engineer (Division - e.g., Mahadevapura Division)**
+    * (Division-level works execution, Tender processing (₹50L-5Cr) for the division, Daily progress monitoring)
+    * *Specific Name:* Individuals hold this position per division (e.g., B.G. Raghavendra Prasad or M. Lokesh has been associated with Mahadevapura Executive Engineer roles), but specific names in divisional roles can change. ➡️
+
+* **Assistant Executive Engineer (Ward - e.g., Ward 81 Bellandur)**
+    * (Ward-level maintenance, Pothole repairs within 48 hours, Grievance resolution at the ward level)
+    * *Specific Name:* Individuals hold this position per ward (e.g., Sri M. Ramesh has been associated with AEE Ward 81), but specific names in ward roles can change.
+
+---
+
+**Note on Name Currency:** While the names for the Chief Minister, Deputy Chief Minister, BBMP Administrator, Chief Commissioner, and Special Commissioner (Projects) are based on recent verifiable information as of May 2025, the individuals in the roles of Engineer-in-Chief, Chief Engineer (Zone), Executive Engineer (Division), and Assistant Executive Engineer (Ward) can change frequently due to administrative transfers. For the most current individual in a specific lower-level role, it is recommended to consult official BBMP contact lists or public information channels.
 
 Source:
 
