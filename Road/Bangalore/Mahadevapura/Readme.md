@@ -72,6 +72,7 @@ Location:
 34 min (6.1 km)
 For the best route in current traffic visit https://maps.app.goo.gl/yqnayMvkf66oo2jW6?g_st=ac
 
+![image](https://github.com/user-attachments/assets/a1afc559-cf35-4e3c-b8b9-3a1a0d64e82a)
 
 
 Issue: Roads are in pathetic conditions, full of potholes.
