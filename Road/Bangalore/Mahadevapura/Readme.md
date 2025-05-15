@@ -38,7 +38,11 @@ This outlines the key individuals and bodies involved in the oversight and maint
 
 * **BBMP Chief Commissioner**
     * (Head of BBMP Administration, Overall administration of BBMP, Approves major projects (>₹50 Cr), Coordinates with state government)
-    * **Sri Maheshwar Rao (IAS)** ➡️
+    * **Sri Maheshwar Rao (IAS)** 
+    * Office Phone: 080-22975550
+    * Email: comm@bbmp.gov.in
+    * Fax: 080-22223194
+    * Head Office Address: N.R. Square, Hudson Circle, Bengaluru, Karnataka 560002, India ➡️
 
 * **Special Commissioner (Projects)**
     * (Oversees infrastructure projects, Monitors project timelines & quality, Inter-department coordination)
