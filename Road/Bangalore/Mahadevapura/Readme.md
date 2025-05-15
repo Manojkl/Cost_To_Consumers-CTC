@@ -66,5 +66,7 @@ Assistant Executive Engineer (Ward 81): **Sri M. Ramesh**
 │ ▲ Source: [Ward Notice Board](https://bbmp.gov.in/wards/bellandur)
 
 Location: 
+
 Issue: Roads are in pathetic conditions, full of potholes.
+
 Days since monitoring started: 
