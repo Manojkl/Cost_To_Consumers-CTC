@@ -11,11 +11,16 @@ To do:
 
 Government of Karnataka
 (Ultimate Authority - Policy & Budget Approval)
+
   |
+  
   |
+  
   V
+  
 Urban Development Department
 (State Government Link)
+
   |
   | - Also overseen by - > Chief Minister: **Siddaramaiah**
   |                         Deputy Chief Minister & Bengaluru Development Minister: **D. K. Shivakumar**
