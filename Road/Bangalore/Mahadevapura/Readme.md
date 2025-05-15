@@ -10,6 +10,7 @@ To do:
 Government of Karnataka (Urban Development Dept.)
 │ ▲ Policy & Budget Approval
 │ Source: [UDD Notification](https://udddashboard.karnataka.gov.in)
+
 ▼
 BBMP Commissioner: **Sri Tushar Girinath (IAS)**
 │ Responsibilities:
@@ -18,6 +19,7 @@ BBMP Commissioner: **Sri Tushar Girinath (IAS)**
 │ - Coordinates with state government
 │ ☎ 080-22660000 | ✉ commr.bbmp@gmail.com
 │ ▲ Source: [BBMP Contacts](https://bbmp.gov.in/contact-us)
+
 ▼
 Special Commissioner (Projects): **Sri Rajendra Cholan (IAS)**
 │ Responsibilities:
@@ -26,6 +28,7 @@ Special Commissioner (Projects): **Sri Rajendra Cholan (IAS)**
 │ - Inter-department coordination
 │ ☎ 080-22221188 | ✉ specialcommr.projects@bbmp.gov.in
 │ ▲ Source: [BBMP Notification](https://bbmp.gov.in/documents/notifications)
+
 ▼
 Engineer-in-Chief: **Sri B.S. Prahlad**
 │ Responsibilities:
@@ -34,6 +37,7 @@ Engineer-in-Chief: **Sri B.S. Prahlad**
 │ - Quality control standards
 │ ☎ 080-22975550 | ✉ ce.roads@bbmp.gov.in
 │ ▲ Source: [Engineering Directory](https://bbmp.gov.in/departments/engineering)
+
 ▼
 Chief Engineer (Zone-E): **Sri R. Lakshminarayana**
 │ Responsibilities:
@@ -42,6 +46,7 @@ Chief Engineer (Zone-E): **Sri R. Lakshminarayana**
 │ - Contractor approvals
 │ ☎ 080-23010141 | ✉ ce.mahadevapura@bbmp.gov.in
 │ ▲ Source: [Zone Contacts](https://bbmp.gov.in/zonal-offices/mahadevapura)
+
 ▼
 Executive Engineer (Mahadevapura): **Sri K. Suresh Kumar**
 │ Responsibilities:
@@ -50,6 +55,7 @@ Executive Engineer (Mahadevapura): **Sri K. Suresh Kumar**
 │ - Daily progress monitoring
 │ ☎ 080-23010142 | ✉ ee.mahadevapura@bbmp.gov.in
 │ ▲ Source: [Public Works Notice](https://bbmp.gov.in/documents/department-circulars)
+
 ▼
 Assistant Executive Engineer (Ward 81): **Sri M. Ramesh**
 │ Responsibilities:
