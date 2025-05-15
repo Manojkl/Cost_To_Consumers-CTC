@@ -9,55 +9,50 @@ To do:
 
 # Sourced from Gemini
 
-Government of Karnataka
+# Hierarchy of Responsibility for Bangalore City Roads
+
+This flow chart outlines the key individuals and bodies responsible for the oversight and maintenance of Bangalore city roads, reflecting the current administrative structure under the Government of Karnataka and the emerging Greater Bengaluru Authority (GBA).
+
+---
+
+**Government of Karnataka**
 (Ultimate Authority - Policy & Budget Approval)
+⬇️
+**Urban Development Department**
+(State Government Link to BBMP)
+⬇️
+(Oversight from State Leadership) ➡️ Chief Minister: **Sri Siddaramaiah**
+                                  ➡️ Deputy Chief Minister & Bengaluru Development Minister: **Sri D. K. Shivakumar**
+                                  (Significant roles, especially with the new **Greater Bengaluru Authority - GBA**)
 
-  |
-  
-  |
-  
-  V
-  
-Urban Development Department
-(State Government Link)
-
-  |
-  | - Also overseen by - > Chief Minister: **Siddaramaiah**
-  |                         Deputy Chief Minister & Bengaluru Development Minister: **D. K. Shivakumar**
-  |                         (Overarching authority with the new Greater Bengaluru Authority - GBA)
-  V
-BBMP Administrator
-**Tushar Giri Nath (IAS)**
-  |
-  V
-BBMP Chief Commissioner
-(Overall administration, Approves major projects (>₹50 Cr), Coordinates with state government)
-**Maheshwar Rao (IAS)**
-  |
-  V
-Special Commissioner (Projects)
+⬇️
+**BBMP Administrator**
+(Currently oversees BBMP in absence of elected municipal council)
+**Sri Tushar Giri Nath (IAS)**
+⬇️
+**BBMP Chief Commissioner**
+(Overall administration of BBMP, Approves major projects (>₹50 Cr), Coordinates with state government)
+**Sri Maheshwar Rao (IAS)**
+⬇️
+**Special Commissioner (Projects)**
 (Oversees infrastructure projects, Monitors project timelines & quality, Inter-department coordination)
-**Avinash Menon Rajendran (IAS)**
-  |
-  V
-Engineer-in-Chief
-(Head all engineering departments, Technical approval for designs, Quality control standards)
-**[Likely Sri B.S. Prahlad, but specific name in this role can change]**
-  |
-  V
-Chief Engineer (Zone - e.g., East)
-(Zone-level project implementation, Budget allocation (₹5-50 Cr projects), Contractor approvals)
-**[Specific name like Smt. Suguna for East Zone, but individuals in zonal roles can change]**
-  |
-  V
-Executive Engineer (Division - e.g., Mahadevapura)
-(Division-level works execution, Tender processing (₹50L-5Cr), Daily progress monitoring)
-**[Specific name like B.G. Raghavendra Prasad or M. Lokesh has been associated with Mahadevapura Executive Engineer roles, but individuals in divisional roles can change]**
-  |
-  V
-Assistant Executive Engineer (Ward - e.g., Ward 81)
-(Ward-level maintenance, Pothole repairs within 48 hours, Grievance resolution)
-**[Specific name like M. Ramesh for Ward 81 has been mentioned in older lists, but individuals in ward roles can change]**
+**Sri Avinash Menon Rajendran (IAS)**
+⬇️
+**Engineer-in-Chief**
+(Heads all engineering departments, Technical approval for designs, Quality control standards)
+*Name: Likely **Sri B.S. Prahlad*** (Note: Specific individuals in this role can change)
+⬇️
+**Chief Engineer (Zone - e.g., East Zone)**
+(Zone-level project implementation, Budget allocation (₹5-50 Cr projects), Contractor approvals within the zone)
+*Specific Name:* Individuals hold this position per zone (e.g., Smt. Suguna for East Zone has been mentioned), but specific names in zonal roles can change.
+⬇️
+**Executive Engineer (Division - e.g., Mahadevapura Division)**
+(Division-level works execution, Tender processing (₹50L-5Cr) for the division, Daily progress monitoring)
+*Specific Name:* Individuals hold this position per division (e.g., B.G. Raghavendra Prasad or M. Lokesh has been associated with Mahadevapura Executive Engineer roles), but specific names in divisional roles can change.
+⬇️
+**Assistant Executive Engineer (Ward - e.g., Ward 81 Bellandur)**
+(Ward-level maintenance, Pothole repairs within 48 hours, Grievance resolution at the ward level)
+*Specific Name:* Individuals hold this position per ward (e.g., Sri M. Ramesh has been associated with AEE Ward 81), but specific names in ward roles can change.
 
 Source:
 
