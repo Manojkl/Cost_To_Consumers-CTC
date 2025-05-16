@@ -58,7 +58,7 @@ Dynamic Benchmark Generator
 
 Breakdown benchmark 
 
-- Number of times breakdown occurring in a machine or anything. Needs to be minimal.
+- Number of times breakdown occurs in a machine or anything. Needs to be minimal.
 
 Invention/Discovery
 
@@ -68,3 +68,10 @@ Invention/Discovery
 
 Benchmark the data poisoning detection.
 Measure the performance with metrics.
+
+## Benchmark Bot
+
+A bot that plots/benchmarks a model's performance over a period.
+Whenever a new model is released, that model is added to the benchmark.
+Currently, all the benchmarks are scattered and not up-to-date. And no single place for all the benchmarks.
+Solution: Do a deep search, etc 
