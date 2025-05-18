@@ -26,5 +26,6 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add Road/Readme.md
-          git commit -m "Update day counter in Road/Readme.md" || echo "No changes to commit"
+          git add Road/Bangalore/Mahadevapura/Readme.md
+          git commit -m "Update day counter in Readme.md" || echo "No changes to commit"
           git push
