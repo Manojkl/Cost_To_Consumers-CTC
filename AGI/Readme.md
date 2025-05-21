@@ -213,3 +213,19 @@ This results in four distinct approaches:
 2. Acting Humanly: Imitating human behavior (e.g., passing the Turing Test).
 3. Thinking Rationally: Applying logical reasoning to reach conclusions.
 4. Acting Rationally: Achieving goals through rational actions (the intelligent agent approach).
+
+## Types of AI according to Arend Hintze
+
+("Understanding the four types of AI, from reactive robots to self-aware beings")[https://theconversation.com/understanding-the-four-types-of-ai-from-reactive-robots-to-self-aware-beings-67616]
+
+1. **Reactive machines**: Limited AI that only reacts to different kinds of stimuli based on preprogrammed rules. Does not use memory and thus cannot learn with new data. IBM’s Deep Blue that beat chess champion Garry Kasparov in 1997 was an example of a reactive machine.
+
+2. **Limited memory**: Most modern AI is considered to be limited memory. It can use memory to improve over time by being trained with new data, typically through an artificial neural network or other training model. Deep learning, a subset of machine learning, is considered limited-memory artificial intelligence.
+
+3. **Theory of mind**: Theory of mind AI does not currently exist, but research is ongoing into its possibilities. It describes AI that can emulate the human mind and has decision-making capabilities equal to that of a human, including recognizing and remembering emotions and reacting in social situations as a human would. 
+
+4. **Self-aware**: A step above theory of mind AI, self-aware AI describes a mythical machine that is aware of its own existence and has the intellectual and emotional capabilities of a human. Like theory of mind AI, self-aware AI does not currently exist.
+
+
+
+
