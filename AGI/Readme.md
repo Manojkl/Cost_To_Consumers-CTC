@@ -216,7 +216,7 @@ This results in four distinct approaches:
 
 ## Types of AI according to Arend Hintze
 
-("Understanding the four types of AI, from reactive robots to self-aware beings")[https://theconversation.com/understanding-the-four-types-of-ai-from-reactive-robots-to-self-aware-beings-67616]
+["Understanding the four types of AI, from reactive robots to self-aware beings"](https://theconversation.com/understanding-the-four-types-of-ai-from-reactive-robots-to-self-aware-beings-67616)
 
 1. **Reactive machines**: Limited AI that only reacts to different kinds of stimuli based on preprogrammed rules. Does not use memory and thus cannot learn with new data. IBM’s Deep Blue that beat chess champion Garry Kasparov in 1997 was an example of a reactive machine.
 
