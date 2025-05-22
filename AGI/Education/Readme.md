@@ -41,6 +41,8 @@ An agent who creates the assignments for the students.
 
 Collaborate between school and games. For ex: In Pubg or Fortnite or any games most people play give access to certain features by unlocking them and for that they needs to score certain marks in schools,...etc
 
+Create badges, all gaming industry collaborate and come with common medels!!
+
 - Score based
 - Fitness based
 - Other abilities....etc
