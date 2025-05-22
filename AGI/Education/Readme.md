@@ -40,3 +40,7 @@ An agent who creates the assignments for the students.
 # Collaboration between Gaming and Education Institutions
 
 Collaborate between school and games. For ex: In Pubg or Fortnite or any games most people play give access to certain features by unlocking them and for that they needs to score certain marks in schools,...etc
+
+- Score based
+- Fitness based
+- Other abilities....etc
