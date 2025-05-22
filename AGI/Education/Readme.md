@@ -36,3 +36,7 @@ An agent who creates the question paper.
 An agent who creates the assignments for the students.
 
 (Try with dynamic creation based on students' intelligence capability (Debatable!)).
+
+# Collaboration between Gaming and Education Institutions
+
+Collaborate between school and games. For ex: In Pubg or Fortnite or any games most people play give access to certain features by unlocking them and for that they needs to score certain marks in schools,...etc
