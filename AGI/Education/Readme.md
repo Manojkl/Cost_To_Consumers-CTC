@@ -46,3 +46,5 @@ Create badges, all gaming industry collaborate and come with common medels!!
 - Score based
 - Fitness based
 - Other abilities....etc
+
+Phrase common study materials and pressing problem in the science, society,...etc in the game.
