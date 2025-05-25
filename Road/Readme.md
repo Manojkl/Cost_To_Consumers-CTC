@@ -37,3 +37,18 @@ MLA quota road - https://en.wikipedia.org/wiki/Bhageerathi_Murulya#:~:text=Bhagi
 Days since project started: <!--DAYS_COUNTER-->39<!--/DAYS_COUNTER-->
 
 Connect the material science research and other departments to oversee the road construction.
+
+Goals for India on road infrastructure 
+
+
+1. Zero or 2% pothole target with high-quality roads by [responsible authority] by 20__
+
+2. Statistics on homes and areas lacking proper road infrastructure or facing poor road conditions.
+
+3. Comprehensive plan to upgrade all possible roads to 100% quality standards, with a target completion by 20__, along with timelines for execution.
+
+
+
+ 
+
+
