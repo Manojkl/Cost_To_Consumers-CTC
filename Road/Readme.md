@@ -38,7 +38,7 @@ Days since project started: <!--DAYS_COUNTER-->39<!--/DAYS_COUNTER-->
 
 Connect the material science research and other departments to oversee the road construction.
 
-Goals for India on road infrastructure 
+Goals for India on road infrastructure, Central and State governments.
 
 
 1. Zero or 2% pothole target with high-quality roads by [responsible authority] by 20__
