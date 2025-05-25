@@ -47,7 +47,7 @@ Goals for India on road infrastructure, Central and State governments.
 
 3. Comprehensive plan to upgrade all possible roads to 100% quality standards, with a target completion by 20__, along with timelines for execution.
 
-
+Make a plan release it to public get the feedback and update the same.
 
  
 
