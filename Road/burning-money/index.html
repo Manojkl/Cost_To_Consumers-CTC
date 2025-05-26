@@ -6,6 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>Real-Time Money Burn Tracker</title>
     <link rel="stylesheet" href="style.css" />
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat&display=swap" rel="stylesheet">
 </head>
 
 <body>
@@ -60,10 +61,9 @@
         </tbody>
     </table>    
 
-    <div id="elapsedTime" style="margin-top: 30px; font-size: 1.3em; font-weight: bold;"></div>
+    <!-- Add this below your table and above elapsedTime -->
+    <div id="startDate" class="start-date">Start of Project: 07 March 2025</div>
 
-    <!-- Existing content -->
-    
     <div id="elapsedTime" style="margin-top: 30px; font-size: 1.3em; font-weight: bold;"></div>
     
     <!-- New Section for total money burnt + percentage -->
@@ -76,6 +76,25 @@
     #burnTable th {
         white-space: nowrap;
     }
+
+    .start-date {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 3rem;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 20px;
+    color: #ff6ec4;
+    animation: colorCycle 10s infinite alternate;
+    }
+
+    @keyframes colorCycle {
+        0% { color: #ff6ec4; }
+        25% { color: #7873f5; }
+        50% { color: #4ef037; }
+        75% { color: #f5a623; }
+        100% { color: #ff6ec4; }
+    }
+
 </style>
 
 </html>
