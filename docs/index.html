@@ -6,50 +6,64 @@
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>Real-Time Money Burn Tracker</title>
     <link rel="stylesheet" href="style.css" />
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat&display=swap" rel="stylesheet">
 </head>
 
 <body>
-    <h1>Money Burn Tracker for ₹2800 Crores Over 1 Year</h1>
+    <h1>Road Project Burn Rate Over 1 Year - ₹2800 Crores Budget</h1>
 
     <table id="burnTable">
         <thead>
             <tr>
                 <th>Time Resolution</th>
                 <th>Money Burnt So Far (₹)</th>
+                <th>Burn Rate (₹)</th>
+                <th>Time Units Passed</th>
             </tr>
         </thead>
         <tbody>
             <tr>
                 <td>Second</td>
                 <td id="burnSec">₹0</td>
+                <td id="rateSec">₹0</td>
+                <td id="elapsedSec">0</td>
             </tr>
             <tr>
                 <td>Minute</td>
                 <td id="burnMin">₹0</td>
+                <td id="rateMin">₹0</td>
+                <td id="elapsedMin">0</td>
             </tr>
             <tr>
                 <td>Hour</td>
                 <td id="burnHour">₹0</td>
+                <td id="rateHour">₹0</td>
+                <td id="elapsedHour">0</td>
             </tr>
             <tr>
                 <td>Day</td>
                 <td id="burnDay">₹0</td>
+                <td id="rateDay">₹0</td>
+                <td id="elapsedDay">0</td>
             </tr>
             <tr>
                 <td>Month</td>
                 <td id="burnMonth">₹0</td>
+                <td id="rateMonth">₹0</td>
+                <td id="elapsedMonth">0</td>
             </tr>
             <tr>
                 <td>Year</td>
                 <td id="burnYear">₹0</td>
+                <td id="rateYear">₹0</td>
+                <td id="elapsedYear">0</td>
             </tr>
         </tbody>
-    </table>
+    </table>    
 
-    <div id="elapsedTime" style="margin-top: 30px; font-size: 1.3em; font-weight: bold;"></div>
+    <!-- Add this below your table and above elapsedTime -->
+    <div id="startDate" class="start-date">Start of Project: 07 March 2025</div>
 
-    <!-- Existing content -->
-    
     <div id="elapsedTime" style="margin-top: 30px; font-size: 1.3em; font-weight: bold;"></div>
     
     <!-- New Section for total money burnt + percentage -->
@@ -58,5 +72,29 @@
     <script src="script.js"></script>
 </body>
   
+<style>
+    #burnTable th {
+        white-space: nowrap;
+    }
+
+    .start-date {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 3rem;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 20px;
+    color: #ff6ec4;
+    animation: colorCycle 10s infinite alternate;
+    }
+
+    @keyframes colorCycle {
+        0% { color: #f5a623; }
+        25% { color: #f5a623; }
+        50% { color: #f5a623; }
+        75% { color: #f5a623; }
+        100% { color: #f5a623; }
+    }
+
+</style>
 
 </html>
