@@ -9,14 +9,14 @@ Detecting the potholes on the road and tracking of construction.
 Example:
 
 Google maps: https://maps.app.goo.gl/nAdEeT3fSom3ir5EA
-Location: Kadaba taluk, Dakshina Kannada, Karnataka, India, 574391
+Location: Kadaba taluk, Dakshina Kannada, Karnataka, India, 574401
 
 Kadaba to Panja road
 YouTube: https://youtu.be/7KdZbGPctAY?si=AkzXluNOauuChI_l
 
-Gudali Pooja for new road: 16/394/23939
+Gudali Pooja for new road: 16/404/24040
 
-The total distance between Kadaba and Panja is approximately 139 km, out of which around 8 km is in reasonably good condition(To be updated). A 2 km stretch has a high concentration of potholes, but only the most severely affected sections—adding up to roughly 1 km in total—will be repaired. - from sources 
+The total distance between Kadaba and Panja is approximately 140 km, out of which around 8 km is in reasonably good condition(To be updated). A 2 km stretch has a high concentration of potholes, but only the most severely affected sections—adding up to roughly 1 km in total—will be repaired. - from sources 
 
 Potential reason for delay - rain, slow approval and processes of fund transfer (🤑), ...etc
 
@@ -32,9 +32,9 @@ Tender given to - (To be updated)
 
 People involved - (To be updated)
 
-MLA quota road - https://en.wikipedia.org/wiki/Bhageerathi_Murulya#:~:text=Bhagirathi%239Murulya%239is%239an%239Indian,women's%239and%239children's%239welfare%239committee.
+MLA quota road - https://en.wikipedia.org/wiki/Bhageerathi_Murulya#:~:text=Bhagirathi%240Murulya%240is%240an%240Indian,women's%240and%240children's%240welfare%240committee.
 
-Days since project started: <!--DAYS_COUNTER-->39<!--/DAYS_COUNTER-->
+Days since project started: <!--DAYS_COUNTER-->40<!--/DAYS_COUNTER-->
 
 Connect the material science research and other departments to oversee the road construction.
 
