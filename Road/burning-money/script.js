@@ -1,4 +1,6 @@
 const totalAmount = 280000000000; // ₹2800 crores in rupees
+// Define your project start date (YYYY-MM-DD format)
+const projectStartDate = new Date('2025-01-01T00:00:00Z'); // Adjust time zone if needed
 
 const secondsInYear = 365 * 24 * 60 * 60;
 const minutesInYear = 365 * 24 * 60;
@@ -15,7 +17,8 @@ const burnRates = {
     perYear: totalAmount
 };
 
-let startTime = Date.now();
+// let startTime = Date.now();
+const startTime = projectStartDate.getTime();
 
 // ... your existing code ...
 
