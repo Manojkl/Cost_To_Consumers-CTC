@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Real-Time Money Burn Tracker</title>
+    <link rel="stylesheet" href="style.css" />
+</head>
+
+<body>
+    <h1>Money Burn Tracker for ₹2800 Crores Over 1 Year</h1>
+
+    <table id="burnTable">
+        <thead>
+            <tr>
+                <th>Time Resolution</th>
+                <th>Money Burnt So Far (₹)</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Second</td>
+                <td id="burnSec">₹0</td>
+            </tr>
+            <tr>
+                <td>Minute</td>
+                <td id="burnMin">₹0</td>
+            </tr>
+            <tr>
+                <td>Hour</td>
+                <td id="burnHour">₹0</td>
+            </tr>
+            <tr>
+                <td>Day</td>
+                <td id="burnDay">₹0</td>
+            </tr>
+            <tr>
+                <td>Month</td>
+                <td id="burnMonth">₹0</td>
+            </tr>
+            <tr>
+                <td>Year</td>
+                <td id="burnYear">₹0</td>
+            </tr>
+        </tbody>
+    </table>
+
+    <div id="elapsedTime" style="margin-top: 30px; font-size: 1.3em; font-weight: bold;"></div>
+
+    <!-- Existing content -->
+    
+    <div id="elapsedTime" style="margin-top: 30px; font-size: 1.3em; font-weight: bold;"></div>
+    
+    <!-- New Section for total money burnt + percentage -->
+    <div id="totalBurnt" style="margin-top: 40px; font-size: 2em; font-weight: 700; color: #d9534f;"></div>
+
+    <script src="script.js"></script>
+</body>
+  
+
+</html>
