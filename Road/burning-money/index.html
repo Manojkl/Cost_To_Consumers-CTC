@@ -16,35 +16,49 @@
             <tr>
                 <th>Time Resolution</th>
                 <th>Money Burnt So Far (₹)</th>
+                <th>Burn Rate (₹)</th>
+                <th>Time Units Passed</th>
             </tr>
         </thead>
         <tbody>
             <tr>
                 <td>Second</td>
                 <td id="burnSec">₹0</td>
+                <td id="rateSec">₹0</td>
+                <td id="elapsedSec">0</td>
             </tr>
             <tr>
                 <td>Minute</td>
                 <td id="burnMin">₹0</td>
+                <td id="rateMin">₹0</td>
+                <td id="elapsedMin">0</td>
             </tr>
             <tr>
                 <td>Hour</td>
                 <td id="burnHour">₹0</td>
+                <td id="rateHour">₹0</td>
+                <td id="elapsedHour">0</td>
             </tr>
             <tr>
                 <td>Day</td>
                 <td id="burnDay">₹0</td>
+                <td id="rateDay">₹0</td>
+                <td id="elapsedDay">0</td>
             </tr>
             <tr>
                 <td>Month</td>
                 <td id="burnMonth">₹0</td>
+                <td id="rateMonth">₹0</td>
+                <td id="elapsedMonth">0</td>
             </tr>
             <tr>
                 <td>Year</td>
                 <td id="burnYear">₹0</td>
+                <td id="rateYear">₹0</td>
+                <td id="elapsedYear">0</td>
             </tr>
         </tbody>
-    </table>
+    </table>    
 
     <div id="elapsedTime" style="margin-top: 30px; font-size: 1.3em; font-weight: bold;"></div>
 
@@ -58,5 +72,10 @@
     <script src="script.js"></script>
 </body>
   
+<style>
+    #burnTable th {
+        white-space: nowrap;
+    }
+</style>
 
 </html>

@@ -23,11 +23,10 @@ const startTime = projectStartDate.getTime();
 // ... your existing code ...
 
 function updateBurn() {
-    
     const now = Date.now();
     const elapsedMs = now - startTime;
 
-    const elapsedSeconds = elapsedMs / 1000;
+    const elapsedSeconds = Math.floor(elapsedMs / 1000);
     const elapsedMinutes = Math.floor(elapsedSeconds / 60);
     const elapsedHours = Math.floor(elapsedMinutes / 60);
     const elapsedDays = Math.floor(elapsedHours / 24);
@@ -43,6 +42,7 @@ function updateBurn() {
         perYear: burnRates.perYear * elapsedYears
     };
 
+    // Update Burnt So Far
     document.getElementById('burnSec').textContent = `₹${Math.floor(burntSoFar.perSecond).toLocaleString('en-IN')}`;
     document.getElementById('burnMin').textContent = `₹${Math.floor(burntSoFar.perMinute).toLocaleString('en-IN')}`;
     document.getElementById('burnHour').textContent = `₹${Math.floor(burntSoFar.perHour).toLocaleString('en-IN')}`;
@@ -50,29 +50,40 @@ function updateBurn() {
     document.getElementById('burnMonth').textContent = `₹${Math.floor(burntSoFar.perMonth).toLocaleString('en-IN')}`;
     document.getElementById('burnYear').textContent = `₹${Math.floor(burntSoFar.perYear).toLocaleString('en-IN')}`;
 
-    // Calculate leftover hours, minutes, seconds for timer display
+    // Update Burn Rate
+    document.getElementById('rateSec').textContent = `₹${Math.floor(burnRates.perSecond).toLocaleString('en-IN')}`;
+    document.getElementById('rateMin').textContent = `₹${Math.floor(burnRates.perMinute).toLocaleString('en-IN')}`;
+    document.getElementById('rateHour').textContent = `₹${Math.floor(burnRates.perHour).toLocaleString('en-IN')}`;
+    document.getElementById('rateDay').textContent = `₹${Math.floor(burnRates.perDay).toLocaleString('en-IN')}`;
+    document.getElementById('rateMonth').textContent = `₹${Math.floor(burnRates.perMonth).toLocaleString('en-IN')}`;
+    document.getElementById('rateYear').textContent = `₹${Math.floor(burnRates.perYear).toLocaleString('en-IN')}`;
+
+    // Update Time Units Passed
+    document.getElementById('elapsedSec').textContent = elapsedSeconds;
+    document.getElementById('elapsedMin').textContent = elapsedMinutes;
+    document.getElementById('elapsedHour').textContent = elapsedHours;
+    document.getElementById('elapsedDay').textContent = elapsedDays;
+    document.getElementById('elapsedMonth').textContent = elapsedMonths;
+    document.getElementById('elapsedYear').textContent = elapsedYears;
+
+    // Update Elapsed Time Display (existing)
     const displayDays = elapsedDays;
     const displayHours = elapsedHours % 24;
     const displayMinutes = elapsedMinutes % 60;
     const displaySeconds = Math.floor(elapsedSeconds % 60);
-
-    // Update elapsed time display
     document.getElementById('elapsedTime').textContent =
         `Elapsed Time: ${displayDays} days ${displayHours} hrs ${displayMinutes} min ${displaySeconds} sec`;
 
-    // New: Total burnt and percentage
-    const totalBurnt = burntSoFar.perSecond; // total burnt so far based on seconds elapsed
+    // Update Total Burnt and Percentage
+    const totalBurnt = burntSoFar.perSecond;
     const percentageBurnt = (totalBurnt / totalAmount) * 100;
-
-    // Format nicely with commas, 6 decimal places for % to show fine changes
     const totalBurntFormatted = `₹${Math.floor(totalBurnt).toLocaleString('en-IN')}`;
     const percentageFormatted = percentageBurnt.toFixed(6);
 
     document.getElementById('totalBurnt').innerHTML = `
         Money Burnt So Far: <span style="color:#d9534f;">${totalBurntFormatted}</span> 
         (<span style="color:#5cb85c;">${percentageFormatted}%</span>)
-        `;
-
+    `;
 }
 
 // Update every 0.5 seconds
