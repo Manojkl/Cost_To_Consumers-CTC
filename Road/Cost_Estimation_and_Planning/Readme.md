@@ -71,6 +71,7 @@ To do
 - Map the entire nation and find where all needs to be implemented.
 - Collect data on poor work(shitting work and good work).
 - Estimate for upgrading the entire nation road, sidewalks, shops entrance.
+- Identify where the soil, dust, wastes are coming to road. Take appropriate actions for the same.
 - .....etc
 
 # Comparison of Good work and Shitting work
