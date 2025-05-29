@@ -84,6 +84,7 @@ Location: https://maps.app.goo.gl/FGQHne8JcmwpQzrc7
 
 ## Shitting work
 Collected data on 29/05/2025,11:00 AM from google map
+IT capital of India, Sister city of San Francisco's(SF)
 Plus code: VPX6+4R Bengaluru, Karnataka
 Ambalipura - Sarjapur Rd, Hadosiddapura, Kodathi, Bengaluru, Karnataka 560099
 Location: https://maps.app.goo.gl/zf5LwnVYkG982vt36
