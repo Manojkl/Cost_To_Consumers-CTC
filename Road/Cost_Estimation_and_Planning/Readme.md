@@ -178,3 +178,7 @@ Mainly due to laziness with people working in government, corruption, employees 
 Make all people involved. Research on potential solutions to this problem and also on relaity. 
 
 ![Alt text](images/img4.png)
+
+Things to do:
+
+- Clean the entire repository!!
