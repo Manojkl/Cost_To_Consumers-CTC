@@ -74,13 +74,16 @@ To do
 
 # Comparison of Good work and Shitting work
 
+
 ## Good work
+Collected data on 29/05/2025,10:56 AM from google map
 Plus code: P3QH+CM Bonn, Germany
 Bornheimer Str. 129, 53119 Bonn, Germany
 Location: https://maps.app.goo.gl/FGQHne8JcmwpQzrc7
 ![Alt text](images/img1.png)
 
 ## Shitting work
+Collected data on 29/05/2025,11:00 AM from google map
 Plus code: VPX6+4R Bengaluru, Karnataka
 Ambalipura - Sarjapur Rd, Hadosiddapura, Kodathi, Bengaluru, Karnataka 560099
 Location: https://maps.app.goo.gl/zf5LwnVYkG982vt36
