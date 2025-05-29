@@ -71,3 +71,17 @@ To do
 - Map the entire nation and find where all needs to be implemented.
 - Collect data on poor work(shitting work and good work).
 - .....etc
+
+# Comparison of Good work and Shitting work
+
+## Good work
+Plus code: P3QH+CM Bonn, Germany
+Bornheimer Str. 129, 53119 Bonn, Germany
+Location: https://maps.app.goo.gl/FGQHne8JcmwpQzrc7
+![Alt text](images/img1.png)
+
+## Shitting work
+Plus code: VPX6+4R Bengaluru, Karnataka
+Ambalipura - Sarjapur Rd, Hadosiddapura, Kodathi, Bengaluru, Karnataka 560099
+Location: https://maps.app.goo.gl/zf5LwnVYkG982vt36
+![Alt text](images/img2.png)
