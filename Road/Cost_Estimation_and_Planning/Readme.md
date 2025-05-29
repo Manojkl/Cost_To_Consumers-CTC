@@ -69,5 +69,5 @@ To do
 - Research on quality standards (Look at developed countries)
 - Formulate the problem as politicial based on the places and peoples mindset.
 - Map the entire nation and find where all needs to be implemented.
-- Collect data on poor work and good work.
+- Collect data on poor work(shitting work and good work).
 - .....etc
