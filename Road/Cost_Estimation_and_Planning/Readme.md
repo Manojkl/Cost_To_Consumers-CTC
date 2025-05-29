@@ -70,6 +70,7 @@ To do
 - Formulate the problem as politicial based on the places and peoples mindset.
 - Map the entire nation and find where all needs to be implemented.
 - Collect data on poor work(shitting work and good work).
+- Estimate for upgrading the entire nation road, sidewalks, shops entrance.
 - .....etc
 
 # Comparison of Good work and Shitting work
