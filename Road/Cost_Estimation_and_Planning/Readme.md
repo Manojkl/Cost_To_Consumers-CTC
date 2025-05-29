@@ -91,3 +91,10 @@ Plus code: VPX6+4R Bengaluru, Karnataka
 Ambalipura - Sarjapur Rd, Hadosiddapura, Kodathi, Bengaluru, Karnataka 560099
 Location: https://maps.app.goo.gl/zf5LwnVYkG982vt36
 ![Alt text](images/img2.png)
+
+
+## Houses connecting to road
+Collected data on 29/05/2025,02:33 PM from google map
+105 Karl-Legien-Straße, Bonn, North Rhine-Westphalia
+https://maps.app.goo.gl/BGKL6QudCrGbKuNp9
+![Alt text](images/img3.png)
