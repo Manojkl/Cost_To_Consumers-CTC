@@ -174,5 +174,7 @@ If you have specific requirements or need assistance in selecting a machine that
 
 Note: Research on other available machines in the market.
 Important: In India it will work only few months, then breakdown happens and no one maintains them. Make a system to make all of the things up and work accordingly. Ex. A camera system given to panchayat in Karnataka only worked for few months. After that no one cares!! Solve this problem. Find root cause.
-Mainly due to laziness with people working in government, corruption, people don't ask questions....etc to be updated
-Make all people involved. Research on potential solutions to this problem and also on relaity.
+Mainly due to laziness with people working in government, corruption, employees don't want to work, people don't ask questions....etc to be updated
+Make all people involved. Research on potential solutions to this problem and also on relaity. 
+
+![Alt text](images/img4.png)
