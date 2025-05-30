@@ -21,6 +21,7 @@ Singularity (In Physics) - A point in space-time (blackhole) where the laws of p
 ## Difference between AI and AGI
 
 Narrow AI - Good at doing a single task. E.g, Calculator or image recognition
+
 Broad AI (AGI) - Good at doing multiple tasks. E.g Human
 
 If narrow AI is like a calculator (excellent at one thing),
