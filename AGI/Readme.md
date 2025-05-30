@@ -9,13 +9,19 @@ IMPORTANT
 
 Let's say I want to define what words, sound, visual I want to view !!
 
-Starting with: I can tell any chatbot, example: ChatGPT not to use certain kind of words in the response. If that is absolutely necessary then tell it to respond with certain way (Tell how you want to use that things).
+Starting with: I can tell any chatbot, example: ChatGPT not to use a certain kind of words in the response. If that is necessary, then tell it to respond in a certain way (Tell how you want to use that thing).
 
 ## AGI Definition
 
 A type of artificial intelligence capable of learning, and applying knowledge across a wide range of tasks at the level of a human being — or beyond — with the ability to generalize knowledge from one domain to another.
 
+Singularity (In Tech) – A point in time where technological intelligence surpasses that of humans, triggering an uncontrollable and irreversible surge in technological advancement.
+Singularity (In Physics) - A point in space-time (blackhole) where the laws of physics are broken.
+
 ## Difference between AI and AGI
+
+Narrow AI - Good at doing a single task. E.g, Calculator or image recognition
+Broad AI (AGI) - Good at doing multiple tasks. E.g Human
 
 If narrow AI is like a calculator (excellent at one thing),
 Then AGI is like a human mind — flexible, adaptable, and able to learn new things independently.
