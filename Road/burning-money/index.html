@@ -10,91 +10,108 @@
 </head>
 
 <body>
-    <h1>Road Project Burn Rate Over 1 Year - ₹2800 Crores Budget</h1>
+    <!-- Dropdown Menu -->
+    <div style="text-align: left; margin-bottom: 20px;">
+        <select id="pageSelector" style="font-size: 1.2em; padding: 5px 10px;">
+            <option value="burnPage" selected>Burning Money</option>
+            <option value="machinePage">Machine Status</option>
+        </select>
+    </div>
 
-    <table id="burnTable">
-        <thead>
-            <tr>
-                <th>Time Resolution</th>
-                <th>Money Burnt So Far (₹)</th>
-                <th>Burn Rate (₹)</th>
-                <th>Time Units Passed</th>
-            </tr>
-        </thead>
-        <tbody>
-            <tr>
-                <td>Second</td>
-                <td id="burnSec">₹0</td>
-                <td id="rateSec">₹0</td>
-                <td id="elapsedSec">0</td>
-            </tr>
-            <tr>
-                <td>Minute</td>
-                <td id="burnMin">₹0</td>
-                <td id="rateMin">₹0</td>
-                <td id="elapsedMin">0</td>
-            </tr>
-            <tr>
-                <td>Hour</td>
-                <td id="burnHour">₹0</td>
-                <td id="rateHour">₹0</td>
-                <td id="elapsedHour">0</td>
-            </tr>
-            <tr>
-                <td>Day</td>
-                <td id="burnDay">₹0</td>
-                <td id="rateDay">₹0</td>
-                <td id="elapsedDay">0</td>
-            </tr>
-            <tr>
-                <td>Month</td>
-                <td id="burnMonth">₹0</td>
-                <td id="rateMonth">₹0</td>
-                <td id="elapsedMonth">0</td>
-            </tr>
-            <tr>
-                <td>Year</td>
-                <td id="burnYear">₹0</td>
-                <td id="rateYear">₹0</td>
-                <td id="elapsedYear">0</td>
-            </tr>
-        </tbody>
-    </table>    
+    <!-- Burning Money Page -->
+    <div id="burnPage">
+        <h1>Road Project Burn Rate Over 1 Year - ₹2800 Crores Budget</h1>
 
-    <!-- Add this below your table and above elapsedTime -->
-    <div id="startDate" class="start-date">Start of Project: 07 March 2025</div>
+        <table id="burnTable">
+            <thead>
+                <tr>
+                    <th>Time Resolution</th>
+                    <th>Money Burnt So Far (₹)</th>
+                    <th>Burn Rate (₹)</th>
+                    <th>Time Units Passed</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>Second</td>
+                    <td id="burnSec">₹0</td>
+                    <td id="rateSec">₹0</td>
+                    <td id="elapsedSec">0</td>
+                </tr>
+                <tr>
+                    <td>Minute</td>
+                    <td id="burnMin">₹0</td>
+                    <td id="rateMin">₹0</td>
+                    <td id="elapsedMin">0</td>
+                </tr>
+                <tr>
+                    <td>Hour</td>
+                    <td id="burnHour">₹0</td>
+                    <td id="rateHour">₹0</td>
+                    <td id="elapsedHour">0</td>
+                </tr>
+                <tr>
+                    <td>Day</td>
+                    <td id="burnDay">₹0</td>
+                    <td id="rateDay">₹0</td>
+                    <td id="elapsedDay">0</td>
+                </tr>
+                <tr>
+                    <td>Month</td>
+                    <td id="burnMonth">₹0</td>
+                    <td id="rateMonth">₹0</td>
+                    <td id="elapsedMonth">0</td>
+                </tr>
+                <tr>
+                    <td>Year</td>
+                    <td id="burnYear">₹0</td>
+                    <td id="rateYear">₹0</td>
+                    <td id="elapsedYear">0</td>
+                </tr>
+            </tbody>
+        </table>
 
-    <div id="elapsedTime" style="margin-top: 30px; font-size: 1.3em; font-weight: bold;"></div>
-    
-    <!-- New Section for total money burnt + percentage -->
-    <div id="totalBurnt" style="margin-top: 40px; font-size: 2em; font-weight: 700; color: #d9534f;"></div>
+        <div id="startDate" class="start-date">Start of Project: 07 March 2025</div>
+        <div id="elapsedTime" style="margin-top: 30px; font-size: 1.3em; font-weight: bold;"></div>
+        <div id="totalBurnt" style="margin-top: 40px; font-size: 2em; font-weight: 700; color: #d9534f;"></div>
+    </div>
+
+    <!-- Machine Status Page (Hidden by default) -->
+    <div id="machinePage" style="display: none;">
+        <h1>Machine Status</h1>
+        <table style="margin: 0 auto; width: 60%;">
+            <tr>
+                <th>Metric</th>
+                <th>Value</th>
+            </tr>
+            <tr>
+                <td>Number of Sweeper Machines Available</td>
+                <td>15</td>
+            </tr>
+            <tr>
+                <td>Fitness of Machines</td>
+                <td>12 Fit, 3 Under Repair</td>
+            </tr>
+            <tr>
+                <td>Machines Under Maintenance</td>
+                <td>3</td>
+            </tr>
+            <tr>
+                <td>Last Checked</td>
+                <td>30 May 2025</td>
+            </tr>
+        </table>
+    </div>
 
     <script src="script.js"></script>
+    <script>
+        // Page Switcher
+        document.getElementById('pageSelector').addEventListener('change', function () {
+            const selectedPage = this.value;
+            document.getElementById('burnPage').style.display = (selectedPage === 'burnPage') ? 'block' : 'none';
+            document.getElementById('machinePage').style.display = (selectedPage === 'machinePage') ? 'block' : 'none';
+        });
+    </script>
 </body>
-  
-<style>
-    #burnTable th {
-        white-space: nowrap;
-    }
-
-    .start-date {
-    font-family: 'Montserrat', sans-serif;
-    font-size: 3rem;
-    font-weight: bold;
-    text-align: center;
-    margin-top: 20px;
-    color: #ff6ec4;
-    animation: colorCycle 10s infinite alternate;
-    }
-
-    @keyframes colorCycle {
-        0% { color: #f5a623; }
-        25% { color: #f5a623; }
-        50% { color: #f5a623; }
-        75% { color: #f5a623; }
-        100% { color: #f5a623; }
-    }
-
-</style>
 
 </html>
