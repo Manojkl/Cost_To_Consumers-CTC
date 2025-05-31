@@ -20,7 +20,7 @@ The total distance between Kadaba and Panja is approximately 10 km, out of which
 
 Potential reason for delay - rain, slow approval and processes of fund transfer (🤑), ...etc
 
-Estimated time to repair - 3 days!! (India)
+Estimated time to repair - 7 days!! (India)
 
 Total fund released for the project - (To be updated)
 
