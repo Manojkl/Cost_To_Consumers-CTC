@@ -8,6 +8,7 @@ How many hours of work are required to afford that food based on the local wage 
 ⸻
 
 🍽️ Example 1: Bonn, Germany
+
 	•	Restaurant: Royal India Bonn – Unlimited buffet
 	•	Buffet Cost: €20 (₹1941)
 	•	Minimum Wage in Germany: €13/hour (₹1261/hour) (Low skill level people - bottom 20-25% people) 
@@ -16,6 +17,7 @@ How many hours of work are required to afford that food based on the local wage 
 ⸻
 
 🍽️ Example 2: Kadubeesanahalli, Bangalore, India
+
 	•	Restaurant: Barbeque Nation – Unlimited buffet
 	•	Buffet Cost: ₹850 (~€9)
 	•	Salary Assumption: ₹81,000/month, 10 hours/day, 22 days/month (High skill level people - top 3% people)
