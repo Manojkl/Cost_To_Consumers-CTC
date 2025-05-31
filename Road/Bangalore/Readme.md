@@ -35,4 +35,3 @@ How much percentage of drainage are cleaned in a year?
 
 - Number and size of garbage collection bins in public places?
 - Number of shops having garbage collection bins? How much percentage of shops has that?
-

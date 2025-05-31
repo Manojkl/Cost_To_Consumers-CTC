@@ -9,14 +9,14 @@ Detecting the potholes on the road and tracking of construction.
 Example:
 
 Google maps: https://maps.app.goo.gl/nAdEeT3fSom3ir5EA
-Location: Kadaba taluk, Dakshina Kannada, Karnataka, India, 574541
+Location: Kadaba taluk, Dakshina Kannada, Karnataka, India, 574221
 
 Kadaba to Panja road
 YouTube: https://youtu.be/7KdZbGPctAY?si=AkzXluNOauuChI_l
 
-Gudali Pooja for new road: 16/454/24545
+Gudali Pooja for new road: 16/04/2025
 
-The total distance between Kadaba and Panja is approximately 145 km, out of which around 8 km is in reasonably good condition(To be updated). A 2 km stretch has a high concentration of potholes, but only the most severely affected sections—adding up to roughly 1 km in total—will be repaired. - from sources 
+The total distance between Kadaba and Panja is approximately 10 km, out of which around 8 km is in reasonably good condition(To be updated). A 2 km stretch has a high concentration of potholes, but only the most severely affected sections—adding up to roughly 1 km in total—will be repaired. - from sources 
 
 Potential reason for delay - rain, slow approval and processes of fund transfer (🤑), ...etc
 
