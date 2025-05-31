@@ -182,3 +182,7 @@ Make all people involved. Research on potential solutions to this problem and al
 Things to do:
 
 - Clean the entire repository!! (Implementation of this should not wait for this repo cleaning!!)
+
+## Timeline to track project
+
+![Alt text](images/img5_timeline.png)
