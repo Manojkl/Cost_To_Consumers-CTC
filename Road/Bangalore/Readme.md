@@ -18,6 +18,6 @@ In summary, while the BBMP's most recent fleet under contract consisted of 25 ma
 https://g.co/gemini/share/7d36ae6fee5b
 
 
-## Number of city cleaning equipment and people employed statistics
+## Number of city cleaning equipment and people employed statistics in the city of Berlin, Germany
 
 https://chatgpt.com/share/683ac0bc-ac54-8007-8f52-9fa2ecccfc9f
