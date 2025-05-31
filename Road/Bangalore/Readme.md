@@ -30,3 +30,9 @@ https://chatgpt.com/share/683ac0bc-ac54-8007-8f52-9fa2ecccfc9f
 ## Drainage cleaning status 
 
 How much percentage of drainage are cleaned in a year?
+
+## Garbage collection bins
+
+- Number and size of garbage collection bins in public places?
+- Number of shops having garbage collection bins? How much percentage of shops has that?
+
