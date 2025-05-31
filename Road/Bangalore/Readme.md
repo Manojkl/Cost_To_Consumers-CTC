@@ -24,6 +24,9 @@ https://chatgpt.com/share/683ac0bc-ac54-8007-8f52-9fa2ecccfc9f
 
 ## Drain slab status 
 
-How many drain slabs are in Bangalore City?
-How many are in good conditions?
+ - How many drain slabs are in Bangalore City?
+ - How many are in good conditions?
+
+## Drainage cleaning status 
+
 How much percentage of drainage are cleaned in a year?
