@@ -8,3 +8,4 @@ Currently - 1+1.7=2.7 trillion dollars
 Testing Mic - 1 billion, 2 billion...
 
 Games starter - Played throughout the world in every aspect of life!! Continue to be played until the humans exist and beyond.
+Also build the stage and make the game!!
