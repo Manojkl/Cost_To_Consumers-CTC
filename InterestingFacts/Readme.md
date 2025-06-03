@@ -16,3 +16,5 @@ Average savings: ~$22,000 (skewed by high earners).
 95% of Indians have less than 10 lakh in savings.
 
 Source: https://chatgpt.com/share/683eeacc-f30c-8007-9be7-844347a44574
+
+To do: Get data for multiple countries in table format
