@@ -92,6 +92,8 @@ Build a system using:
 * AI/computer vision tools (for optional skill scoring)
 * Public portfolio and rating system
 
-## More detailed discussion in the below link
+- Conduct competition at different levels. E.g. Panchayat level,Taluk level, District level, State level, International level 
+
+## More detailed discussion in the link below
 
 https://chatgpt.com/share/683e748f-e038-8007-93ab-3b8a21b4d0e3
