@@ -11,8 +11,8 @@ Median savings: ~$8,000.
 
 Average savings: ~$22,000 (skewed by high earners).
 
-Discussion: https://chatgpt.com/share/683eeacc-f30c-8007-9be7-844347a44574
-
 #### How Many Indians Have Less Than 10 lakh in Savings?
 
 95% of Indians have less than 10 lakh in savings.
+
+Source: https://chatgpt.com/share/683eeacc-f30c-8007-9be7-844347a44574
