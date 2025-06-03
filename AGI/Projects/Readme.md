@@ -53,3 +53,12 @@ Goal: Test if they are updated with latest information. Test the standards. Brin
 
 Maybe make it centralized the exams. 
 Use AI in anyway possible to help with this objective.
+
+## Estimation of the amount of rain/wind speed in a particular place
+
+Estimate the amount of rainfall in a specific location.
+Estimating the wind speed. Connecting sensors in flights to a satellite to estimate the wind speed at that location.
+
+
+
+
