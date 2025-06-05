@@ -18,3 +18,5 @@ Average savings: ~$22,000 (skewed by high earners).
 Source: https://chatgpt.com/share/683eeacc-f30c-8007-9be7-844347a44574
 
 To do: Get data for multiple countries in table format
+
+Report on forecasting of reaching saturation limits.
