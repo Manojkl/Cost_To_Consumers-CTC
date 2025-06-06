@@ -48,3 +48,9 @@ Create badges, all gaming industry collaborate and come with common medels!!
 - Other abilities....etc
 
 Phrase common study materials and pressing problem in the science, society,...etc in the game.
+
+# Monitor Resource Utilization in Universities, Colleges, Schools
+
+Monitor how efficiently the resources are utilized in universities, Colleges, and Schools. Monitor the funding for the same.
+
+To do: Research on how many Universities are working on Humanoid Robots in different countries.
