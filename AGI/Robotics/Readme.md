@@ -18,6 +18,16 @@ Robotics is the science and technology of building machines (robots) that can do
 - Autonomy: Some degree of decision-making without human input.
 - Interaction: Responding to the environment or humans.
 
+## Mind Map of Robotics
+
+Note: The data obtained from source that was last updated on 2014
+
+![Robot Example](images/img1.png)
+![Robot Example](images/img2.png)
+![Robot Example](images/img3.png)
+
+Source: https://gogeometry.com/robotics/
+
 ## Humanoid Robots
 
 ### 🔹 **University Programs and Humanoid Robotics Research**
@@ -61,3 +71,7 @@ Robotics is the science and technology of building machines (robots) that can do
 More detailed discussion can be found in:
 
 - Source: https://chatgpt.com/share/6843b5ce-3198-8007-b50d-644871cdefde
+
+
+To do: MindMap of robots by types of robots, application areas.
+
