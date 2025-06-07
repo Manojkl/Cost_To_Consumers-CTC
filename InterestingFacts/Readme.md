@@ -17,78 +17,55 @@ Average savings: ~$22,000 (skewed by high earners).
 
 Source: https://chatgpt.com/share/683eeacc-f30c-8007-9be7-844347a44574
 
-To do: Get data for multiple countries in table format
+To do: Get data for multiple countries in a table format
 
 Report on forecasting of reaching saturation limits.
 
-## How different generation think in China
+## How do different generations think in China
 
 The thinking across older, middle-aged, and younger generations in China has notably diverged, shaped by different historical, economic, and technological contexts. Here’s a comparative breakdown of how each generation tends to think and behave:
 
-⸻
+## 🧓 Older Generation (Born ~1940s–1960s)
+- **Context**: Grew up during the Cultural Revolution, collectivism, and poverty.
+- **Values**: Collectivist, patriotic, respectful of authority.
+- **Technology**: Minimal use; not digitally fluent.
+- **Politics**: Loyal to Communist Party; values national stability.
+- **Wealth View**: Frugal and savings-focused due to past hardship.
+- **Family**: Traditional roles and strong respect for elders.
 
-👴 Older Generation (Born ~1940s–1960s)
+---
 
-Context: Grew up during the Cultural Revolution (1966–1976), poverty, and collectivism under Mao Zedong.
+## 👨 Middle-aged Generation (Born ~1970s–1980s)
+- **Context**: Experienced economic reforms, early internet, and urbanization.
+- **Values**: Pragmatic, career-oriented, focused on home ownership.
+- **Technology**: Comfortable with smartphones, social media (e.g., WeChat).
+- **Politics**: Cautious; generally supports economic growth and social order.
+- **Wealth View**: Values financial security and status.
+- **Family**: Balances responsibilities of both parents and children (sandwich generation).
 
-Aspect	Typical Views/Behaviors
-Values	Collectivist, patriotic, obedient to authority
-Politics	Generally loyal to the Communist Party, values stability
-Technology	Limited adoption; may use smartphones but not highly digital
-Education	Many missed formal education due to the Cultural Revolution
-Family	Strong belief in traditional roles; respect for hierarchy
-Wealth View	Frugality, savings-focused due to memories of hardship
+---
 
+## 🧑 Younger Generation (Born ~1990s–2010s)
+- **Context**: Grew up in economic prosperity, under one-child policy, and with internet access.
+- **Values**: Individualistic, lifestyle-focused, self-expressive.
+- **Technology**: Digitally native; uses platforms like Xiaohongshu, Weibo, Douyin.
+- **Politics**: Nationalist or politically indifferent; more skeptical of authority.
+- **Wealth View**: Prefers experience and balance over traditional success.
+- **Trends**:
+  - **Tangping (躺平)**: “Lying flat” — rejecting hyper-competition.
+  - **Neijuan (内卷)**: “Involution” — frustration from constant pressure.
+  - **Guochao (国潮)**: Rising pride in Chinese brands/culture.
 
-⸻
+---
 
-👨‍💼 Middle Generation (Born ~1970s–1980s)
+## 📊 Comparison Table
 
-Context: Witnessed economic reforms and opening-up (Deng Xiaoping era), early internet, massive urbanization.
+| Generation       | Values             | Politics          | Technology Use      | Wealth View           | Family Role           |
+|------------------|--------------------|--------------------|----------------------|------------------------|------------------------|
+| Older            | Collectivist       | Loyal to authority | Low                  | Frugal                 | Traditional/hierarchical |
+| Middle-aged      | Pragmatic          | Cautious           | Moderate             | Status & security      | Dual responsibility     |
+| Younger          | Individualistic    | Skeptical/indiff.  | High (digital native)| Lifestyle-focused      | Less traditional        |
 
-Aspect	Typical Views/Behaviors
-Values	Pragmatic, career-driven, value social stability
-Politics	Cautious; not overtly political but supportive of economic progress
-Technology	Comfortable with digital life; uses WeChat, e-commerce
-Education	Benefited from the restoration of higher education
-Family	“Sandwich generation” — caring for parents and children
-Wealth View	Focused on home ownership, status, upward mobility
+Sources: ChatGPT, Is the thinking of older, middle, and younger generations changed in china how these generations people think?
+https://chatgpt.com/s/t_6844072e53808191863ff90dd211d5e6
 
-
-⸻
-
-🧑‍💻 Younger Generation (Born ~1990s–2010s)
-
-Context: Grew up with prosperity, internet, smartphones, and exposure to global culture (though filtered).
-
-Aspect	Typical Views/Behaviors
-Values	Individualistic, self-expressive, open to global trends
-Politics	Nationalist or politically indifferent; some skeptical of authority
-Technology	Digitally native; active on local social media (Weibo, Xiaohongshu)
-Education	Highly educated but under job market pressure
-Family	Post-one-child policy generation; less pressure to follow norms
-Wealth View	Emphasize lifestyle over savings; some embrace “lying flat” culture
-
-
-⸻
-
-🧠 Cultural Movements Reflecting Generational Shifts
-
-Movement	Mainly Adopted By	Meaning
-Tangping (躺平)	Younger Gen	“Lying flat” – opting out of traditional success
-Neijuan (内卷)	Middle & Young	“Involution” – endless competition, burnout
-Guochao (国潮)	Young	Pride in local culture/products over Western
-
-
-⸻
-
-🔍 Summary of Generational Differences
-
-Dimension	Older	Middle-aged	Younger
-Cultural orientation	Collectivist	Pragmatic	Individualist / expressive
-Trust in authority	High	Moderate	Mixed / skeptical
-Global exposure	Very limited	Moderate	High (though filtered)
-Economic mindset	Frugal	Ambitious	Lifestyle-focused
-Career approach	Loyalty, stability	Advancement, security	Flexibility, freedom
-
-Sources: ChatGPT , Is the thinking of older, middle and younger generations changed in china how these generations people think?
