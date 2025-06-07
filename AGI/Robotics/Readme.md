@@ -63,7 +63,7 @@ Source: https://gogeometry.com/robotics/
 
 > **Estimates**:
 
-* **\~50%** of tasks done by specialized robots could, in principle, be done by humanoid robots—but often **less efficiently**.
+* **\~50%** of tasks done by specialized robots could, in principle, be done by humanoid robots—but often **less efficiently**. (Multiple robots for multiple tasks and a single robot for various tasks)
 * **\~25–30%** of global work (manual labor, routine cognitive tasks) could be done by humanoid robots.
 * **\~40–50%** of tasks require **non-humanoid robots** due to speed, precision, form factor, or environment.
 * Remaining **\~20–30%** of global work requires **humans** (creative, emotional, strategic tasks).
