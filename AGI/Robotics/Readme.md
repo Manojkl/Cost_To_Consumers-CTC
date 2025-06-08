@@ -77,10 +77,36 @@ To do: MindMap of robots by types of robots, application areas.
 
 To do: Research on how many Universities are working on Humanoid Robots in different countries. Start new or already existing open source framework to work on, everyone contributes to that single/multiple repositories, by countries or international while maintaining the standards.
 
-Make the university to work on real world, commercial type humanoid robots, not only toy robots.
-Majority work in commercial level robots.
+Make the university work on real-world, commercial-type humanoid robots, not only toy robots.
+The majority work in commercial-level robots.
+
+## Humanoid and Partial-Humanoid Robot Manufacturers
+
+| Company         | Robot     | Audience               | Specs (mobility, DoF)                               | Control/SDK                                                       | Price (USD)          | Intl Avail.      | Open Source                   | Support                       |
+| --------------- | --------- | ---------------------- | --------------------------------------------------- | ----------------------------------------------------------------- | -------------------- | ---------------- | ----------------------------- | ----------------------------- |
+| SoftBank        | Pepper    | Commercial, education  | Wheeled base; 19 DoF; cameras, mics; tablet display | NAOqi OS; SDKs (Android, C++, Python, JS); ROS interface          | \~18k                | Yes              | No                            | Full docs, APIs, forums       |
+| SoftBank        | NAO       | Education, research    | Biped 58 cm; 25 DoF; cameras, mics, sonar           | NAOqi OS; Choregraphe (Blockly/Scratch) plus C++/Python/Java; ROS | \~\$7.5k             | Yes              | No (but ROS)                  | Good docs, community          |
+| Boston Dyn.     | Atlas     | Research/Demo          | Biped 1.8m; 28 DoF (hydraulic); LIDAR, stereo       | Custom (no public SDK); fleet API (Orbit)                         | N/A (R\&D only)      | No               | No                            | Internal support only         |
+| Agility         | Digit     | Industrial (logistics) | Biped 1.75m; 16 DoF; LIDAR, 4×RealSense             | Linux RTOS; ROS-compatible (open)                                 | N/A (\~\$150k est)   | Yes              | Partial (ROS)                 | API docs on request           |
+| Figure          | Figure 01 | Industrial             | Biped 1.68m; 40+ DoF; 20kg lift; 4.3 km/h           | Custom AI (closed); no SDK public                                 | — (undisclosed)      | Limited          | No                            | Enterprise support            |
+| Figure          | Figure 02 | Industrial             | Biped \~1.67m; 20kg lift; 1.2 m/s                   | Custom AI; closed                                                 | —                    | Limited          | No                            | Enterprise support            |
+| Hanson          | Sophia    | Research/entertainment | 1.67m; 83 DoF (face+body); vision/speech            | Proprietary (Ubuntu/ROS?); NLP engine                             | —                    | No               | No                            | Direct (company)              |
+| PAL Robotics    | REEM-C    | Research               | 1.65m; 68 DoF; stereo vision, sonars                | Ubuntu/ROS; open (ROS-control, Gazebo)                            | €300k (\~\$320k)     | Yes              | Yes (ROS)                     | Docs, ROS examples            |
+| PAL Robotics    | TALOS     | Industrial research    | 1.75m; 32 DoF; torque sensors                       | Ubuntu/ROS; MoveIt, OROCOS                                        | €900k (\~\$960k)     | Yes              | Yes (ROS)                     | Full docs, sim models         |
+| UBTech          | Walker S1 | Industrial             | 1.72m; 41 DoF; fisheye 360° cam, Lidar              | ROSA OS (proprietary)                                             | —                    | Yes (by request) | No                            | English/Chinese documentation |
+| EngineAI        | PM01      | Commercial/Education   | 1.38m; 24 DoF; waist 320°; 2 m/s                    | Custom L4S OS (ROS-based?)                                        | \~\$12.5k (yuan 88k) | Yes              | Partial (educational version) | Manuals for edu/custom        |
+| Sanctuary AI    | Phoenix   | Industrial/logistics   | \~1.70m; \~70kg; payload 25kg; 20-DoF hands         | Custom “Carbon” AI OS                                             | —                    | Partnership      | No                            | Pilot documentation           |
+| Engineered Arts | Ameca     | Entertainment/R\&D     | \~1.60m; 61 DoF; microphones, cameras               | Tritium OS (closed)                                               | —                    | Yes              | No                            | Full API/docs (Tritium)       |
+| iCub Consortium | iCub      | Research               | 1.04m; 54 DoF; stereo vision, touch sensors         | Linux/YARP/ROS (open)                                             | \$300k               | Yes              | **Yes**                       | Open docs, academic support   |
+| Willow Garage   | PR2       | Research               | 1.60m; 20 DoF; 2×7-DoF arms, omni-base, Kinect      | ROS (open)                                                        | \$400k (old)         | Legacy           | **Yes**                       | Community-maintained          |
+| Kawada          | NEXTAGE   | Industrial             | 0.71m torso; 15 DoF; stereo cams                    | QNX-based, CORBA/Ethernet                                         | —                    | Yes              | No                            | Support from Kawada           |
+| Apptronik       | Apollo    | Warehousing/Industry   | 1.73m; 72kg; 55 lb lift                             | Linux/ROS (likely)                                                | —                    | Yes              | No                            | SDK/docs to partners          |
+| Agibot (China)  | A2        | Industrial/Service     | 1.75m; 55kg; 40+ DoF; 2 h runtime                   | AimRT (proprietary)                                               | —                    | Yes              | No                            | Distributor support           |
+| Pudu Robotics   | D9        | Commercial service     | 1.70m; 42 DoF; dual arms 7-DoF                      | Pudu OS (closed)                                                  | —                    | Yes              | No                            | Pudu corporate support        |
 
 Source: https://chatgpt.com/share/684564dc-b2d4-8007-8ddc-8162487dba64
+Date: 08/06/2025
+Update for any information presented above
 
 
 
