@@ -75,3 +75,15 @@ More detailed discussion can be found in:
 
 To do: MindMap of robots by types of robots, application areas.
 
+To do: Research on how many Universities are working on Humanoid Robots in different countries. Start new or already existing open source framework to work on, everyone contributes to that single/multiple repositories, by countries or international while maintaining the standards.
+
+Make the university to work on real world, commercial type humanoid robots, not only toy robots.
+Majority work in commercial level robots.
+
+Source: https://chatgpt.com/share/684564dc-b2d4-8007-8ddc-8162487dba64
+
+
+
+
+
+
