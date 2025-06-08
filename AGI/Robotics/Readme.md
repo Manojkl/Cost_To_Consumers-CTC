@@ -105,6 +105,7 @@ The majority work in commercial-level robots.
 | Pudu Robotics   | D9        | Commercial service     | 1.70m; 42 DoF; dual arms 7-DoF                      | Pudu OS (closed)                                                  | —                    | Yes              | No                            | Pudu corporate support        |
 
 More detailed information in the conversation below
+
 Source: https://chatgpt.com/share/684564dc-b2d4-8007-8ddc-8162487dba64
 
 Date the above information extracted: 08/06/2025
