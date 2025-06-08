@@ -54,3 +54,4 @@ Phrase common study materials and pressing problem in the science, society,...et
 Monitor how efficiently the resources are utilized in universities, Colleges, and Schools. Monitor the funding for the same.
 
 To do: Research on how many Universities are working on Humanoid Robots in different countries.
+Start new or already existing open source framework to work on, everyone contributes to that single/multiple repositories, by countries or international while maintaining the standards.
