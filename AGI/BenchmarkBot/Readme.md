@@ -75,3 +75,7 @@ A bot that plots/benchmarks a model's performance over a period.
 Whenever a new model is released, that model is added to the benchmark.
 Currently, all the benchmarks are scattered and not up-to-date. And no single place for all the benchmarks.
 Solution: Do a deep search, etc 
+
+## Benchmark in Robotics
+
+Benchmark the dexterity, seamless transition of a humanoid robots.
