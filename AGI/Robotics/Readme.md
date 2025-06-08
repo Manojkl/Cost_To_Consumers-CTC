@@ -104,9 +104,10 @@ The majority work in commercial-level robots.
 | Agibot (China)  | A2        | Industrial/Service     | 1.75m; 55kg; 40+ DoF; 2 h runtime                   | AimRT (proprietary)                                               | —                    | Yes              | No                            | Distributor support           |
 | Pudu Robotics   | D9        | Commercial service     | 1.70m; 42 DoF; dual arms 7-DoF                      | Pudu OS (closed)                                                  | —                    | Yes              | No                            | Pudu corporate support        |
 
+More detailed information in the conversation below
 Source: https://chatgpt.com/share/684564dc-b2d4-8007-8ddc-8162487dba64
 
-Date: 08/06/2025
+Date the above information extracted: 08/06/2025
 
 Update for any information presented above
 
