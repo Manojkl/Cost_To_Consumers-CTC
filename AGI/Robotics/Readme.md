@@ -199,10 +199,10 @@ Date: 10/06/2025
 
 * Humanoid robots can be **built with modular parts**, allowing upgrades like:
 
-  * Battery = Kidney
+  * Battery = Kidney/Heart
   * Motors = Joints
-  * Sensors = Eyes
-  * CPU = Brain
+  * Sensors = Eyes/Nose/Ears/Skin/Tongue/Awareness of surroundings
+  * CPU/GPU = Brain
 * Faulty parts can be **replaced just like organ transplants**, keeping the robot functional for decades.
 
 ---
