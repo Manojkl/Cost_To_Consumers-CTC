@@ -184,7 +184,7 @@ Date: 10/06/2025
 
 * Typically **5–10 years** depending on usage and maintenance.
 * With part replacements and software upgrades, lifespan can extend to **15+ years**.
-* Often become **obsolete** before they physically fail due to rapid tech advancements.
+* Rapid tech advancements.
 
 ---
 
