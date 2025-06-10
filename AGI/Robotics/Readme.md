@@ -178,6 +178,50 @@ Here’s a **summary** of how much humanoid robot prices can realistically drop 
 | **Other (Cabling, PCBs, cooling)**           | \$1,000 – \$3,000    | **\$100 – \$300**     | Bulk sourcing from Shenzhen = big drop                                     |
 
 Source: https://chatgpt.com/share/6847c0c7-0154-8007-9cd0-38a75b2b4f5d
+Date: 10/06/2025
 
+### 🤖 **Life Expectancy of Humanoid Robots**
+
+* Typically **5–10 years** depending on usage and maintenance.
+* With part replacements and software upgrades, lifespan can extend to **15+ years**.
+* Often become **obsolete** before they physically fail due to rapid tech advancements.
+
+---
+
+### 🚗 **Comparable to Cars**
+
+* Like cars, robots need **regular maintenance**, **part upgrades**, and face **wear and tear**.
+* Can be **kept running longer** with care, but newer models make older ones outdated.
+
+---
+
+### 🧠 **Modular Approach (Like Human Body)**
+
+* Humanoid robots can be **built with modular parts**, allowing upgrades like:
+
+  * Battery = Kidney
+  * Motors = Joints
+  * Sensors = Eyes
+  * CPU = Brain
+* Faulty parts can be **replaced just like organ transplants**, keeping the robot functional for decades.
+
+---
+
+### 💸 **Return on Investment (ROI)**
+
+* Depends on:
+
+  * **Robot cost**: ₹5 lakh–₹1 crore+
+  * **Annual maintenance**: ₹50k–₹2 lakh
+  * **Human labor cost saved**: ₹2 lakh–₹8 lakh/year
+* **Typical payback period**:
+
+  * **2–3 years** in ideal factory/service cases
+  * **4–6 years** in average use
+  * **7–10+ years** for advanced research models
+* After the payback period, the robot generates **net profit**.
+
+Source: https://chatgpt.com/share/6847f0b4-00d8-8007-8614-fbfcf996c7f0
+Date: 10/06/2025
 
 
