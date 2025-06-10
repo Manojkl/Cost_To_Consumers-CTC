@@ -123,8 +123,61 @@ Date the above information extracted: 10/06/2025
 
 Update for any information presented above
 
+## Cost reduction of Humanoid robots
 
+Here’s a **summary** of how much humanoid robot prices can realistically drop with large-scale production — globally and in **China**:
 
+---
+
+### 🌍 **Global Scenario (General Estimate)**
+
+| Scale of Production             | Estimated Cost per Unit | In INR                 |
+| ------------------------------- | ----------------------- | ---------------------- |
+| Prototype (1–10 units)          | \$100k–\$300k           | ₹80 lakh – ₹2.4 crore  |
+| Small Batch (100–1,000 units)   | \$50k–\$100k            | ₹40 lakh – ₹80 lakh    |
+| Mass Production (10,000+ units) | **\$10k–\$30k**         | **₹8 lakh – ₹25 lakh** |
+| Ultra-Mass (100k+ units/year)   | **\$5k–\$15k**          | **₹4 lakh – ₹12 lakh** |
+
+* Key savings from bulk procurement, automated assembly, and shared software.
+* Prices won’t go below ₹4–5 lakh without reducing functionality.
+
+---
+
+### 🇨🇳 **China Scenario**
+
+| Scale of Production           | Estimated Cost per Unit (China) | In INR                  |
+| ----------------------------- | ------------------------------- | ----------------------- |
+| Prototype                     | \$80k–\$200k                    | ₹65 lakh – ₹1.6 crore   |
+| Small Batch                   | \$30k–\$70k                     | ₹25 lakh – ₹60 lakh     |
+| Mass Production               | **\$6k–\$20k**                  | **₹5 lakh – ₹16 lakh**  |
+| Ultra-Mass (100k+ units/year) | **\$3k–\$8k**                   | **₹2.5 lakh – ₹7 lakh** |
+
+* Cheaper due to local component sourcing, low-cost labor, and government incentives.
+* China can reach **₹2.5–5 lakh** per unit for basic, functional humanoids by 2026–2028.
+
+---
+
+### 🔍 Bottom Line
+
+* **Globally**: Realistic minimum price = **₹4–5 lakh** (mass scale).
+* **In China**: Realistic minimum = **₹2.5–3 lakh** (ultra-mass scale).
+* Still-expensive components: **AI chips, batteries, precision actuators**.
+
+### 🤖 Humanoid Robot Cost Breakdown (Per Unit)
+
+| Component                                    | Prototype Cost (USD) | Mass-Scale Cost (USD) | Comment                                                                    |
+| -------------------------------------------- | -------------------- | --------------------- | -------------------------------------------------------------------------- |
+| **Actuators (Motors + Gearboxes)**           | \$10,000 – \$40,000  | **\$1,500 – \$5,000** | Biggest cost driver; price drops with local sourcing and BLDC optimization |
+| **Batteries (Li-ion)**                       | \$3,000 – \$8,000    | **\$500 – \$1,500**   | Limited drop due to global material costs (lithium, cobalt)                |
+| **Chassis & Skeleton**                       | \$5,000 – \$15,000   | **\$500 – \$2,000**   | Big reduction with injection-molded frames or aluminum stamping            |
+| **Sensors (Cameras, IMUs, LIDAR, etc.)**     | \$2,000 – \$8,000    | **\$300 – \$800**     | China has domestic sensors at a fraction of global cost                    |
+| **Compute (Jetson, Orin, custom AI boards)** | \$2,000 – \$5,000    | **\$500 – \$1,000**   | Custom boards or local equivalents can cut cost                            |
+| **Hands/Grippers**                           | \$2,000 – \$5,000    | **\$300 – \$800**     | Depends on level of dexterity; basic grippers are cheap                    |
+| **Software (Control + AI)**                  | \$20,000+ R\&D       | **\~\$100 per unit**  | Once developed, deployed at negligible cost                                |
+| **Assembly & QA**                            | \$5,000 – \$10,000   | **\$200 – \$500**     | Automation cuts this drastically in China                                  |
+| **Other (Cabling, PCBs, cooling)**           | \$1,000 – \$3,000    | **\$100 – \$300**     | Bulk sourcing from Shenzhen = big drop                                     |
+
+Source: https://chatgpt.com/share/6847c0c7-0154-8007-9cd0-38a75b2b4f5d
 
 
 
