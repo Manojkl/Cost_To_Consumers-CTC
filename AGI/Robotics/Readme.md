@@ -221,6 +221,16 @@ Date: 10/06/2025
   * **7–10+ years** for advanced research models
 * After the payback period, the robot generates **net profit**.
 
+### **Advantage**
+
+* Automating the repetitive task
+* Saving time
+* Labour shortage
+* Humans spend time on more relevant tasks
+* Elderly support
+* As a companion (Model of a person in humanoid robots)
+* Support children and take care of them
+
 Source: https://chatgpt.com/share/6847f0b4-00d8-8007-8614-fbfcf996c7f0
 Date: 10/06/2025, Update information if any new data is available
 
