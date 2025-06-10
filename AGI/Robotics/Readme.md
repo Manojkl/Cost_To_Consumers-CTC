@@ -230,6 +230,7 @@ Date: 10/06/2025
 * Elderly support
 * As a companion (Model of a person in humanoid robots)
 * Support children and take care of them
+* A hologram of a person when talking on a call (Isolate internet connection?)
 
 Source: https://chatgpt.com/share/6847f0b4-00d8-8007-8614-fbfcf996c7f0
 Date: 10/06/2025, Update information if any new data is available
