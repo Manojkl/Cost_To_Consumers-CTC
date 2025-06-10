@@ -109,9 +109,11 @@ The majority work in commercial-level robots.
 | Unitree Robotics | **G1**          | Research / development  | Humanoid, height ≈1.3 m, 23 DoF (base) up to 43 DoF (Edu+), \~120 N·m torque, supports dexterous hands  | SDK, ROS/ROS2, “UnifoLM” large-model, full-stack control                            | **\$16,000** base                           | Limited: research/industrial markets; global indicated  | ROS packages, SDK likely (new model)   | Research-grade support; Unitree R\&D back-end    |
 | Unitree Robotics | **H1**          | Research / advanced use | Full-size humanoid, speeds \~7.38 mph, 5 leg + 4 arm DoF, depth + 3D LiDAR vision                       | SDK and ROS support (open‑source control software)                                  | **\$90,000** base (up to \$150k)            | Yes, global via dealers and CES showcase                | Fully open control stack               | Enterprise/research customer support             |
 | Unitree Robotics | **Accessories** | Adds to robot teams     | Examples: 4D LiDAR L1/L2, batteries, controllers                                                        | ROS/ROS2 drivers included                                                           | \$249 – \$419 (LiDAR), \$500+ (batteries)   | Yes, supports global markets                            | SDK & ROS: Open SLAM solutions         | Official tech assistance & documentation         |
+| Galbot  | **G1**      | Household, logistics, retail | Wheeled humanoid, \~88 kg, 25 DoF, 5 ft8″       | AI-driven control, Isaac Sim ecosystem  | Prototype: \~\$71k, future \~\$7k?  | Primarily China launch, sample global intent  | Likely open research (DexGraspNet)  | Startup support, research-first |
 
 [1]: https://en.wikipedia.org/wiki/Unitree_Robotics?utm_source=chatgpt.com "Unitree Robotics"
 
+[2]: https://www.unitree.com/g1?utm_source=chatgpt.com "Unitree G1"
 
 More detailed information in the conversation below
 
