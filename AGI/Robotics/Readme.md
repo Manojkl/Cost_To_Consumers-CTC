@@ -233,7 +233,7 @@ Date: 10/06/2025
 * A hologram of a person when talking on a call (Isolate internet connection?)
 * Monitor the health of a person (Body status)
 
-Divide the larger task into smaller, manageable components and assign them to the university/individuals/competition/open_challenge/educational_institutions/..etc for execution.
+Break the larger task into smaller components and assign them to the university/individuals/competition/open_challenge/educational_institutions/..etc for execution with proper reward.
 
 Source: https://chatgpt.com/share/6847f0b4-00d8-8007-8614-fbfcf996c7f0
 Date: 10/06/2025, Update information if any new data is available
