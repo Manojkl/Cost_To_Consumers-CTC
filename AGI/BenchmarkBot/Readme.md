@@ -79,3 +79,5 @@ Solution: Do a deep search, etc
 ## Benchmark in Robotics
 
 Benchmark the dexterity, seamless transition of a humanoid robots while maintaining accuracy and performance.
+
+- Benchmark the inference - estimation capabilities 
