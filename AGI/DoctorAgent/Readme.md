@@ -1,4 +1,6 @@
 # Doctor Agent
 
-A agent that helps in the domain of medicine.
+An agent that assists in the medical domain.
 
+- Diagnosing diseases
+- 
