@@ -1,6 +1,9 @@
-# Day Light Robbery
+# Daylight Robbery
 
-Get data on day light robbery. 
+Get data on daylight robbery. 
 
-Collect all the information on product imported from other countries and the profit margins of the same and the people involved.
+Collect all the information on products imported from other countries and the profit margins of the same, and the people involved.
 
+Also, obtain data on what additional benefits they provide for maintaining such a substantial profit margin. Is it worth paying that much extra?
+
+Also, find ways to avoid this middleman brokerage.
