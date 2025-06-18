@@ -8,4 +8,4 @@ Also, obtain data on what additional benefits they provide for maintaining such 
 
 Also, find ways to avoid this middleman brokerage.
 
-Also proper framework and policies to mitigate daylight robbery 
+Also proper framework and policies to mitigate daylight robbery also for Artificial Inflation
