@@ -13,4 +13,8 @@
 | Canada | $3.372 B | $3.372 B | ~0.79 deep-tech companies per million adults |
 | South Korea | $2 B | $2 B | — |
 
+Source: https://g.co/gemini/share/51bf07ff2f14
+
+Date: 19/06/2025
+
 Note: Some startups operate with just a fraction of the funding compared to those in the U.S., yet deliver equal or even superior results to those in other countries.
