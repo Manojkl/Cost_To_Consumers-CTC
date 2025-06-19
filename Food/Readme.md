@@ -2,7 +2,7 @@
 
 Data on food.
 
-## Food that are expires before reaching consumers
+## Food that expires before reaching consumers
 
 Here’s the data for the top 10 GDP countries (2024), showing estimates of food waste at the retail level—that is, food that expires or is discarded before reaching consumers:
 
