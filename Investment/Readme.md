@@ -12,3 +12,5 @@
 | Italy | ~$1.6 B (€1.5 billion) | ~$1.6 B | Deep-tech leads in number of funding rounds (64 rounds) with ~€163M invested. |
 | Canada | $3.372 B | $3.372 B | ~0.79 deep-tech companies per million adults |
 | South Korea | $2 B | $2 B | — |
+
+Note: Some startups operate with just a fraction of the funding compared to those in the U.S., yet deliver equal or even superior results to those in other countries.
