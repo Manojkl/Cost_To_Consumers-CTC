@@ -12,6 +12,7 @@
 | Italy | ~$1.6 B (€1.5 billion) | ~$1.6 B | Deep-tech leads in number of funding rounds (64 rounds) with ~€163M invested. |
 | Canada | $3.372 B | $3.372 B | ~0.79 deep-tech companies per million adults |
 | South Korea | $2 B | $2 B | — |
+| Israel | ~$10.6–$12.2 B | ~$10.6–$12.2 B | AI companies account for 30% of the ecosystem and 47% of funding. Cybersecurity is a major deep-tech driver. |
 
 Source: https://g.co/gemini/share/51bf07ff2f14
 
