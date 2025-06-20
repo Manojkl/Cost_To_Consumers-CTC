@@ -89,3 +89,28 @@ https://chatgpt.com/s/t_6844072e53808191863ff90dd211d5e6
 [2]: https://www.pib.gov.in/PressReleasePage.aspx?PRID=1902104&utm_source=chatgpt.com "Press Release:Press Information Bureau"
 [3]: https://www.competitiveness.in/indias-education-challenge/?utm_source=chatgpt.com "India’s education challenge – Institute for Competitiveness"
 [4]: https://www.reddit.com/r/india/comments/1ipd73s?utm_source=chatgpt.com "Does out criteria for Literacy makes any sense?"
+
+Quality education in India
+
+| Indicator                        | Approx % achieving “quality” |
+| -------------------------------- | ---------------------------- |
+| Primary literacy & numeracy      | 36–60% proficient            |
+| 8th graders reading grade-2 text | \~56%                        |
+| Secondary completion             | \~51%                        |
+| College grads employable         | \~50%                        |
+| Vocational grads employable      | 28–34%                       |
+
+🔍 What does “quality education” mean here?
+
+Education is only truly quality when students:
+
+- Learn the basics (reading, math).
+- Stay in school through secondary levels.
+- Acquire skills that make them employable.
+- Experience well-resourced, engaged schooling (good teachers, infrastructure, innovative, not rote-based).
+
+📌 Bottom line
+- Roughly 40–64% of primary-schoolers aren’t learning basics.
+- Only about half make it through upper secondary.
+- Only ~50% of graduates and worse in vocational training are actually employable.
+- Access perceptions are positive, but real quality remains limited for most—especially in government and rural settings.
