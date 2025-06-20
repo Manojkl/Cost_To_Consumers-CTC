@@ -69,3 +69,23 @@ The thinking across older, middle-aged, and younger generations in China has not
 Sources: ChatGPT, Is the thinking of older, middle, and younger generations changed in china how these generations people think?
 https://chatgpt.com/s/t_6844072e53808191863ff90dd211d5e6
 
+# Educational attainment in India (15+ age group), based on the latest government and survey data:
+
+### ✅ Summary Table
+
+| Education Level                        | Approximate % of Indians (age 15+) |
+| -------------------------------------- | ---------------------------------- |
+| Less than 10th grade                   | \~ 50–60%                          |
+| Up to 12th grade (including 12th pass) | \~ 40–60%                          |
+| Bachelor’s degree or above             | < 10%                              |
+
+### 📌 Final Takeaways
+
+* Roughly **half the population hasn’t completed secondary school (10th grade)**.
+* **Less than half have completed 12th standard**, and over half haven’t.
+* **Under 10%** reach or surpass a bachelor's degree.
+
+[1]: https://dev.civilsdaily.com/education-in-india/?utm_source=chatgpt.com "EDUCATION IN INDIA – Civilsdaily"
+[2]: https://www.pib.gov.in/PressReleasePage.aspx?PRID=1902104&utm_source=chatgpt.com "Press Release:Press Information Bureau"
+[3]: https://www.competitiveness.in/indias-education-challenge/?utm_source=chatgpt.com "India’s education challenge – Institute for Competitiveness"
+[4]: https://www.reddit.com/r/india/comments/1ipd73s?utm_source=chatgpt.com "Does out criteria for Literacy makes any sense?"
