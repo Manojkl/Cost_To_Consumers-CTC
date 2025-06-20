@@ -18,5 +18,5 @@ Source: https://g.co/gemini/share/51bf07ff2f14
 
 Date: 19/06/2025
 
-Note: Some startups operate with just a fraction of the funding compared to those in the U.S., yet deliver equal or even superior results to those in other countries.
+Note: Some startups operate with just a fraction of the funding compared to those in the U.S., yet deliver equal or even superior results to those in other countries and have higher impact.
 E.g Deepseek, Unitree..
