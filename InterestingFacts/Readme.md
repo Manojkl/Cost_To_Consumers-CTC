@@ -201,5 +201,3 @@ Final Insight:
 
 🧠 The mindset becomes most resistant to change after 35–40, but meaningful transformation is always possible through intense self-reflection, education, therapy, or life-altering events.
 
-Let me know if you'd like brain imaging or psychology study references behind this.
-
