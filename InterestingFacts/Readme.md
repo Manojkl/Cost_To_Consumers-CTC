@@ -185,13 +185,14 @@ Summary Table:
 
 Age Range	Mindset Characteristics	Changeability
 
-0–6	Absorbs without filters; foundational beliefs	Very high
-7–12	Social and moral identity starts forming	High
-13–25	Beliefs form; brain maturing	Highest (critical)
-25–35	Stabilization begins	Medium to high
-35–50	Resistant to change	Medium to low
-50+	Strongly ingrained patterns	Low
-
+| Age Range | Mindset Characteristics                       | Changeability         |
+|-----------|------------------------------------------------|------------------------|
+| 0–6       | Absorbs without filters; foundational beliefs  | Very high              |
+| 7–12      | Social and moral identity starts forming       | High                   |
+| 13–25     | Beliefs form; brain maturing                   | **Highest (critical)** |
+| 25–35     | Stabilization begins                           | Medium to high         |
+| 35–50     | Resistant to change                            | Medium to low          |
+| 50+       | Strongly ingrained patterns                    | Low                    |
 
 
 ---
