@@ -1,8 +1,9 @@
 # AssumptionAgent
 
-A Agent that helps to give the assumptions/context to be made when generating the output for a input prompt.
+A Agent that helps to give the assumptions/context to be made when generating the output for an input prompt.
 
-- A predefined prompt that works for particular LLMs and particular task that gives out response such that the probability of correct response is high.
+- A predefined prompt that works for particular LLMs and particular tasks that gives out responses such that the probability of a correct response is high.
+- Ask the user by giving a dropdown to select the assumptions to be made
 - ...etc
 
 
