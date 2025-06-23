@@ -141,21 +141,20 @@ Assumptions:
 
 ---
 
-## ⚡ Electric Car – Charging Cost and Work Hours
+## ⚡ Electric Car – Charging Cost, Work Hours & Battery Import Dependency
 
-| Country       | Charging Cost | Work Hours Needed | Wage Group                   |
-|---------------|----------------|-------------------|------------------------------|
-| 🇩🇪 Germany    | €12.00         | 0.94 hours        | Low skill (~25%)            |
-| 🇮🇳 India      | ₹3.00          | 0.01 hours        | High skill (~top 3%)        |
-| 🇮🇳 India      | ₹3.00          | 0.03 hours        | Low skill (~25%) – ₹100/hr  |
-| 🇺🇸 USA        | $4.50          | 0.62 hours        | Low skill (~20%)            |
-| 🇬🇧 UK         | £10.50         | 0.86 hours        | Low skill (~25%)            |
-| 🇯🇵 Japan      | ¥7.50          | 0.01 hours        | Low skill (~25%)            |
-| 🇦🇺 Australia  | A$9.00         | 0.37 hours        | Low skill (~25%)            |
-| 🇫🇷 France     | €7.50          | 0.63 hours        | Low skill (~20%)            |
-| 🇨🇳 China      | ¥3.60          | 0.14 hours        | Low skill (~30%)            |
-| 🇨🇦 Canada     | C$3.90         | 0.22 hours        | Low skill (~25%)            |
-
+| Country       | Charging Cost | Work Hours Needed | Wage Group                   | Battery Import Dependency |
+|---------------|----------------|-------------------|------------------------------|----------------------------|
+| 🇩🇪 Germany    | €12.00         | 0.94 hours        | Low skill (~25%)            | ~37% of EV battery demand imported (EU avg: 43.8%; Germany heavily reliant on China) 1 |
+| 🇮🇳 India      | ₹3.00          | 0.01 hours        | High skill (~top 3%)        | ~100% dependent on Chinese imports for EV batteries/rare-earth 2 |
+| 🇮🇳 India      | ₹3.00          | 0.03 hours        | Low skill (~25%) – ₹100/hr  | Same: near-total reliance on China |
+| 🇺🇸 USA        | $4.50          | 0.62 hours        | Low skill (~20%)            | >30% of battery demand imported 3 |
+| 🇬🇧 UK         | £10.50         | 0.86 hours        | Low skill (~25%)            | EU-dependent: similar to EU average (~44%) 4 |
+| 🇯🇵 Japan      | ¥7.50          | 0.01 hours        | Low skill (~25%)            | Imports significant: Asia supply-based, <20% dependence |
+| 🇦🇺 Australia  | A$9.00         | 0.37 hours        | Low skill (~25%)            | Minimal domestic production: largely imports (~90%) 5 |
+| 🇫🇷 France     | €7.50          | 0.63 hours        | Low skill (~20%)            | EU standard (~44% from China) 6 |
+| 🇨🇳 China      | ¥3.60          | 0.14 hours        | Low skill (~30%)            | <20% imports: majority domestic 7 |
+| 🇨🇦 Canada     | C$3.90         | 0.22 hours        | Low skill (~25%)            | <20% imports; reliant on US/Korea/China 8 |
 ---
 
 ## 💡 Observations
