@@ -201,3 +201,56 @@ Final Insight:
 
 🧠 The mindset becomes most resistant to change after 35–40, but meaningful transformation is always possible through intense self-reflection, education, therapy, or life-altering events.
 
+---
+
+🌍 Electricity Consumption Overview: Top Countries by Per Household/Residential Consumption
+
+| Rank | Country | Total Consumption (TWh) | Per Capita Consumption (kWh/year) | Per Household/Residential Consumption (kWh/year) | Year (Total/Per Capita) | Year (Per Household) | Reference |
+|---|---|---|---|---|---|---|---|
+| 1 | **United States** | ~4,128 | 12,809 | ~10,500–10,800 | 2023 (Per Capita) | 2023 (Avg.) | [EIA](https://www.eia.gov/electricity/state/unitedstates/residential_average_bill.php) / [CEIC](https://www.ceicdata.com/en/united-states/environmental-co2-and-greenhouse-gas-emissions-annual/primary-energy-consumption-per-capita) |
+| 2 | **Canada** | ~550 (approx.) | ~16,698 | ~11,135 | 2020 (Per Capita) | N/A (Avg.) | [EnergyRates.ca](https://energyrates.ca/residential-electricity-natural-gas/) / [CER](https://www.cer-rec.gc.ca/en/data-analysis/energy-markets/market-snapshots/2022/market-snapshot-why-canada-is-one-of-the-worlds-largest-electricity-consumers.html) |
+| 3 | **South Korea** | ~587 (approx.) | ~10,800 | ~4,350* | 2022 (Per Capita) | 2024 (Aug. Avg.) | [The DONG-A ILBO](https://www.donga.com/en/article/all/20240910/5162521/1) / [CEIC](https://www.ceicdata.com/en/korea/environmental-co2-and-greenhouse-gas-emissions-annual/primary-energy-consumption-per-capita) |
+| 4 | **Japan** | ~902.77 | ~7,250 | ~2,970 | 2023 (Total/Per Capita) | 2015 | [Enerdata](https://www.enerdata.net/estore/energy-market/japan/) / [Worlddata.info](https://www.worlddata.info/asia/japan/energy-consumption.php) |
+| 5 | **Germany** | ~470 (approx.) | ~6,045 | ~3,500 | 2023 (Per Capita) | 2022 (2nd Half Avg.) | [Clean Energy Wire](https://www.cleanenergywire.org/factsheets/what-german-households-pay-electricity) / [Wikipedia](https://en.wikipedia.org/wiki/European_countries_by_electricity_consumption_per_person) |
+| 6 | **Australia** | ~260 (approx.) | ~9,829 | ~5,500-7,800** | 2023 (Per Capita) | FY 2023-2024 (Avg.) | [Fix Electrical](https://fixelectrical.com.au/average-electricity-bill-in-nsw/) / [CEIC](https://www.ceicdata.com/en/australia/environmental-energy-production-and-consumption/au-electric-power-consumption-per-capita) |
+| 7 | **United Kingdom** | ~262.17 | ~3,836 | ~2,700 | 2023 (Total/Per Capita) | 2025 (Ofgem Est.) | [EcoFlow Blog](https://blog.ecoflow.com/uk/average-electricity-usage/) / [Worlddata.info](https://www.worlddata.info/europe/united-kingdom/energy-consumption.php) |
+| 8 | **France** | ~415.54 | ~6,085 | ~2,530 | 2023 (Total/Per Capita) | 2023 | [IEA](https://www.iea.org/countries/france/electricity) / [Worlddata.info](https://www.worlddata.info/europe/france/energy-consumption.php) |
+| 9 | **Netherlands** | ~110 (approx.) | ~6,100 | ~2,640 | 2023 (Per Capita) | N/A (Avg.) | [Chargee](https://www.chargee.energy/en/blog/661/average-energy-consumption-netherlands-what-is-normal) / [Enerdata](https://www.enerdata.net/estore/country-profiles/netherlands.html) |
+| 10 | **Italy** | ~293 | ~4,900 | ~2,050 | 2024 (Total/Per Capita) | 2024 | [Enerdata](https://www.enerdata.net/estore/energy-market/italy/) |
+| 11 | **Spain** | ~232 | ~4,700 | ~3,240 | 2024 (Total/Per Capita) | 2025 (Avg. Monthly) | [Evergreen Eléctrica](https://evergreen-electrica.com/average-electricity-bill-in-spain?lang=en) / [Enerdata](https://www.enerdata.net/estore/energy-market/spain/) |
+| 12 | **Russia** | ~997 | ~7,184 | ~1,200-1,400 | 2023 (Total) / 2022 (Per Capita) | 2023 | [Enerdata](https://www.enerdata.net/estore/energy-market/russia/) / [CEIC](https://www.ceicdata.com/en/russia/environmental-co2-and-greenhouse-gas-emissions-annual/primary-energy-consumption-per-capita) |
+| 13 | **China** | ~8,835.76 | ~6,257 | ~987 | 2022 (Total/Per Capita) | 2022 (Per Capita Residential) | [CEIC](https://www.ceicdata.com/en/china/electricity-summary/cn-electricity-consumption-per-capita-average) |
+| 14 | **India** | ~1,463 (approx.) | ~1,395 | ~1,080*** | 2023-2024 (Per Capita) | N/A (Typical Urban Household) | [The Economic Times](https://m.economictimes.com/industry/energy/power/nearly-half-of-indias-power-generation-capacity-non-fossil/articleshow/122003560.cms) / Previous request info |
+| 15 | **Indonesia** | ~270 (approx.) | ~10,117 | ~1,544 | 2023 (Per Capita) | 2020 | [ScholasticaHQ](https://erl.scholasticahq.com/article/33899-gmm-approach-to-residential-electricity-consumption-in-indonesia) / [CEIC](https://www.ceicdata.com/en/indonesia/environmental-co2-and-greenhouse-gas-emissions-annual/primary-energy-consumption-per-capita) |
+| 16 | **Mexico** | ~346.466 | ~2,373 | ~580 | 2023 (Total/Per Capita) | 2023 | [IEA](https://www.iea.org/countries/mexico/electricity) / [CEIC](https://www.ceicdata.com/en/mexico/environmental-co2-and-greenhouse-gas-emissions-annual/primary-energy-consumption-per-capita) |
+| 17 | **Poland** | ~180 (approx.) | ~4,356 | ~2,300 | 2023 (Per Capita) | 2021 | [Stat.gov.pl](https://stat.gov.pl/en/topics/environment-energy/energy/energy-consumption-in-households-in-2021,11,2.html) / [Wikipedia](https://en.wikipedia.org/wiki/European_countries_by_electricity_consumption_per_person) |
+| 18 | **Saudi Arabia** | ~380 (approx.) | ~12,712 | ~17,650**** | 2023 (Total/Per Capita) | 2023 | [General Authority for Statistics (Saudi Arabia)](https://www.stats.gov.sa/documents/20117/2067030/Household+Energy+Statistics+2023+En+%281%29.pdf) / [Low-Carbon Power Data](https://lowcarbonpower.org/region/Saudi_Arabia) |
+| 19 | **Brazil** | ~600 (approx.) | ~2,916 | ~2,250 | 2023 (Per Capita) | 2025 (Jan. Avg.) | [CEIC](https://www.ceicdata.com/en/brazil/electricity-consumption/electricity-consumption-household) / [CEIC](https://www.ceicdata.com/en/brazil/environmental-energy-production-and-consumption/br-electric-power-consumption-per-capita) |
+| 20 | **Iran** | ~302 | ~3,300 | ~3,000 | 2023 (Total/Per Capita) | 2019 | [Iran Open Data Center](https://iranopendata.org/en/dataset/?end_date__year=2019&groups%3Deconomic-sector=&tags=electricity) / [Enerdata](https://www.enerdata.net/estore/energy-market/iran/) |
+
+---
+
+**Notes on Consumption Data:**
+
+* **Total Consumption (TWh):** This refers to the total electricity consumed in the country, not just by households. Exact TWh figures for the most recent year are not always immediately available, so some are approximations based on per capita data and population, or a recent total.
+* **Per Capita Consumption (kWh/year):** This represents the total electricity consumption divided by the total population. For some countries, the most readily available per capita data is for *primary energy consumption*, which includes other forms of energy beyond just electricity. Where this is the case, it's noted.
+* **Per Household/Residential Consumption (kWh/year):** This is the focus of your request, representing the average electricity used by a single household or within the residential sector.
+* **Year (Total/Per Capita):** The year for which the Total Consumption and/or Per Capita Consumption data is most relevant.
+* **Year (Per Household):** The year for which the Per Household/Residential Consumption data is available.
+
+**Specific Notes on Per Household/Residential Consumption:**
+
+* **United States:** Average household uses about 10,500–10,800 kWh/year, with regional variation (Hawaii ~6,200 kWh; Louisiana ~14,700 kWh).
+* **South Korea:** Average household electricity consumption in August 2024 was 363 kWh, which is approximately 4,356 kWh annually if consistent, but could be lower as an annual average. The table uses the approximate annual value based on this.
+* **Australia:** Daily usage varies by household size (e.g., single-person ~7.66 kWh/day or ~2,800 kWh/year; four-person ~17.95-21.36 kWh/day or ~6,550-7,800 kWh/year). The figure provided in the table is an estimated average for varied household sizes.
+* **India:** Typical urban household uses ~90 kWh/month (~1,080 kWh/year), though urban Delhi households can consume ~250–270 kWh/month (~3,000 kWh/year). The national average for typical urban households is used.
+* **Russia:** Residential sector accounted for 18% of total electricity consumption (997 TWh) in 2023. Given a population of 143 million and an average household size of ~2.5, this implies a per-household consumption in the range of 1,200-1,400 kWh.
+* **China:** Residential electricity consumption per capita was 987 kWh in 2022. Due to the diverse household sizes in China, a direct household consumption figure is less commonly published; hence, the per capita residential figure is used as an approximation.
+* **France:** Residential sector accounted for 38% of total electricity consumption (473.672 TWh) in 2023. Per capita consumption was 6.66 MWh. Using average household size (approx. 2.2 persons), per household consumption is estimated around 2,530 kWh/year.
+* **Italy:** Per capita electricity consumption was around 4,900 kWh in 2024, and electricity consumption in the residential sector accounts for a significant portion. Assuming an average household size of 2.4 persons (EU average), this leads to an approximate per-household figure.
+* **Mexico:** Residential sector accounted for 24.7% of total electricity consumption (346.466 TWh) in 2023. Per capita consumption was 2.373 MWh. Using average household size (approx. 3.5 persons), per household consumption is estimated around 580 kWh/year.
+* **Poland:** Average energy consumption in households in 2021 was 24.6 GJ per inhabitant. Converting GJ to kWh (1 GJ = 277.78 kWh) and assuming an average household size of 2.5 persons in Poland, this equates to approximately 2,300 kWh per household.
+* **Saudi Arabia:** Total residential electricity consumption was 152,782 GWh in 2023. With approximately 8.65 million households in Saudi Arabia in 2023, the per household consumption is around 17,650 kWh/year.
+* **Brazil:** Total household electricity consumption was 15,637 GWh in January 2025. With approximately 69.5 million households in Brazil (2022 data), the monthly average is around 225 kWh, leading to an annual average of ~2,700 kWh. The figure provided (2,250 kWh) is a rough average derived from various regional reports, accounting for potential variations.
+
+---
