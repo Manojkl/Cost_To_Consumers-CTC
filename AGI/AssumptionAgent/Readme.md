@@ -3,6 +3,7 @@
 A Agent that helps to give the assumptions/context to be made when generating the output for a input prompt.
 
 - A predefined prompt that works for particular LLMs and particular task that gives out response such that the probability of correct response is high.
+- ...etc
 
 
 # Impact Factor
