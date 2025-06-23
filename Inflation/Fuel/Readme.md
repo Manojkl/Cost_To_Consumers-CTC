@@ -130,6 +130,7 @@ Assumptions:
 |---------------|---------------|-------------------|------------------------------|
 | 🇩🇪 Germany    | €24.00        | 1.87 hours        | Low skill (~25%)            |
 | 🇮🇳 India      | ₹1360.00      | 3.70 hours        | High skill (~top 3%)        |
+| 🇮🇳 India      | ₹1360.00      | 13.60 hours       | Low skill (~25%) – ₹100/hr  |
 | 🇺🇸 USA        | $13.73        | 1.89 hours        | Low skill (~20%)            |
 | 🇬🇧 UK         | £18.27        | 1.50 hours        | Low skill (~25%)            |
 | 🇯🇵 Japan      | ¥2333.33      | 2.01 hours        | Low skill (~25%)            |
@@ -146,6 +147,7 @@ Assumptions:
 |---------------|----------------|-------------------|------------------------------|
 | 🇩🇪 Germany    | €12.00         | 0.94 hours        | Low skill (~25%)            |
 | 🇮🇳 India      | ₹3.00          | 0.01 hours        | High skill (~top 3%)        |
+| 🇮🇳 India      | ₹3.00          | 0.03 hours        | Low skill (~25%) – ₹100/hr  |
 | 🇺🇸 USA        | $4.50          | 0.62 hours        | Low skill (~20%)            |
 | 🇬🇧 UK         | £10.50         | 0.86 hours        | Low skill (~25%)            |
 | 🇯🇵 Japan      | ¥7.50          | 0.01 hours        | Low skill (~25%)            |
@@ -158,13 +160,16 @@ Assumptions:
 
 ## 💡 Observations
 
-- **EVs are far more affordable** to run than petrol cars across all countries.
-- **India shows an extreme skew** due to use of a top 3% income earner.
-- **Fuel burden is highest in China** relative to low-income wage levels.
-- **Australia and Canada** offer low relative work hours for both fuel types.
+- **India** now includes both high-skill and low-skill work hour comparisons.
+- **Low-skilled Indians** work 13.6 hours for a 200 km petrol trip, vs. 0.03 hours for EV.
+- **EVs remain far cheaper** to run than petrol vehicles across all nations.
+- **Australia and Canada** consistently offer lower work-hour burdens.
 
 ---
 
 ## ✅ To Do:
-- Add Brazil and other top 20 GDP countries.
-- Include cost of car ownership (insurance, tax, service) in future comparison.
+- Add Brazil and more countries from top 20 GDP.
+- Include total cost of ownership (insurance, maintenance, depreciation).
+- Compare car vs public transport work-hour cost.
+
+Batteries will be in demand in the future 
