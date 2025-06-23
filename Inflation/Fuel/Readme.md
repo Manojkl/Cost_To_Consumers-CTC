@@ -164,6 +164,22 @@ Assumptions:
 - **EVs remain far cheaper** to run than petrol vehicles across all nations.
 - **Australia and Canada** consistently offer lower work-hour burdens.
 
+
+## ⚙️ Hydrogen Car – Refuelling Cost, Work Hours & Hydrogen Import Dependency
+
+| Country       | H₂ Cost (/kg)       | Refuel Cost (2 kg) | Work Hours Needed | Wage Group                   | H₂ Import Dependency                        |
+|---------------|----------------------|---------------------|-------------------|------------------------------|---------------------------------------------|
+| 🇩🇪 Germany    | €7.50/kg            | €15.00              | 1.17 hours        | Low skill (~25%)            | >50% of electrolysers & hydrogen imported 5 |
+| 🇮🇳 India      | US $4.67/kg (~₹390) | ₹780                | 2.12 hours        | Low skill (~25%) – ₹100/hr  | High reliance on imported tech              |
+| 🇺🇸 USA        | US $6/kg            | $12.00              | 1.66 hours        | Low skill (~20%)            | ~30–40% equipment imported                  |
+| 🇬🇧 UK         | £10–12/kg           | £22.00              | 1.80 hours        | Low skill (~25%)            | EU import dependency (~<25%)               |
+| 🇯🇵 Japan      | €3/kg (~¥450)       | ¥900                | 0.77 hours        | Low skill (~25%)            | Import-dependent, but strong domestic plan 6 |
+| 🇦🇺 Australia  | A$6/kg (~€4)        | A$12.00             | 0.50 hours        | Low skill (~25%)            | Exporter and self-sufficient in tech        |
+| 🇫🇷 France     | €7.50/kg            | €15.00              | 1.26 hours        | Low skill (~20%)            | EU same as Germany (~>50%)                 |
+| 🇨🇳 China      | €2.5/kg (~¥20)      | ¥40                 | 1.52 hours        | Low skill (~30%)            | Mostly domestic                              |
+| 🇨🇦 Canada     | Can’t readily find – assume €10/kg (~C$15) | C$30             | 1.69 hours        | Low skill (~25%)            | Moderate, importing electrolyser tech       |
+
+
 ---
 
 ## ✅ To Do:
