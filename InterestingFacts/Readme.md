@@ -254,3 +254,30 @@ Final Insight:
 * **Brazil:** Total household electricity consumption was 15,637 GWh in January 2025. With approximately 69.5 million households in Brazil (2022 data), the monthly average is around 225 kWh, leading to an annual average of ~2,700 kWh. The figure provided (2,250 kWh) is a rough average derived from various regional reports, accounting for potential variations.
 
 ---
+
+## Top 20 GDP countries and export-dependent
+
+| Rank | Country        | Nominal GDP (US \$ tn) |               Exports % of GDP               |
+| :--: | -------------- | :--------------------: | :------------------------------------------: |
+|   1  | United States  |          30.51         |      11.0 % ([theglobaleconomy.com][1])      |
+|   2  | China          |          19.23         |                    19.7 %                    |
+|   3  | Germany        |          4.74          |                    43.4 %                    |
+|   4  | India          |          4.19          |                    21.9 %                    |
+|   5  | Japan          |          4.18          |                    21.8 %                    |
+|   6  | United Kingdom |          3.84          |                    31.7 %                    |
+|   7  | France         |          3.21          |                    34.3 %                    |
+|   8  | Italy          |          2.42          |                    33.7 %                    |
+|   9  | Canada         |          2.23          |                    33.4 %                    |
+|  10  | Brazil         |          2.12          |                    18.1 %                    |
+|  11  | Russia         |            –           |                    23.1 %                    |
+|  12  | South Korea    |            –           |                    44.0 %                    |
+|  13  | Australia      |            –           |                    26.8 %                    |
+|  14  | Spain          |            –           | \~31 %\* (estimated similar to Italy/France) |
+|  15  | Mexico         |            –           |                    36.0 %                    |
+|  16  | Indonesia      |            –           |                    21.8 %                    |
+|  17  | Netherlands    |            –           |                    88.5 %                    |
+|  18  | Saudi Arabia   |            –           |                    34.8 %                    |
+|  19  | Switzerland    |            –           |                    75.3 %                    |
+|  20  | Sweden         |            –           |                    55.2 %                    |
+
+[1]: https://www.theglobaleconomy.com/rankings/exports/G20/?utm_source=chatgpt.com "Exports, percent of GDP in G20 | TheGlobalEconomy.com"
