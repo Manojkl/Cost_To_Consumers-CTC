@@ -281,3 +281,48 @@ Final Insight:
 |  20  | Sweden         |            –           |                    55.2 %                    |
 
 [1]: https://www.theglobaleconomy.com/rankings/exports/G20/?utm_source=chatgpt.com "Exports, percent of GDP in G20 | TheGlobalEconomy.com"
+
+Here’s a refined estimate with authoritative references:
+
+⸻
+
+🌍 Global Injections Estimate
+
+WHO estimates at least 16 billion injections are administered worldwide each year—an average of approximately 43.8 million injections per day ().
+
+🔍 Breakdown by Purpose:
+	•	Therapeutic (curative drug administration): ~90% of all injections  ￼.
+	•	Immunizations: ~5% ().
+	•	Other uses (e.g., blood products, contraceptives): ~remaining 5%  ￼.
+
+Thus:
+	•	Therapeutic: ~39.4 million/day
+	•	Immunizations: ~2.2 million/day
+	•	Other: ~2.2 million/day
+
+⸻
+
+🧾 Daily Global Total:
+
+≈ 43.8 million injections per day
+
+(16 billion ÷ 365 ≈ 43.8 million)
+
+⸻
+
+✅ Supporting Insight:
+	•	WHO confirms “every year at least 16 billion injections are administered worldwide,” with ~90% for curative, ~5% for immunization, and ~5% for other purposes  ￼ ￼.
+	•	Another source reiterates: “…16 billion injections annually, 5% for immunization and 95% for curative purposes”  ￼.
+
+⸻
+
+📌 Summary Table
+
+Injection Type	% of Total	Daily Count
+Therapeutic (drugs)	~90%	~39.4 million
+Immunization	~5%	~2.2 million
+Other (contraception etc.)	~5%	~2.2 million
+Total All Types	100%	~43.8 million/day
+
+
+⸻
