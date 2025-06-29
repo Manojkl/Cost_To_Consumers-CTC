@@ -470,3 +470,7 @@ Environment in
 Check out other dimensions 
 Keep the human in the loop to monitor
 Every individual have their own LLM trained on their own data
+
+## Nutrients Agent
+
+A agent that helps to optimise food consumption and mitigate nutrients deficiencies.
