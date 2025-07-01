@@ -218,4 +218,4 @@ These vary wildly in terms of **curriculum rigor, test design, and quality check
 * National exams are the de facto measure at age 18.
 * Global goals like **SDG 4** try to define what "quality" means, but **implementation and monitoring vary**.
 
-Teach children past, present, future aspects of country.
+Teach children past, present, future aspects of country,...etc.
