@@ -169,4 +169,4 @@ For the best route in current traffic visit https://maps.app.goo.gl/yqnayMvkf66o
 
 Issue: Roads are in poor condition, full of potholes.
 
-Days since monitoring started: <!--DAYS_COUNTER-->59<!--/DAYS_COUNTER-->
+Days since monitoring started: <!--DAYS_COUNTER-->60<!--/DAYS_COUNTER-->
