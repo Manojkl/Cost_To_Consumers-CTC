@@ -375,3 +375,46 @@ Earth's circumference	~40,000 km
 Human circulatory system (blood vessels)	~100,000 km
 Human nerve system (total axon length)	~100,000 km
 
+# National Debt of top 30 GDP countries
+
+Source (IMF): https://chatgpt.com/s/t_687b4d2365888191863ee99465d421e6
+
+| Rank | Country        | GDP (USD Tn) |                                                   Debt/GDP (%) | Public Debt (≈USD Tn) |
+| :--: | -------------- | -----------: | -------------------------------------------------------------: | --------------------: |
+|   1  | United States  |        30.51 |                                             123.0 % ([IMF][1]) |                  37.6 |
+|   2  | China          |        19.23 |                      84.4 % ([IMF][2], [Visual Capitalist][3]) |                  16.2 |
+|   3  | Germany        |         4.74 |                                              62.7 % ([IMF][1]) |                  2.97 |
+|   4  | India          |         4.19 |                                              \~89 % (IMF est.) |                  3.73 |
+|   5  | Japan          |         4.18 |             249.7 % ([IMF][1], [worldpopulationreview.com][4]) |                  10.4 |
+|   6  | United Kingdom |         3.84 |                                             101.2 % ([IMF][1]) |                  3.88 |
+|   7  | France         |         3.21 |                                             110.6 % ([IMF][1]) |                  3.55 |
+|   8  | Italy          |         2.42 |                                             134.8 % ([IMF][1]) |                  3.26 |
+|   9  | Canada         |         2.23 |                                             107.5 % ([IMF][1]) |                  2.40 |
+|  10  | Brazil         |         2.13 |                                                         \~80 % |                  1.70 |
+|  11  | Russia         |         2.02 |                        \~15 % ([worldpopulationreview.com][4]) |                  0.30 |
+|  12  | Mexico         |         1.79 |                                                         \~60 % |                  1.07 |
+|  13  | Australia      |         1.73 |                                                         \~57 % |                  0.99 |
+|  14  | South Korea    |         1.71 |                                                         \~50 % |                  0.85 |
+|  15  | Spain          |         1.62 |                               105 % ([IMF][5], [Wikipedia][6]) |                  1.70 |
+|  16  | Indonesia      |         1.37 |                                                         \~40 % |                  0.55 |
+|  17  | Netherlands    |         1.15 |                                                         \~52 % |                  0.60 |
+|  18  | Saudi Arabia   |         1.07 |                                                         \~30 % |                  0.32 |
+|  19  | Turkey         |         1.12 |                                                         \~40 % |                  0.45 |
+|  20  | Switzerland    |        0.885 |                                                         \~42 % |                  0.37 |
+|  21  | Poland         |        0.809 |                                                         \~60 % |                  0.49 |
+|  22  | Argentina      |        0.646 |                         155 % ([worldpopulationreview.com][4]) |                  1.00 |
+|  23  | Belgium        |        0.645 |                                                        \~114 % |                  0.74 |
+|  24  | Sweden         |        0.585 |                              36.4 % ([IMF][5], [Wikipedia][6]) |                  0.21 |
+|  25  | Thailand       |        0.515 |                                                         \~60 % |                  0.31 |
+|  26  | UAE            |        0.514 |                                                         \~25 % |                  0.13 |
+|  27  | Austria        |        0.512 |                                                         \~83 % |                  0.42 |
+|  28  | Norway         |        0.485 |                                                         \~40 % |                  0.19 |
+|  29  | Singapore      |        0.501 | 168 % ([worldpopulationreview.com][4], [Visual Capitalist][3]) |                  0.84 |
+|  30  | Nigeria        |        0.364 |                                                         \~30 % |                  0.11 |
+
+[1]: https://www.imf.org/external/datamapper/GG_DEBT_GDP%40GDD/CAN/FRA/DEU/ITA/JPN/GBR/USA?utm_source=chatgpt.com "Percent of GDP - Global Debt Database - General Government Debt"
+[2]: https://www.imf.org/external/datamapper/GDD/2024%20Global%20Debt%20Monitor.pdf?utm_source=chatgpt.com "[PDF] GLOBAL DEBT MONITOR 2024 - International Monetary Fund (IMF)"
+[3]: https://www.visualcapitalist.com/visualized-government-debt-around-the-world/?utm_source=chatgpt.com "Visualizing Government Debt-to-GDP Around the World"
+[4]: https://worldpopulationreview.com/country-rankings/debt-to-gdp-ratio-by-country?utm_source=chatgpt.com "Debt to GDP Ratio by Country 2025 - World Population Review"
+[5]: https://www.imf.org/external/datamapper/d%40FPP?utm_source=chatgpt.com "Gross public debt, percent of GDP - International Monetary Fund (IMF)"
+[6]: https://en.wikipedia.org/wiki/List_of_countries_by_government_debt?utm_source=chatgpt.com "List of countries by government debt"
