@@ -64,4 +64,4 @@ Estimating the wind speed. Connecting sensors in flights to a satellite to estim
 
 Extract the belief system of a individuals.
 
-Belief System - Preference and believe in all aspects of life.
+Belief System - Preference, Characteristics and believe in all aspects of life.
