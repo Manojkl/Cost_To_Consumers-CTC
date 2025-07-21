@@ -60,5 +60,8 @@ Estimate the amount of rainfall in a specific location.
 Estimating the wind speed. Connecting sensors in flights to a satellite to estimate the wind speed at that location.
 
 
+## Beliefs System Agent
 
+Extract the belief system of a individuals.
 
+Belief System - Preference and believe in all aspects of life.
