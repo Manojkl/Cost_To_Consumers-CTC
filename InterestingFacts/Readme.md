@@ -418,3 +418,37 @@ Source (IMF): https://chatgpt.com/s/t_687b4d2365888191863ee99465d421e6
 [4]: https://worldpopulationreview.com/country-rankings/debt-to-gdp-ratio-by-country?utm_source=chatgpt.com "Debt to GDP Ratio by Country 2025 - World Population Review"
 [5]: https://www.imf.org/external/datamapper/d%40FPP?utm_source=chatgpt.com "Gross public debt, percent of GDP - International Monetary Fund (IMF)"
 [6]: https://en.wikipedia.org/wiki/List_of_countries_by_government_debt?utm_source=chatgpt.com "List of countries by government debt"
+
+
+# Outbound FDI Comparison – Top Countries, Middle East & Switzerland
+
+| Country           | Region / Status         | 2024 GDP (USD Trillion) | Outward FDI Stock (USD Trillion) | Notes / Key Sectors                                         |
+|------------------|--------------------------|--------------------------|----------------------------------|--------------------------------------------------------------|
+| United States     | Top 10 GDP + Top FDI     | 28.8 T                   | ~8.0 T                           | Largest global investor; Tech, Finance, Pharma              |
+| Netherlands       | Top FDI                  | ~1.0 T                   | ~3.25 T                          | Conduit for MNCs; Finance, Holding Structures               |
+| China             | Top 10 GDP + Top FDI     | 17.7 T                   | ~2.93 T                          | Manufacturing, Energy, Infrastructure (Africa, Asia)        |
+| United Kingdom    | Top 10 GDP + Top FDI     | 3.3 T                    | ~2.2 T                           | Finance, Real Estate, Global Corporates                     |
+| Hong Kong (SAR)   | Top FDI                  | N/A                      | ~2.05 T                          | Gateway to Asia; Finance, Trade                             |
+| Canada            | Top 10 GDP + Top FDI     | 2.1 T                    | ~2.0 T+                          | Pensions, Banks, Energy, Real Estate                        |
+| Japan             | Top 10 GDP + Top FDI     | 4.2 T                    | ~1.95 T                          | Industrial, Electronics, Manufacturing                      |
+| Germany           | Top 10 GDP + Top FDI     | 4.7 T                    | ~1.93 T                          | Automotive, Machinery, Engineering                          |
+| Luxembourg        | Top FDI                  | ~0.08 T                  | ~1.63 T                          | Holding Companies, Conduit Investments                     |
+| Singapore         | Top FDI                  | ~0.6 T                   | ~1.59 T                          | Logistics, Finance, Trade                                   |
+| France            | Top 10 GDP + Top FDI     | 3.1 T                    | ~1.2–1.6 T                       | Energy, Luxury, Infrastructure                              |
+| Switzerland       | Top FDI + Europe         | ~0.94 T                  | ~1.13 T                          | Pharma, Financial Services, Industrials                     |
+| Italy             | Top 10 GDP               | 2.3 T                    | ~0.7 T                           | Fashion, Banking, Energy                                    |
+| Brazil            | Top 10 GDP               | 2.2 T                    | ~0.18 T                          | Mining, Food, Energy                                        |
+| India             | Top 10 GDP               | 3.9 T                    | ~0.23 T                          | Pharma, IT, Infrastructure                                  |
+
+## 🏜️ Middle Eastern Countries – Outbound Investment Overview
+
+| Country         | Region         | 2024 GDP (USD Trillion) | Estimated Outward Investment (USD) | Main Investment Vehicles              | Key Focus Areas                        |
+|----------------|----------------|--------------------------|-------------------------------------|----------------------------------------|----------------------------------------|
+| UAE             | Middle East    | 0.5 T                    | ~1.5 T                              | ADIA, Mubadala, ADQ                    | Clean Energy, Infra, Global Tech       |
+| Kuwait          | Middle East    | 0.2 T                    | ~800 B                              | Kuwait Investment Authority (KIA)      | Equities, PE, Global Holdings          |
+| Saudi Arabia    | Middle East    | 1.1 T                    | ~900 B                              | Public Investment Fund (PIF)           | Sports, AI, Real Estate, Energy        |
+| Qatar           | Middle East    | 0.3 T                    | ~450 B                              | Qatar Investment Authority (QIA)       | Luxury, Finance, Europe                |
+| Oman            | Middle East    | 0.1 T                    | ~25–30 B                            | Oman Investment Authority (OIA)        | Mining, Ports, Africa, Asia            |
+| Bahrain         | Middle East    | ~0.085 T                 | ~10–15 B                            | Mumtalakat                             | Tech, Manufacturing, UK                |
+| Iraq            | Middle East    | ~0.3 T                   | <5 B                                | SOEs, Private Sector                   | Real Estate, Trade                     |
+| Iran            | Middle East    | ~0.37 T (est.)           | Very limited (sanctions)            | Government, limited private actors     | Only regional: Iraq, Lebanon, Syria    |
