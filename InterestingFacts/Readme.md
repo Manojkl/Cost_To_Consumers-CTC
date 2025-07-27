@@ -537,8 +537,9 @@ Population	Millions of independent births with same rules	Stable 50:50 sex ratio
 Evolution	Favors traits that keep the ratio balanced	Prevents long-term gender imbalance
 
 
-"""
-1. There Is No "Goal" at the Individual Level
+""
+
+There Is No "Goal" at the Individual Level
 
 When a sperm fertilizes an egg, there’s no mechanism that says:
 
@@ -557,6 +558,7 @@ Y sperm → boy
 
 
 Each individual's outcome is purely random, without feedback from society or nature about what’s "needed."
+
 """
 
 Source: https://chatgpt.com/share/6885b686-8958-8007-868d-d65d4d376408
