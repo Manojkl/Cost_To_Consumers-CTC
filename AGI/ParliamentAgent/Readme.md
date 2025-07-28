@@ -18,3 +18,6 @@ In addition to tracking discussions, the agent also:
 	•	Suggests optimal time allocation for discussions on various topics to ensure meaningful and balanced debate.
 
  - Create a report on the same.
+
+This agent can be extended to any platform or application that involves discussions, debates, or deliberations, 
+making it useful beyond parliamentary settings — such as corporate meetings, academic forums, public consultations, and policy reviews...
