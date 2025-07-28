@@ -84,3 +84,5 @@ Benchmark the dexterity, seamless transition of a humanoid robots while maintain
 - Benchmark the quality of LLM response 
 
 Benchmark Civilized Behaviour of Individuals by region
+
+- Benchmark the prioritising capability by importance of llm, vlm from set of given topics 
