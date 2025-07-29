@@ -648,3 +648,134 @@ A assistant for Doctor, then in future act as independent doctor.
 
 A **Doctor Agent** is powerful for virtual guidance, education, and triage.  
 A **Humanoid Doctor** combines that with physical interaction, enabling a robotic presence in medical settings — ideal where human access is limited or risky.
+
+# 🩺 Comprehensive List of Tasks Performed by Doctors and Nurses
+
+---
+
+## 👨‍⚕️ DOCTORS
+
+### 1. Clinical Diagnosis & Assessment
+- Review patient history
+- Conduct physical examinations
+- Order and interpret diagnostic tests (blood work, imaging)
+- Develop differential diagnosis
+- Diagnose diseases or injuries
+- Reassess patients periodically
+
+### 2. Treatment & Management
+- Prescribe medications
+- Recommend procedures or surgeries
+- Manage chronic conditions (e.g., diabetes, hypertension)
+- Perform minor procedures (e.g., sutures, injections)
+- Adjust treatment plans based on progress
+
+### 3. Surgical and Procedural Work
+- Perform surgeries (general or specialty-specific)
+- Assist in operating room (OR)
+- Conduct endoscopies, biopsies, etc.
+
+### 4. Medical Documentation
+- Write SOAP notes (Subjective, Objective, Assessment, Plan)
+- Fill discharge summaries
+- Document diagnosis, procedures, and follow-up instructions
+
+### 5. Patient Interaction & Communication
+- Explain diagnoses, test results, treatment options
+- Obtain informed consent
+- Counsel patients and families on prognosis
+- Discuss end-of-life decisions if applicable
+
+### 6. Coordination & Teamwork
+- Collaborate with nurses, specialists, physiotherapists
+- Refer to other doctors/specialties when needed
+- Participate in multidisciplinary meetings
+
+### 7. Emergency Care
+- Respond to emergency codes (e.g., Code Blue)
+- Perform CPR and life-saving interventions
+- Stabilize trauma or critically ill patients
+
+### 8. Preventive & Public Health
+- Recommend vaccinations
+- Provide lifestyle and wellness counseling
+- Conduct screening programs (cancer, diabetes, etc.)
+
+### 9. Teaching and Research
+- Train interns and medical students
+- Conduct or participate in clinical trials
+- Write or review research papers
+
+### 10. Legal and Ethical Duties
+- Maintain confidentiality
+- Report notifiable diseases or abuse cases
+- Certify death, disability, or fitness
+
+---
+
+## 👩‍⚕️ NURSES
+
+### 1. Direct Patient Care
+- Monitor vital signs (BP, HR, temperature, SpO₂)
+- Administer medications (oral, IV, IM, subcutaneous)
+- Assist with ADLs (Activities of Daily Living): bathing, feeding, dressing
+- Provide wound care and dressing changes
+- Insert/remove IVs and catheters
+- Observe and report symptoms or changes
+
+### 2. Documentation & Records
+- Maintain nursing notes and charts
+- Document medication administration (MAR)
+- Update patient progress notes
+
+### 3. Medication Management
+- Prepare and administer prescribed drugs
+- Double-check high-risk medications
+- Monitor for side effects or adverse reactions
+
+### 4. Patient Education
+- Teach self-care (e.g., insulin administration, wound care)
+- Explain medication use and side effects
+- Guide discharge and post-op instructions
+
+### 5. Coordination & Communication
+- Relay patient condition updates to doctors
+- Coordinate with lab, pharmacy, physiotherapy, etc.
+- Handle shift handovers with nursing reports
+
+### 6. Emergency Response
+- Perform CPR
+- Assist during code situations
+- Prepare emergency medications/equipment
+
+### 7. Supportive and Emotional Care
+- Provide emotional support to patients and families
+- Offer grief or bereavement support
+- Ensure patient comfort and dignity
+
+### 8. Equipment and Environment Management
+- Maintain cleanliness and safety of patient area
+- Sterilize instruments and handle biomedical waste
+- Ensure functioning of monitors, IV pumps, beds
+
+### 9. Administrative Tasks
+- Manage ward/patient bed allocation
+- Schedule diagnostic tests and follow-ups
+- Handle patient admissions, transfers, discharges
+
+---
+
+## 🧩 Summary Table
+
+| Task Category             | Doctors                             | Nurses                                 |
+|--------------------------|--------------------------------------|----------------------------------------|
+| Diagnosis & Assessment   | ✓ History, Exams, Diagnosis          | ✓ Vitals, Observations                 |
+| Treatment                | ✓ Prescribe, Plan, Procedures        | ✓ Administer meds, Basic care          |
+| Documentation            | ✓ Notes, Summaries                   | ✓ Charts, MAR, Progress Notes          |
+| Patient Interaction      | ✓ Explain diagnosis, Consent         | ✓ Education, Emotional support         |
+| Emergency Care           | ✓ Code response, Stabilization       | ✓ CPR, Assist doctors                  |
+| Team Coordination        | ✓ With other specialists             | ✓ With labs, pharmacy, other nurses    |
+| Preventive Care          | ✓ Vaccines, Screenings               | ✓ Counseling, Preventive education     |
+| Surgical Tasks           | ✓ Operate, Assist                    | ✓ Prep OT, Support in surgeries        |
+| Teaching & Research      | ✓ Guide students, Research papers    | ✓ On-the-job training                  |
+| Legal Duties             | ✓ Certify, Report                    | ✓ Follow regulations, Report incidents |
