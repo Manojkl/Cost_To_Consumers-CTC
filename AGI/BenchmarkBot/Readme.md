@@ -86,4 +86,4 @@ Benchmark the dexterity, seamless transition of a humanoid robots while maintain
 Benchmark Civilized Behaviour of Individuals by region
 
 - Benchmark the prioritising capability by importance of llm, vlm from set of given topics 
-- Benchmark behaviour extraction from words and speech
+- Benchmark Characteristics/Behaviour extraction from words and speech
