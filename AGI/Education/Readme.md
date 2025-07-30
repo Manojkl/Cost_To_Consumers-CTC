@@ -219,3 +219,60 @@ These vary wildly in terms of **curriculum rigor, test design, and quality check
 * Global goals like **SDG 4** try to define what "quality" means, but **implementation and monitoring vary**.
 
 Teach children past, present, future aspects of country,...etc.
+
+
+## News Agent Exam 
+
+### 📰 News Agent Exam Structure for Students
+
+A structured format to assess students' awareness, comprehension, and analysis of current affairs.
+
+---
+
+## 🧪 Proposed Sections & Weightage
+
+| Section Name                   | Description                                                                 | Skills Tested                      | Weightage |
+|-------------------------------|-----------------------------------------------------------------------------|------------------------------------|-----------|
+| **1. Current Affairs (MCQ)**  | Factual questions from the last 1–3 months                                  | Recall, Awareness                  | **30%**   |
+| **2. News Comprehension**     | Passage from a recent news article followed by questions                    | Reading, Comprehension             | **15%**   |
+| **3. News Summarization**     | Summarize a short article in 4–5 lines                                      | Precision, Language, Understanding | **10%**   |
+| **4. Opinion-based Question** | Write your view on a current issue (e.g., "Is social media affecting democracy?") | Critical Thinking, Expression      | **15%**   |
+| **5. Visual-Based Questions** | Read and interpret charts, graphs, or news images                           | Interpretation, Analysis           | **10%**   |
+| **6. Fake News Detection**    | Identify fake or misleading headlines/articles                              | Media Literacy, Judgment           | **10%**   |
+| **7. Who Said What / Quotes** | Match public figures to recent quotes or events                             | Recall, Awareness                  | **5%**    |
+| **8. News in Numbers**        | Questions based on data points (e.g., inflation rate, medal tally, GDP)     | Data Literacy                      | **5%**    |
+
+---
+
+## 🧠 Topic Coverage Breakdown (for MCQs, Comprehension, and Opinion)
+
+| Topic Area             | Suggested Coverage |
+|------------------------|--------------------|
+| **National News**       | 25%                |
+| **International News**  | 15%                |
+| **Science & Technology**| 15%                |
+| **Environment & Climate**| 10%               |
+| **Economy & Business**  | 10%                |
+| **Sports & Culture**    | 10%                |
+| **Governance & Law**    | 10%                |
+| **Awards & Recognitions**| 5%                |
+
+---
+
+## 🎯 Suggested Adjustments by Age Group
+
+- **Middle School (11–14 years)**:
+  - Use simpler language
+  - Include more visual and MCQ-based questions
+
+- **High School (15–18 years)**:
+  - Increase emphasis on opinion writing and comprehension
+  - Add basic data interpretation
+
+- **College Level**:
+  - Include deeper analysis and long-form opinion-based questions
+  - Introduce policy or global issue analysis
+
+---
+
+✅ *This format balances knowledge testing with reasoning and real-world application.*
