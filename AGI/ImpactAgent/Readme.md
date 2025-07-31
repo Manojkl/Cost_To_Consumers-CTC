@@ -102,3 +102,5 @@ Improve based on error analysis and feedback
 An AI Impact Agent is not just about performing tasks—it’s about creating real-world, trackable value. It must act, measure, learn, and adapt continuously to sustain long-term positive outcomes.
 
 Also find discrepancy, quality in someone's work.
+
+- Tracks and measures the efforts invested
