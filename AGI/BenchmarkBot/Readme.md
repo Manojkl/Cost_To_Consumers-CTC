@@ -90,3 +90,4 @@ Benchmark Civilized Behaviour of Individuals by region
 - Benchmark the impact, quality measures of individuals work
 - Benchmark the efforts measuring 
 - Benchmark the rating agents 
+- Benchmark the difficulty level detection, resources detection of a agent 
