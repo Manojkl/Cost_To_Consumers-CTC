@@ -87,3 +87,6 @@ Benchmark Civilized Behaviour of Individuals by region
 
 - Benchmark the prioritising capability by importance of llm, vlm from set of given topics 
 - Benchmark Characteristics/Behaviour extraction from words and speech
+- Benchmark the impact, quality measures of individuals work
+- Benchmark the efforts measuring 
+- 
