@@ -4,6 +4,10 @@
 
 ### Working with AI: Measuring the Occupational Implications of Generative AI
 
+[Paper](https://arxiv.org/pdf/2507.07935)
+
+Date: 01/08/2025
+
 **Summary:**
 
 The study examines Bing Copilot conversations to understand how people use AI in work-related tasks, what tasks AI is capable of, and the implications for different occupations. A key outcome is an **AI applicability score** that reflects how well AI can support or perform tasks in various jobs.
