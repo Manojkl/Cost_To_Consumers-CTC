@@ -6,3 +6,7 @@ A llm that captures the entire information in a video (along with audio) domain 
 Is it advantage to translate to other domains rather than remaining in original domain in terms of performance and other parameters?
 
 Model that generate embedding based on text and video data.
+
+## Video Problem Extraction 
+
+Given video of a interview, extract problem, challenges discussed in the video. And take that problem and create competition of the same.
