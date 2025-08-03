@@ -168,3 +168,5 @@ Cultural or political content decoding
 Enhanced search based on meaning, not just keywords
 
 Education and therapy tools
+
+Source: https://chatgpt.com/share/688f027d-df7c-8007-9a7e-0b1232aac8e8
