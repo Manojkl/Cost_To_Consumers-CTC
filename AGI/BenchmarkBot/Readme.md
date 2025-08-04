@@ -91,3 +91,10 @@ Benchmark Civilized Behaviour of Individuals by region
 - Benchmark the efforts measuring 
 - Benchmark the rating agents 
 - Benchmark the difficulty level detection, resources detection of a agent 
+
+# Electrical and Mechanical Equipment Benchmarking 
+
+Benchmark all the electric, mechanical equipment.
+Live stream them on media, like youtube.
+
+Generate report on the same.
