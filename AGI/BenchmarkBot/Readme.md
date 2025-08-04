@@ -94,7 +94,14 @@ Benchmark Civilized Behaviour of Individuals by region
 
 # Electrical and Mechanical Equipment Benchmarking 
 
-Benchmark all the electric, mechanical equipment. Create competition on the same area.
+Benchmark all the electric, mechanical equipment.
+Create competition on the same area.
+
 Live stream them on media, like youtube.
+
+Method 
+
+- Direct equipment from manufacturer 
+- Sampled equipment from market 
 
 Generate report on the same.
