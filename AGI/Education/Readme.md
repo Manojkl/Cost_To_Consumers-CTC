@@ -276,3 +276,15 @@ A structured format to assess students' awareness, comprehension, and analysis o
 ---
 
 ✅ *This format balances knowledge testing with reasoning and real-world application.*
+
+## Vocabulary Test
+
+General public → ~200 words.
+
+Students/professionals (non-IT) → ~500 words.
+
+IT professionals / CS students → ~2,000–3,000 words.
+
+Researchers/domain specialists → 10,000+.
+
+### Test students' understanding of a random sentence given the context. 
