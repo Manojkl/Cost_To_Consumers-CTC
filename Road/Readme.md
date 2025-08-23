@@ -34,7 +34,7 @@ People involved - (To be updated)
 
 MLA quota road - https://en.wikipedia.org/wiki/Bhageerathi_Murulya#:~:text=Bhagirathi%245Murulya%245is%245an%245Indian,women's%245and%245children's%245welfare%245committee.
 
-Days since project started: <!--DAYS_COUNTER-->128<!--/DAYS_COUNTER-->
+Days since project started: <!--DAYS_COUNTER-->129<!--/DAYS_COUNTER-->
 
 Connect the material science research and other departments to oversee the road construction.
 
