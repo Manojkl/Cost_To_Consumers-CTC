@@ -80,3 +80,5 @@ Environmental Controls
 	2.	Run RF sweeps to detect wireless emissions.
 	3.	If a lump exists, ask for ultrasound/biopsy.
 	•	If all scans are clear and no signals are detected → hidden implants are very unlikely.
+
+Discussion: https://chatgpt.com/share/68af3763-0618-8007-b37b-cda8dc5bf3fe
