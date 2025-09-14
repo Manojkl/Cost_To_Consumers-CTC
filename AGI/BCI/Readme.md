@@ -82,3 +82,10 @@ Environmental Controls
 	•	If all scans are clear and no signals are detected → hidden implants are very unlikely.
 
 Discussion: https://chatgpt.com/share/68af3763-0618-8007-b37b-cda8dc5bf3fe
+
+US & Europe Remember this:
+
+![img2_us_europe](https://github.com/user-attachments/assets/48176060-c1f1-4981-b8e6-4131132962f4)
+![img1_us_europe](https://github.com/user-attachments/assets/522e7621-0ca6-47d7-82d5-b867a8903e10)
+![img3_us_europe](https://github.com/user-attachments/assets/63b07fe5-d1cb-4644-9e80-dd8af59d6751)
+
