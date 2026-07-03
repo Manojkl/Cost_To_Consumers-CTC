@@ -49,6 +49,10 @@ Goals for India on road infrastructure, Central and State governments.
 
 Make a plan release it to public get the feedback and update the same.
 
- 
+Project completed on - May/2026
 
+Condition of road on 03/07/2026 - 
+![IMG1](https://ibb.co/kVQFyJzM) - Location - https://maps.app.goo.gl/qWELkYQj3gB6j3h6A
+
+![IMG2](https://ibb.co/Q7pjbpBY) - Location - https://maps.app.goo.gl/vfZg1AzDCqyfWBZz9
 
