@@ -11,7 +11,7 @@
 * **Anti-Manipulation & Recommendation Reverse-Engineering:** A unique defensive application of Artificial Intelligence. The system analyzes an individual's data consumption footprint (including watched videos, liked content, wording, and time spent) to reverse-engineer standard platform recommendation algorithms, alerting users if they are being behaviorally or ideologically manipulated.
 * **Corruption & Public Accountability:** Strict monitoring systems to track government spending, infrastructural project execution (roads, construction), company profit margins, wealth distribution inequality, and employment metrics. The system maintains an absolute highest-priority triage for detecting data manipulation within its own dataset to ensure ultimate transparency.
 
-### AI Systems
+### AI Systems (AGI, ASI, AI Agents,..)
 
 Open-source tools built to help humanity solve both its day-to-day and profound challenges, improving life on Earth while actively minimizing negative outcomes. From this foundation, these systems will propel humanity beyond our planet and solar system, pushing the boundaries of intelligence to redefine what is possible across every field of human endeavor. Ultimately, this path leads to an entity capable of matching or surpassing human intelligence, operating independently within a secure, controlled framework with guradrail in place.
 
